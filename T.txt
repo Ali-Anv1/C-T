@@ -4406,6 +4406,13 @@ rules:
   - GEOIP,IR,DIRECT
   - RULE-SET,ir,DIRECT
   - RULE-SET,ir-cidr,DIRECT
+
+  # ===== Fragment ♠️ =====
+  - DOMAIN,fragment.com,Fragment ♠️
+  - DOMAIN-SUFFIX,fragment.com,Fragment ♠️
+  - DOMAIN-SUFFIX,telegram.org,Fragment ♠️
+  - DOMAIN-SUFFIX,t.me,Fragment ♠️
+
   - MATCH,آشیانه ⛺️
 
 ntp:
