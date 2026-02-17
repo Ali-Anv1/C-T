@@ -72,844 +72,724 @@ sniffer:
     QUIC:
       ports: [443, 8443]
 proxies:
+  - name: "hamedp71🇨🇦"
+    type: ss
+    server: 79.127.200.169
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇺🇸"
+    type: ss
+    server: 156.146.38.167
+    port: 443
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🇺🇸 2"
+    type: ss
+    server: 156.146.38.170
+    port: 443
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🇺🇸 3"
+    type: ss
+    server: tinkered-pennies-puppies.freesocks.work
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: hbGrpfvNrJsUmKmPbR3iY2
+  - name: "hamedp71🇳🇱"
+    type: ss
+    server: 193.29.139.251
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇳🇱 2"
+    type: ss
+    server: 193.29.139.189
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: cvII85TrW6n0OGyfpHVS1u
+  - name: "hamedp71🇺🇸 4"
+    type: ss
+    server: 37.19.198.236
+    port: 443
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🇺🇸 5"
+    type: ss
+    server: 173.234.29.2
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️"
+    type: ss
+    server: 57.129.140.88
+    port: 8388
+    cipher: chacha20-ietf-poly1305
+    password: k1v5g9FefdoO
+  - name: "hamedp71🇳🇱 3"
+    type: ss
+    server: 193.29.139.141
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🏴‍☠️ 2"
+    type: ss
+    server: 82.38.31.194
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
   - name: "hamedp71🇬🇧"
+    type: ss
+    server: series-a1.samanehha.co
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: W74XFALLLuw6m5IA
+  - name: "hamedp71🇬🇧 2"
+    type: ss
+    server: series-a2.samanehha.co
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: W74XFALLLuw6m5IA
+  - name: "hamedp71🇳🇱 4"
+    type: ss
+    server: 82.38.31.82
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🏴‍☠️ 3"
+    type: ss
+    server: 193.29.139.217
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: QCXDxuDlTTMD7jtgHUjIoj
+  - name: "hamedp71🏴‍☠️ 4"
+    type: ss
+    server: 82.38.31.187
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 5"
+    type: ss
+    server: 193.29.139.206
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: 4a2rfixophdjffa8KVA4Aa
+  - name: "hamedp71🏴‍☠️ 6"
+    type: ss
+    server: 82.38.31.214
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇳🇱 5"
+    type: ss
+    server: 82.38.31.202
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇪🇨"
+    type: ss
+    server: 38.165.231.25
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 7"
+    type: ss
+    server: 82.38.31.210
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 8"
+    type: ss
+    server: 82.38.31.217
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 9"
+    type: ss
+    server: 82.38.31.218
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 10"
+    type: ss
+    server: 82.38.31.205
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 11"
+    type: ss
+    server: 82.38.31.99
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🏴‍☠️ 12"
+    type: ss
+    server: 193.29.139.157
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: 4a2rfixophdjffa8KVA4Aa
+  - name: "hamedp71🏴‍☠️ 13"
     type: ss
     server: admin.c2.havij.co
     port: 443
     cipher: chacha20-ietf-poly1305
     password: kaQH3hGdcP80XEDI
-  - name: "hamedp71🇵🇱"
-    type: vless
-    server: 144.31.3.35
+  - name: "hamedp71🇳🇱 6"
+    type: ss
+    server: 82.38.31.208
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇳🇱 7"
+    type: ss
+    server: 82.38.31.191
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇳🇱 8"
+    type: ss
+    server: 193.29.139.227
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: QCXDxuDlTTMD7jtgHUjIoj
+  - name: "hamedp71🇯🇵"
+    type: ss
+    server: 149.22.87.204
     port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
-      short-id: 4fa44664f6a566d3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇵🇱 2"
-    type: vless
-    server: 144.31.3.30
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🇵🇦"
+    type: ss
+    server: 138.186.142.80
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇿🇦"
+    type: ss
+    server: 156.38.168.58
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇲🇩"
+    type: ss
+    server: 23.95.76.59
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇲🇩 2"
+    type: ss
+    server: 176.123.5.253
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇰🇿"
+    type: ss
+    server: 109.61.39.28
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇺🇸 6"
+    type: ss
+    server: 156.146.38.169
     port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
-      short-id: 4fa44664f6a566d3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇺🇸"
-    type: vless
-    server: afrcloud22.mmv.kr
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🇱🇻"
+    type: ss
+    server: 46.183.217.204
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇲🇩 3"
+    type: ss
+    server: 45.154.204.7
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 14"
+    type: ss
+    server: 147.78.0.182
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇵🇰"
+    type: ss
+    server: 156.59.243.6
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇵🇦 2"
+    type: ss
+    server: 138.186.142.81
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 15"
+    type: ss
+    server: 176.123.1.175
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇮🇳"
+    type: ss
+    server: 82.180.146.173
+    port: 35652
+    cipher: aes-128-gcm
+    password: 93498539-7838-4836-b9b3-8311ffc79bcf
+  - name: "hamedp71🇳🇱 9"
+    type: ss
+    server: 213.109.147.242
+    port: 62685
+    cipher: chacha20-ietf-poly1305
+    password: VpKABcOpNNA0l5G2AVOmw8
+  - name: "hamedp71🏴‍☠️ 16"
+    type: ss
+    server: 193.135.174.135
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇸🇬"
+    type: ss
+    server: 38.89.142.56
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇬🇧 3"
+    type: ss
+    server: 141.98.101.182
     port: 443
-    uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
-    tls: true
-    servername: "afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /130.185.164.213=8443
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇩🇪"
-    type: vless
-    server: 192.124.178.227
-    port: 8443
-    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-    tls: true
-    servername: "sni.111000.indevs.in"
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: sni.111000.indevs.in
-    tfo: false
-    skip-cert-verify: true
+    cipher: aes-128-gcm
+    password: shadowsocks
   - name: "hamedp71🇫🇮"
     type: ss
-    server: 95.217.37.166
-    port: 2020
-    cipher: 2022-blake3-aes-128-gcm
-    password: ietXbfq03Vh8XCaxyCDIEg==
-  - name: "hamedp71🇩🇪 2"
-    type: vless
-    server: 108.162.195.45
-    port: 2096
-    uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
-    tls: true
-    servername: "hetz.x-smm.com"
-    network: ws
-    ws-opts:
-      path: /45.76.183.217=49292
-      headers:
-        host: hetz.x-smm.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓"
-    type: vless
-    server: 57.129.49.1
-    port: 23576
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    tls: true
-    client-fingerprint: chrome
-    servername: "fuck.rkn"
-    network: tcp
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: '01'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 3"
-    type: vless
-    server: de.vpnone.ru
-    port: 8443
-    uuid: 00dd814b-8e7c-401a-a06b-a3b4aaf78b16
-    tls: true
-    client-fingerprint: chrome
-    servername: "ya.ru"
-    network: tcp
-    reality-opts:
-      public-key: PycIxLERS3Kg4Kh7TQuiD1Kf9pNySxp5jMKEaIb_PjU
-      short-id: 4216490519225e
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱"
-    type: vless
-    server: 88.210.6.49
-    port: 4443
-    uuid: 65f98bdd-b437-4d7e-8bba-8ab70cc8ff37
-    tls: true
-    client-fingerprint: chrome
-    servername: "github.com"
-    network: tcp
-    reality-opts:
-      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
-      short-id: aa7e96542880027a
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 2"
-    type: vless
-    server: 162.19.10.94
+    server: promo18v.bystrivpn.ru
     port: 443
-    uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767
-    tls: true
-    servername: "nasnet-162191094-direct.sharghdaily.co"
-    network: tcp
-    tfo: false
-    skip-cert-verify: true
-    flow: xtls-rprx-vision
+    cipher: chacha20-ietf-poly1305
+    password: dAHM1pm8ag7KdlrUylQi6t
+  - name: "hamedp71🇪🇸"
+    type: ss
+    server: 154.70.207.97
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 17"
+    type: ss
+    server: 3.112.130.53
+    port: 8316
+    cipher: chacha20-ietf-poly1305
+    password: ljqdalu13..
+  - name: "hamedp71🇬🇧 4"
+    type: ss
+    server: 141.98.101.178
+    port: 443
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🏴‍☠️ 18"
+    type: ss
+    server: 3.1.195.148
+    port: 8319
+    cipher: chacha20-ietf-poly1305
+    password: ljqdalu13..
+  - name: "hamedp71🇵🇱"
+    type: ss
+    server: 89.223.93.176
+    port: 41348
+    cipher: chacha20-ietf-poly1305
+    password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA
   - name: "hamedp71🇫🇮 2"
-    type: vless
-    server: 45.15.127.107
-    port: 443
-    uuid: 8df8d701-38b4-5175-89ef-7447a1250e67
-    tls: true
-    client-fingerprint: chrome
-    servername: "eh.vk.com"
-    network: tcp
-    reality-opts:
-      public-key: 3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk
-      short-id: e3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 4"
-    type: vless
-    server: de3.pineappled.org
-    port: 443
-    uuid: 18f72be7-0651-4037-928b-8a309d685796
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
-      short-id: 9eb31eb7572c0882
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱 2"
-    type: trojan
-    server: www.multiplydose.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: ''
-    network: ws
-    ws-opts:
-      path: /assignment
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇩🇪 5"
-    type: vless
-    server: vnn.vpnfreedom.tech
-    port: 443
-    uuid: cc976b15-418b-4f0b-89ce-cd685ffbaf20
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc
-      short-id: '81'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱 3"
-    type: vless
-    server: 212.34.142.191
-    port: 8443
-    uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9
-    tls: true
-    client-fingerprint: chrome
-    servername: "tradingview.com"
-    network: tcp
-    reality-opts:
-      public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY
-      short-id: f7aa9e61197d3ac6
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱 4"
-    type: vless
-    server: 84.54.48.238
-    port: 443
-    uuid: a25806c0-0e09-46a2-bd27-a94e92285ce9
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.amd.com"
-    network: tcp
-    reality-opts:
-      public-key: SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0
-      short-id: 3cc8ceccd9de7f
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 6"
-    type: vless
-    server: de2.pineappled.org
-    port: 443
-    uuid: 18f72be7-0651-4037-928b-8a309d685796
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
-      short-id: 9eb31eb7572c0882
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 7"
-    type: vless
-    server: 138.124.186.157
-    port: 443
-    uuid: ee750cca-f549-4e78-8648-a6b762953e70
-    tls: true
-    servername: "deu542.globalunlock.org"
-    network: tcp
-    tfo: false
-    skip-cert-verify: true
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇷"
-    type: trojan
-    server: chatgpt.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 3"
-    type: vless
-    server: nyc.cdn.stun.su
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "nyc.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w
-      short-id: 1c8eebcb20f6d0ce
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 4"
-    type: vless
-    server: fr.pineappled.org
-    port: 443
-    uuid: 18f72be7-0651-4037-928b-8a309d685796
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
-      short-id: 9eb31eb7572c0882
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 8"
-    type: vless
-    server: best.pineappled.org
-    port: 443
-    uuid: 18f72be7-0651-4037-928b-8a309d685796
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
-      short-id: 9eb31eb7572c0882
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
+    type: ss
+    server: 95.164.113.198
+    port: 53829
+    cipher: chacha20-ietf-poly1305
+    password: Kbm3xoK04p4OhoqVpEzdlj
+  - name: "hamedp71🇳🇱 10"
+    type: ss
+    server: 82.38.31.179
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇳🇱 11"
+    type: ss
+    server: 193.29.139.179
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: cvII85TrW6n0OGyfpHVS1u
+  - name: "hamedp71🇩🇪"
+    type: ss
+    server: 38.60.250.107
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   - name: "hamedp71🇫🇮 3"
-    type: vless
-    server: 64.188.73.12
-    port: 443
-    uuid: 99bd2791-8e27-435b-a1e2-c9b625101af9
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.intel.com"
-    network: tcp
-    reality-opts:
-      public-key: PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU
-      short-id: d91248fbca
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 9"
-    type: vless
-    server: 156.243.83.167
-    port: 2087
-    uuid: 9f582467-6af2-4bdd-848e-93fdd84486ad
-    tls: true
-    servername: "ce.xo-connection.ir"
-    network: ws
-    ws-opts:
-      path: /darkstrange
-      headers:
-        host: ce.xo-connection.ir
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇷🇺"
-    type: vless
-    server: 104.128.134.181
-    port: 34816
-    uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45
-    tls: true
-    servername: "''"
-    network: tcp
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 5"
-    type: vless
-    server: de.cdn.stun.su
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "de.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA
-      short-id: 4daa022e84f8edf2
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇺🇸 2"
-    type: vless
-    server: 104.16.2.90
-    port: 443
-    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
-    tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇳🇱 5"
-    type: vless
-    server: 45.134.218.222
-    port: 443
-    uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4
-    tls: true
-    client-fingerprint: chrome
-    servername: "stats.vk-portal.net"
-    network: tcp
-    reality-opts:
-      public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg
-      short-id: d4727968a1fae56f
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 6"
-    type: vless
-    server: 162.159.36.5
-    port: 2053
-    uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
-    tls: true
-    servername: "ir1.airpanel.top"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: ir1.airpanel.top
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇩🇪 10"
-    type: vless
-    server: norman.ns.cloudflare.com
-    port: 2096
-    uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
-    tls: true
-    servername: "hetz.x-smm.com"
-    network: ws
-    ws-opts:
-      path: /45.76.183.217=49292
-      headers:
-        host: hetz.x-smm.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇷🇺 2"
-    type: vless
-    server: rus3.worldunlocked.org
-    port: 8443
-    uuid: 0e4865bf-811e-44e8-90ce-233ecf209b0b
-    tls: true
-    servername: "rus3.worldunlocked.org"
-    network: ws
-    ws-opts:
-      path: /ws-vless/
-      headers:
-        host: rus3.worldunlocked.org
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇱🇹"
-    type: vless
-    server: 5.199.163.42
-    port: 8443
-    uuid: ff6fb512-147d-419a-9672-e131133f7189
-    tls: true
-    client-fingerprint: chrome
-    servername: "tradingview.com"
-    network: tcp
-    reality-opts:
-      public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA
-      short-id: e0ef3d5c0aacb615
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 7"
-    type: vless
-    server: 162.159.36.20
-    port: 2053
-    uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
-    tls: true
-    servername: "ir1.airpanel.top"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: ir1.airpanel.top
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 8"
-    type: vless
-    server: 104.18.185.26
-    port: 443
-    uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
-    tls: true
-    servername: "apii.onlineshoppingez.ir"
-    network: ws
-    ws-opts:
-      path: /O1w0n3vYgFKYs7EzNAvLPvOp
-      headers:
-        host: apii.onlineshoppingez.ir
-    tfo: false
-    skip-cert-verify: true
+    type: ss
+    server: 178.17.61.67
+    port: 5790
+    cipher: chacha20-ietf-poly1305
+    password: qS3skwmolrQ70q842irQD0
+  - name: "hamedp71🏴‍☠️ 19"
+    type: ss
+    server: 82.38.31.199
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 20"
+    type: ss
+    server: 82.38.31.176
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 21"
+    type: ss
+    server: 82.38.31.184
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🇧🇬"
+    type: ss
+    server: 38.60.247.151
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 22"
+    type: ss
+    server: 185.93.173.60
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 23"
+    type: ss
+    server: 147.78.1.230
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇯🇵 2"
+    type: ss
+    server: 103.106.228.247
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   - name: "hamedp71🇫🇮 4"
-    type: vless
-    server: 95.217.37.166
-    port: 2052
-    uuid: 9909d579-0537-49df-90b9-3be5a4a86cc0
-    tls: true
-    client-fingerprint: chrome
-    servername: "apple.com"
-    network: tcp
-    reality-opts:
-      public-key: uZNnRUkTKnaIRcoqXiUa82-BZO-_hnXGEHWShvigEDM
-      short-id: 8f5f3d1c
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 11"
-    type: vless
-    server: 104.17.147.22
-    port: 2096
-    uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
-    tls: true
-    servername: "hetz.x-smm.com"
-    network: ws
-    ws-opts:
-      path: /45.76.183.217=49292
-      headers:
-        host: hetz.x-smm.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇷🇺 3"
-    type: vless
-    server: 85.239.37.168
+    type: ss
+    server: exchange.gameaurela.click
+    port: 52952
+    cipher: chacha20-ietf-poly1305
+    password: >-
+      LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
+  - name: "hamedp71🇵🇪"
+    type: ss
+    server: 138.186.143.32
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇪🇬"
+    type: ss
+    server: 38.54.59.180
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇺🇸 7"
+    type: ss
+    server: 154.17.31.189
+    port: 18829
+    cipher: aes-128-gcm
+    password: fa593414-7a76-4975-909b-7a7c46be123b
+  - name: "hamedp71🏴‍☠️ 24"
+    type: ss
+    server: 188.214.157.58
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 25"
+    type: ss
+    server: 103.97.203.227
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🇳🇱 12"
+    type: ss
+    server: 185.250.45.163
+    port: 4129
+    cipher: chacha20-ietf-poly1305
+    password: Kg5NRMdbXzKqMCO04CbOYb
+  - name: "hamedp71🇷🇴"
+    type: ss
+    server: bogging-eyeteeth-fly.freesocks.work
     port: 443
-    uuid: c343f67e-8781-4a8e-97e4-e74ab137eb1c
-    tls: true
-    client-fingerprint: chrome
-    servername: "m.vk.ru"
-    network: tcp
-    reality-opts:
-      public-key: Otp6rARZ7jSowG_Y7AyU7H_5KoEmmSipWNMW6cHOMmU
-      short-id: 0d33e856
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇷 2"
-    type: trojan
-    server: 172.64.152.23
+    cipher: chacha20-ietf-poly1305
+    password: QFWzCw2uX9B9i6qAYeFBIE
+  - name: "hamedp71🇲🇽"
+    type: ss
+    server: 89.223.88.33
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 7c31a67b41b18c26
+  - name: "hamedp71🇫🇷"
+    type: ss
+    server: 37.60.250.243
+    port: 20558
+    cipher: chacha20-ietf-poly1305
+    password: 455c15bc175b4d74
+  - name: "hamedp71🇬🇧 5"
+    type: ss
+    server: 51.75.168.50
+    port: 13030
+    cipher: chacha20-ietf-poly1305
+    password: 6c815bb84c781da5
+  - name: "hamedp71🇳🇱 13"
+    type: ss
+    server: 82.38.31.62
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇩🇪 2"
+    type: ss
+    server: 57.129.95.45
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 6675cbf62d6a3a4f
+  - name: "hamedp71🏴‍☠️ 26"
+    type: ss
+    server: 31.192.234.199
+    port: 5223
+    cipher: chacha20-ietf-poly1305
+    password: HLk7AlW3a8yY2eSrakJtEC
+  - name: "hamedp71🏴‍☠️ 27"
+    type: ss
+    server: 38.135.24.131
     port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇩🇪 12"
-    type: vless
-    server: 92.118.231.130
-    port: 4443
-    uuid: 65f98bdd-b437-4d7e-8bba-8ab70cc8ff37
-    tls: true
-    client-fingerprint: chrome
-    servername: "github.com"
-    network: tcp
-    reality-opts:
-      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
-      short-id: aa7e96542880027a
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 13"
-    type: vless
-    server: 144.31.87.206
-    port: 16779
-    uuid: 191ad29d-bca0-49b3-b267-2146d6fb1019
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: vthUYwmko8x_tMHse_cYB3S-qOzR3h9s4NcQRubf1B8
-      short-id: '06e2'
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇱🇻"
-    type: vless
-    server: lv.pineappled.org
+    cipher: chacha20-ietf-poly1305
+    password: hbGrpfvNrJsUmKmPbR3iY2
+  - name: "hamedp71🇺🇸 8"
+    type: ss
+    server: 62.146.224.145
+    port: 20591
+    cipher: chacha20-ietf-poly1305
+    password: d933225e6e380dad
+  - name: "hamedp71🏴‍☠️ 28"
+    type: ss
+    server: 82.38.31.190
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: k1dBOmOB4oqi7Ump37a1bQ
+  - name: "hamedp71🏴‍☠️ 29"
+    type: ss
+    server: 82.38.31.35
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇷🇺"
+    type: ss
+    server: basic-ru-1.undef.network
+    port: 35686
+    cipher: chacha20-ietf-poly1305
+    password: IElNXAaTf5U9WtbJerrgzP4Lf
+  - name: "hamedp71🇳🇱 14"
+    type: ss
+    server: 193.29.139.151
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇳🇱 15"
+    type: ss
+    server: 193.29.139.235
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇯🇵 3"
+    type: ss
+    server: 149.22.87.240
     port: 443
-    uuid: 18f72be7-0651-4037-928b-8a309d685796
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
-      short-id: 9eb31eb7572c0882
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱 6"
-    type: vless
-    server: 27.50.48.155
+    cipher: aes-128-gcm
+    password: shadowsocks
+  - name: "hamedp71🏴‍☠️ 30"
+    type: ss
+    server: 57.130.28.148
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 74918bc801d53a4b
+  - name: "hamedp71🇩🇪 3"
+    type: ss
+    server: 135.125.245.131
+    port: 20939
+    cipher: chacha20-ietf-poly1305
+    password: 85d3d8ccba287d3e
+  - name: "hamedp71🏴‍☠️ 31"
+    type: ss
+    server: 51.89.119.213
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 15b0573830081d01
+  - name: "hamedp71🇮🇳 2"
+    type: ss
+    server: 163.171.206.24
+    port: 44235
+    cipher: chacha20-ietf-poly1305
+    password: 9d97433688e7efd5
+  - name: "hamedp71🇺🇸 9"
+    type: ss
+    server: 147.135.77.6
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 7f9cb9aef317f096
+  - name: "hamedp71🇺🇸 10"
+    type: ss
+    server: 154.12.240.141
+    port: 80
+    cipher: aes-256-gcm
+    password: mK7eN3z276Tr0vVA
+  - name: "hamedp71🇺🇸 11"
+    type: ss
+    server: 94.72.127.58
     port: 443
-    uuid: ab321a49-bc9c-4bb6-915b-a1fcbc7de49c
-    tls: true
-    servername: "vbox1.ping-box.com"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 9"
-    type: vless
-    server: 172.67.153.156
-    port: 8443
-    uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
-    tls: true
-    servername: "ovhwuxian.pai50288.uk"
-    network: ws
-    ws-opts:
-      path: /57ba2ab1
-      headers:
-        host: ovhwuxian.pai50288.uk
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇷🇺 4"
-    type: vless
-    server: 85.192.32.30
+    cipher: aes-256-gcm
+    password: jJHq807bQ7TM0yOh
+  - name: "hamedp71🇵🇰 2"
+    type: ss
+    server: 154.205.145.37
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: 47509ba3679b9df9
+  - name: "hamedp71🇺🇸 12"
+    type: ss
+    server: 154.12.240.141
     port: 443
-    uuid: 50b95deb-6394-46c5-b88a-583e5b3ca7ee
-    tls: true
-    client-fingerprint: chrome
-    servername: "eh.vk.com"
-    network: tcp
-    reality-opts:
-      public-key: PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4
-      short-id: f69d7af2d5fc5e0c
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇺🇸 3"
-    type: vless
-    server: 104.16.2.90
-    port: 443
-    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
-    tls: true
-    servername: "Pulavpn11.afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /43.218.77.16=1443
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇩🇪 14"
-    type: vless
-    server: 64.188.64.59
-    port: 443
-    uuid: 12cb9911-a48d-4147-85cc-68dd678e94c6
-    tls: true
-    client-fingerprint: chrome
-    servername: "yandex.ru"
-    network: tcp
-    reality-opts:
-      public-key: iv8v94q9qxkMw5WSUc0obloyLVFNTsfyy9Y3FaGlj1k
-      short-id: efd29b2d25
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇺🇸 4"
-    type: vless
-    server: 104.16.2.90
-    port: 443
-    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
-    tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /43.218.77.16=1443
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇳🇱 7"
+    cipher: aes-256-gcm
+    password: mK7eN3z276Tr0vVA
+  - name: "hamedp71🇩🇪 4"
+    type: ss
+    server: 54.37.77.212
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: ef720f5b791a60f7
+  - name: "hamedp71🇳🇱 16"
+    type: ss
+    server: 82.38.31.61
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇬🇷"
+    type: ss
+    server: 38.54.29.57
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: cb955c8530320120
+  - name: "hamedp71🇲🇾"
+    type: ss
+    server: 38.54.97.247
+    port: 28026
+    cipher: chacha20-ietf-poly1305
+    password: 3bb08205cb6c8af0
+  - name: "hamedp71🏴‍☠️ 32"
+    type: ss
+    server: 119.159.245.24
+    port: 26736
+    cipher: chacha20-ietf-poly1305
+    password: 1d1bc54689ed4b75
+  - name: "hamedp71🏴‍☠️ 33"
     type: ss
     server: 82.38.31.69
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: oZIoA69Q8yhcQV8ka3Pa3A
-  - name: "hamedp71🇳🇱 8"
-    type: vless
-    server: 5.129.214.27
-    port: 4443
-    uuid: 65f98bdd-b437-4d7e-8bba-8ab70cc8ff37
-    tls: true
-    client-fingerprint: chrome
-    servername: "github.com"
-    network: tcp
-    reality-opts:
-      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
-      short-id: aa7e96542880027a
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
+  - name: "hamedp71🏴‍☠️ 34"
+    type: ss
+    server: 57.129.95.198
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: d6b0973401858b29
+  - name: "hamedp71🇮🇳 3"
+    type: ss
+    server: 82.180.146.173
+    port: 30607
+    cipher: aes-128-gcm
+    password: 162629d7-cb17-43b1-82c9-f9c7ae6cba70
+  - name: "hamedp71🇩🇪 5"
+    type: ss
+    server: 57.128.214.100
+    port: 12000
+    cipher: aes-256-gcm
+    password: 8JCsPssfgS8tiRwiMlhARg==
+  - name: "hamedp71🇳🇱 17"
+    type: ss
+    server: 136.244.100.113
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: yODLXVLz2FWNTFeSSng3Fm
+  - name: "hamedp71🇳🇱 18"
+    type: ss
+    server: 193.29.139.202
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71🇳🇱 19"
+    type: ss
+    server: backup.fleetfoxi.link
+    port: 44884
+    cipher: chacha20-ietf-poly1305
+    password: >-
+      2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw
+  - name: "hamedp71🏴‍☠️ 35"
+    type: ss
+    server: 193.29.139.157
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: QCXDxuDlTTMD7jtgHUjIoj
   - name: "hamedp71🇫🇮 5"
-    type: vless
-    server: fn.takovpn.ru
+    type: ss
+    server: 141.98.4.67
+    port: 52952
+    cipher: chacha20-ietf-poly1305
+    password: >-
+      LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
+  - name: "hamedp71🏴‍☠️ 36"
+    type: ss
+    server: 193.29.139.199
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: QCXDxuDlTTMD7jtgHUjIoj
+  - name: "hamedp71🏴‍☠️ 37"
+    type: ss
+    server: 193.29.139.157
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: cvII85TrW6n0OGyfpHVS1u
+  - name: "hamedp71🏴‍☠️ 38"
+    type: ss
+    server: 193.29.139.164
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: cvII85TrW6n0OGyfpHVS1u
+  - name: "hamedp71🏴‍☠️ 39"
+    type: ss
+    server: 45.159.250.190
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  - name: "hamedp71🏴‍☠️ 40"
+    type: ss
+    server: 38.244.136.233
     port: 443
-    uuid: 373a56eb-aaa9-4a92-b209-503dd916900f
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.vk.com"
-    network: tcp
-    reality-opts:
-      public-key: 3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI
-      short-id: 286e2d
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇰🇿"
-    type: vless
-    server: pvl.cdn.stun.su
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "pvl.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: TvWJyoXLia5sOkNEQFXyOBquJJZ3MR06vi_9y9LT5Rw
-      short-id: 13c84f9d95d681d4
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 10"
-    type: vless
-    server: br.pineappled.org
-    port: 443
-    uuid: 8a77b19a-36be-43ff-ace0-bc322aa4f1e3
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI
-      short-id: '99'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇮 6"
-    type: vless
-    server: 144.31.128.129
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "ae.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
-      short-id: 41a0b29e95aaea87
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇦🇹"
-    type: vless
-    server: 152.53.46.3
-    port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "au1.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4
-      short-id: 9c2378562188c3cb
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇮 7"
-    type: vless
-    server: 144.31.128.47
-    port: 443
-    uuid: a607f07f-2937-4c2c-aec6-363e0688abd2
-    tls: true
-    client-fingerprint: chrome
-    servername: "se-mirror.api.akenai.click"
-    network: tcp
-    reality-opts:
-      public-key: i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500
-      short-id: b91a73752053b039
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇩🇪 15"
-    type: vless
-    server: 185.236.26.58
-    port: 443
-    uuid: f74d98a4-9198-4f78-b921-47d4f4950953
-    tls: true
-    servername: "de3.teleport.lat"
-    network: tcp
-    tfo: false
-    skip-cert-verify: true
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 11"
-    type: vless
-    server: yesok42v2.ip4exordir.shop
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: true
-    servername: "''"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇩🇪 16"
-    type: vless
-    server: 212.192.246.57
-    port: 2087
-    uuid: 3dcd6767-ec3e-4eeb-9fa6-c70b8661072f
-    tls: true
-    client-fingerprint: chrome
-    servername: "refersion.com"
-    network: tcp
-    reality-opts:
-      public-key: DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ
-      short-id: e004
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇧🇷"
-    type: vless
-    server: br-m247-01.com
-    port: 8443
-    uuid: 03ea79e8-3e62-4fb0-9947-b64286e6b26d
-    tls: true
-    client-fingerprint: chrome
-    servername: "tradingview.com"
-    network: tcp
-    reality-opts:
-      public-key: _0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw
-      short-id: 57f5917841a2178f
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇳🇱 9"
-    type: trojan
-    server: 104.18.32.47
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.multiplydose.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.multiplydose.com
-    tfo: false
-    skip-cert-verify: true
+    cipher: chacha20-ietf-poly1305
+    password: dAHM1pm8ag7KdlrUylQi6t
+  - name: "hamedp71🏴‍☠️ 41"
+    type: ss
+    server: 185.5.38.111
+    port: 55988
+    cipher: chacha20-ietf-poly1305
+    password: >-
+      FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9
+  - name: "hamedp71🇯🇵 4"
+    type: ss
+    server: 103.106.228.175
+    port: 8009
+    cipher: aes-256-gcm
+    password: XKFKl2rULjIp74
+  - name: "hamedp71🇰🇿 2"
+    type: ss
+    server: kazakhstan28.clearorbitllc.com
+    port: 64855
+    cipher: chacha20-ietf-poly1305
+    password: UztHGw7oqsgCgQ6EvlXlSm
   - name: "🇷🇺@hamedvpns"
     type: vless
     server: 51.250.86.102
@@ -2668,67 +2548,125 @@ proxy-groups:
     interval: 30
     tolerance: 100
     proxies:
-      - "hamedp71🇵🇱"
-      - "hamedp71🇬🇧"
-      - "hamedp71🇵🇱 2"
+      - "hamedp71🇨🇦"
       - "hamedp71🇺🇸"
-      - "hamedp71🇩🇪"
-      - "hamedp71🇫🇮"
-      - "hamedp71🇩🇪 2"
-      - "hamedp71❓"
-      - "hamedp71🇩🇪 3"
-      - "hamedp71🇳🇱"
-      - "hamedp71❓ 2"
-      - "hamedp71🇫🇮 2"
-      - "hamedp71🇩🇪 4"
-      - "hamedp71🇳🇱 2"
-      - "hamedp71🇩🇪 5"
-      - "hamedp71🇳🇱 3"
-      - "hamedp71🇳🇱 4"
-      - "hamedp71🇩🇪 6"
-      - "hamedp71🇩🇪 7"
-      - "hamedp71🇫🇷"
-      - "hamedp71❓ 3"
-      - "hamedp71❓ 4"
-      - "hamedp71🇩🇪 8"
-      - "hamedp71🇫🇮 3"
-      - "hamedp71🇩🇪 9"
-      - "hamedp71🇷🇺"
-      - "hamedp71❓ 5"
       - "hamedp71🇺🇸 2"
-      - "hamedp71🇳🇱 5"
-      - "hamedp71❓ 6"
-      - "hamedp71🇩🇪 10"
-      - "hamedp71🇷🇺 2"
-      - "hamedp71🇱🇹"
-      - "hamedp71❓ 7"
-      - "hamedp71❓ 8"
-      - "hamedp71🇫🇮 4"
-      - "hamedp71🇩🇪 11"
-      - "hamedp71🇷🇺 3"
-      - "hamedp71🇫🇷 2"
-      - "hamedp71🇩🇪 12"
-      - "hamedp71🇩🇪 13"
-      - "hamedp71🇱🇻"
-      - "hamedp71🇳🇱 6"
-      - "hamedp71❓ 9"
-      - "hamedp71🇷🇺 4"
       - "hamedp71🇺🇸 3"
-      - "hamedp71🇩🇪 14"
+      - "hamedp71🇳🇱"
+      - "hamedp71🇳🇱 2"
       - "hamedp71🇺🇸 4"
+      - "hamedp71🇺🇸 5"
+      - "hamedp71🏴‍☠️"
+      - "hamedp71🇳🇱 3"
+      - "hamedp71🏴‍☠️ 2"
+      - "hamedp71🇬🇧"
+      - "hamedp71🇬🇧 2"
+      - "hamedp71🇳🇱 4"
+      - "hamedp71🏴‍☠️ 3"
+      - "hamedp71🏴‍☠️ 4"
+      - "hamedp71🏴‍☠️ 5"
+      - "hamedp71🏴‍☠️ 6"
+      - "hamedp71🇳🇱 5"
+      - "hamedp71🇪🇨"
+      - "hamedp71🏴‍☠️ 7"
+      - "hamedp71🏴‍☠️ 8"
+      - "hamedp71🏴‍☠️ 9"
+      - "hamedp71🏴‍☠️ 10"
+      - "hamedp71🏴‍☠️ 11"
+      - "hamedp71🏴‍☠️ 12"
+      - "hamedp71🏴‍☠️ 13"
+      - "hamedp71🇳🇱 6"
       - "hamedp71🇳🇱 7"
       - "hamedp71🇳🇱 8"
-      - "hamedp71🇫🇮 5"
+      - "hamedp71🇯🇵"
+      - "hamedp71🇵🇦"
+      - "hamedp71🇿🇦"
+      - "hamedp71🇲🇩"
+      - "hamedp71🇲🇩 2"
       - "hamedp71🇰🇿"
-      - "hamedp71❓ 10"
-      - "hamedp71🇫🇮 6"
-      - "hamedp71🇦🇹"
-      - "hamedp71🇫🇮 7"
-      - "hamedp71🇩🇪 15"
-      - "hamedp71❓ 11"
-      - "hamedp71🇩🇪 16"
-      - "hamedp71🇧🇷"
+      - "hamedp71🇺🇸 6"
+      - "hamedp71🇱🇻"
+      - "hamedp71🇲🇩 3"
+      - "hamedp71🏴‍☠️ 14"
+      - "hamedp71🇵🇰"
+      - "hamedp71🇵🇦 2"
+      - "hamedp71🏴‍☠️ 15"
+      - "hamedp71🇮🇳"
       - "hamedp71🇳🇱 9"
+      - "hamedp71🏴‍☠️ 16"
+      - "hamedp71🇸🇬"
+      - "hamedp71🇬🇧 3"
+      - "hamedp71🇫🇮"
+      - "hamedp71🇪🇸"
+      - "hamedp71🏴‍☠️ 17"
+      - "hamedp71🇬🇧 4"
+      - "hamedp71🏴‍☠️ 18"
+      - "hamedp71🇵🇱"
+      - "hamedp71🇫🇮 2"
+      - "hamedp71🇳🇱 10"
+      - "hamedp71🇳🇱 11"
+      - "hamedp71🇩🇪"
+      - "hamedp71🇫🇮 3"
+      - "hamedp71🏴‍☠️ 19"
+      - "hamedp71🏴‍☠️ 20"
+      - "hamedp71🏴‍☠️ 21"
+      - "hamedp71🇧🇬"
+      - "hamedp71🏴‍☠️ 22"
+      - "hamedp71🏴‍☠️ 23"
+      - "hamedp71🇯🇵 2"
+      - "hamedp71🇫🇮 4"
+      - "hamedp71🇵🇪"
+      - "hamedp71🇪🇬"
+      - "hamedp71🇺🇸 7"
+      - "hamedp71🏴‍☠️ 24"
+      - "hamedp71🏴‍☠️ 25"
+      - "hamedp71🇳🇱 12"
+      - "hamedp71🇷🇴"
+      - "hamedp71🇲🇽"
+      - "hamedp71🇫🇷"
+      - "hamedp71🇬🇧 5"
+      - "hamedp71🇳🇱 13"
+      - "hamedp71🇩🇪 2"
+      - "hamedp71🏴‍☠️ 26"
+      - "hamedp71🏴‍☠️ 27"
+      - "hamedp71🇺🇸 8"
+      - "hamedp71🏴‍☠️ 28"
+      - "hamedp71🏴‍☠️ 29"
+      - "hamedp71🇷🇺"
+      - "hamedp71🇳🇱 14"
+      - "hamedp71🇳🇱 15"
+      - "hamedp71🇯🇵 3"
+      - "hamedp71🏴‍☠️ 30"
+      - "hamedp71🇩🇪 3"
+      - "hamedp71🏴‍☠️ 31"
+      - "hamedp71🇮🇳 2"
+      - "hamedp71🇺🇸 9"
+      - "hamedp71🇺🇸 10"
+      - "hamedp71🇺🇸 11"
+      - "hamedp71🇵🇰 2"
+      - "hamedp71🇺🇸 12"
+      - "hamedp71🇩🇪 4"
+      - "hamedp71🇳🇱 16"
+      - "hamedp71🇬🇷"
+      - "hamedp71🇲🇾"
+      - "hamedp71🏴‍☠️ 32"
+      - "hamedp71🏴‍☠️ 33"
+      - "hamedp71🏴‍☠️ 34"
+      - "hamedp71🇮🇳 3"
+      - "hamedp71🇩🇪 5"
+      - "hamedp71🇳🇱 17"
+      - "hamedp71🇳🇱 18"
+      - "hamedp71🇳🇱 19"
+      - "hamedp71🏴‍☠️ 35"
+      - "hamedp71🇫🇮 5"
+      - "hamedp71🏴‍☠️ 36"
+      - "hamedp71🏴‍☠️ 37"
+      - "hamedp71🏴‍☠️ 38"
+      - "hamedp71🏴‍☠️ 39"
+      - "hamedp71🏴‍☠️ 40"
+      - "hamedp71🏴‍☠️ 41"
+      - "hamedp71🇯🇵 4"
+      - "hamedp71🇰🇿 2"
       
       
 rule-providers:
