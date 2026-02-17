@@ -3881,7 +3881,7 @@ proxy-groups:
     proxies: 
       - "انتخاب هوشمند 🧠"
       - "hamedp71⚡"
-	  - "Fragment ♠️"
+      - "Fragment ♠️"
       - "🇷🇺@hamedvpns"
       - "🇷🇺@hamedvpns 2"
       - "🇷🇺@hamedvpns 3"
@@ -4226,7 +4226,7 @@ proxy-groups:
     interval: 30
     tolerance: 100
     proxies: 
-	  - hamedvpns-F 🇦🇺
+      - hamedvpns-F 🇦🇺
       - hamedvpns-F 🇨🇦
       - hamedvpns-F 🇩🇪
       - hamedvpns-F 🇩🇪
