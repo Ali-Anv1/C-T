@@ -3880,8 +3880,8 @@ proxy-groups:
     type: select
     proxies: 
       - "انتخاب هوشمند 🧠"
-      - "hamedp71⚡"
       - "Fragment ♠️"
+      - "hamedp71⚡"
       - "🇷🇺@hamedvpns"
       - "🇷🇺@hamedvpns 2"
       - "🇷🇺@hamedvpns 3"
@@ -4225,9 +4225,9 @@ proxy-groups:
     url: "http://www.google.com/generate_204"
     interval: 30
     tolerance: 100
-    proxies: 
-      - hamedvpns-F 🇦🇺
+    proxies:
       - hamedvpns-F 🇨🇦
+      - hamedvpns-F 🇦🇺
       - hamedvpns-F 🇩🇪
       - hamedvpns-F 🇩🇪
       - hamedvpns-F 🇩🇪
