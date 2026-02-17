@@ -1424,7 +1424,6 @@ proxies:
     sni: www.nintendogames.net
     skip-cert-verify: true
     network: tcp
-    tfo: false
   - name: "hamedp71🇩🇪 28"
     type: vmess
     server: 57.129.25.22
