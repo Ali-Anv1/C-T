@@ -1559,7 +1559,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇺🇸 13"
@@ -1570,7 +1570,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇨🇦 2"
@@ -1581,7 +1581,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1595,7 +1595,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1609,7 +1609,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "ous3.dean52.top"
+    
     skip-cert-verify: true
     network: ws
     ws-opts:
@@ -1624,7 +1624,7 @@ proxies:
     alterId: 0
     cipher: none
     tls: true
-    servername: "v2ray1.dozapp.xyz"
+    
     skip-cert-verify: true
     network: ws
     ws-opts:
@@ -1639,7 +1639,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1654,7 +1654,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1669,7 +1669,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1684,7 +1684,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1699,7 +1699,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🏴‍☠️ 54"
@@ -1710,7 +1710,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1725,7 +1725,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1740,7 +1740,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1755,7 +1755,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1770,7 +1770,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1753598452.wpg27.xyz"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1785,7 +1785,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1800,7 +1800,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "c7.620720.xyz"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1815,7 +1815,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "''"
+    
     skip-cert-verify: true
     network: ws
     ws-opts:
@@ -1830,7 +1830,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1845,7 +1845,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1860,7 +1860,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1875,7 +1875,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1761214919.mv7wh.tech"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1890,7 +1890,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1761214910.74qxv.top"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1905,7 +1905,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1920,7 +1920,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇬🇧 9"
@@ -1931,7 +1931,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1946,7 +1946,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🏴‍☠️ 59"
@@ -1957,7 +1957,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇦🇪"
@@ -1968,7 +1968,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🏴‍☠️ 60"
@@ -1979,7 +1979,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "t1.620720.xyz"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -1994,7 +1994,7 @@ proxies:
     alterId: 0
     cipher: aes-128-gcm
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2009,7 +2009,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2024,7 +2024,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2039,7 +2039,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "sy4.620720.xyz"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2054,7 +2054,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2069,7 +2069,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2084,7 +2084,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2099,7 +2099,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇫🇷 8"
@@ -2110,7 +2110,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "frsys.fl-dl.com"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2125,7 +2125,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🇹🇷 3"
@@ -2136,7 +2136,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2151,7 +2151,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🏴‍☠️ 65"
@@ -2162,7 +2162,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2177,7 +2177,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2192,7 +2192,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "v2ray.codefyinc.com"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2207,7 +2207,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2223,7 +2223,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: tcp
   - name: "hamedp71🏴‍☠️ 70"
@@ -2234,7 +2234,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2249,7 +2249,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2264,7 +2264,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2279,7 +2279,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2294,7 +2294,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2309,7 +2309,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2324,7 +2324,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2339,7 +2339,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2354,7 +2354,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2368,7 +2368,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2383,7 +2383,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2397,7 +2397,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1753598448.74qxv.top"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2412,7 +2412,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "frsys.fl-dl.com"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2427,7 +2427,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2441,7 +2441,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1753598451.74qxv.top"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2456,7 +2456,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2471,7 +2471,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "sgal.dagrate.eu.org"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2486,7 +2486,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "hgtrojan.zabc.net"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2501,7 +2501,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "n1761214902.wpg27.xyz"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2516,7 +2516,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "ous3.dean52.top"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2531,7 +2531,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: true
-    servername: "ous3.dean52.top"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2546,7 +2546,7 @@ proxies:
     alterId: 0
     cipher: auto
     tls: false
-    servername: "''"
+    
     skip-cert-verify: false
     network: ws
     ws-opts:
@@ -2560,7 +2560,7 @@ proxies:
     uuid: 2b519523-4ed0-4a22-95f1-d6d495278a7c
     tls: true
     client-fingerprint: chrome
-    servername: "dropbox.com"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -2574,7 +2574,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "pvl.cdn.stun.su"
+    
     network: tcp
     reality-opts:
       public-key: TvWJyoXLia5sOkNEQFXyOBquJJZ3MR06vi_9y9LT5Rw
@@ -2588,7 +2588,7 @@ proxies:
     port: 10002
     uuid: 9ddcc700-0688-11f1-81b6-43ab7c0441e4
     tls: true
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vpnjantit
@@ -2601,7 +2601,7 @@ proxies:
     uuid: 50b95deb-6394-46c5-b88a-583e5b3ca7ee
     tls: true
     client-fingerprint: chrome
-    servername: "eh.vk.com"
+    
     network: tcp
     reality-opts:
       public-key: PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4
@@ -2616,7 +2616,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "nyc.cdn.stun.su"
+    
     network: tcp
     reality-opts:
       public-key: u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w
@@ -2631,7 +2631,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "ae.cdn.stun.su"
+    
     network: tcp
     reality-opts:
       public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
@@ -2646,7 +2646,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2661,7 +2661,7 @@ proxies:
     uuid: 32561144-434f-4752-a731-f35cd191ba4a
     tls: true
     client-fingerprint: chrome
-    servername: "nl.roblugo.su"
+    
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -2676,7 +2676,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "au1.scroogethebest.com"
+    
     network: tcp
     reality-opts:
       public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4
@@ -2691,7 +2691,7 @@ proxies:
     uuid: 77da92aa-12ad-4370-b9be-25a86bc58c39
     tls: true
     client-fingerprint: chrome
-    servername: "frserv.zaubex.online"
+    
     network: tcp
     reality-opts:
       public-key: u2EbbN6nSieQdOlr1IaND9mfIuOkuLP8tgTHNjmJZ04
@@ -2706,7 +2706,7 @@ proxies:
     uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4
     tls: true
     client-fingerprint: chrome
-    servername: "stats.vk-portal.net"
+    
     network: tcp
     reality-opts:
       public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg
@@ -2721,7 +2721,7 @@ proxies:
     uuid: 32561144-434f-4752-a731-f35cd191ba4a
     tls: true
     client-fingerprint: chrome
-    servername: "spb.roblugo.su"
+    
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -2736,7 +2736,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "usa.scroogethebest.com"
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2751,7 +2751,7 @@ proxies:
     uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b
     tls: true
     client-fingerprint: chrome
-    servername: "pl-modx.webedg.net"
+    
     network: tcp
     reality-opts:
       public-key: rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM
@@ -2764,7 +2764,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -2779,7 +2779,7 @@ proxies:
     uuid: 99bd2791-8e27-435b-a1e2-c9b625101af9
     tls: true
     client-fingerprint: chrome
-    servername: "www.intel.com"
+    
     network: tcp
     reality-opts:
       public-key: PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU
@@ -2794,7 +2794,7 @@ proxies:
     uuid: a3fe5511-06e8-4f9c-8d86-a2b7d94ba402
     tls: true
     client-fingerprint: chrome
-    servername: "www.samsung.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -2808,7 +2808,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "nl.jojack.ru"
+    
     network: tcp
     reality-opts:
       public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4
@@ -2822,7 +2822,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -2836,7 +2836,7 @@ proxies:
     port: 26480
     uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2847,7 +2847,7 @@ proxies:
     uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b
     tls: true
     client-fingerprint: chrome
-    servername: "de-convert.webedg.net"
+    
     network: tcp
     reality-opts:
       public-key: d1PrrLqIGVQSZ5jUaLe-R67Ey8TJZN8WVkIJh0Xa_zc
@@ -2861,7 +2861,7 @@ proxies:
     uuid: 94712dd9-17d8-4813-a118-cc487fadd137
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    
     network: tcp
     reality-opts:
       public-key: eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE
@@ -2875,7 +2875,7 @@ proxies:
     uuid: 9fdd70da-b710-48b7-945a-642fe8937861
     tls: true
     client-fingerprint: chrome
-    servername: "hls-svod.itunes.apple.com"
+    
     network: tcp
     reality-opts:
       public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -2890,7 +2890,7 @@ proxies:
     uuid: 54fd9404-923c-45b4-88f8-5f6097eb0829
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: b8NtQQVV_K7uwM3aetyCznK4DHk3rb_ngogf8-Ro3FI
@@ -2903,7 +2903,7 @@ proxies:
     port: 443
     uuid: 0e90f352-e9bc-4834-8ff6-49ba887eded4
     tls: true
-    servername: "b12a6eea4807ca4e.1323.world"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2913,7 +2913,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "ficdn21.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2924,7 +2924,7 @@ proxies:
     uuid: b8ecd8ed-31a1-4a6a-853e-4a739e130791
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: z9b-IBdLSPMrMtRaToQtl92GobAYygfJRJ0ymOK6m0U
@@ -2937,7 +2937,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "lvcdn4.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2947,7 +2947,7 @@ proxies:
     port: 26480
     uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2958,7 +2958,7 @@ proxies:
     uuid: d9f21835-bc20-4668-94ad-53ce678004cc
     tls: true
     client-fingerprint: chrome
-    servername: "fin.1.babymelo.shop"
+    
     network: tcp
     reality-opts:
       public-key: SoTei6uBNm6Z5zYsn1evgnbDDWr2TKR0sNPVVrr5MQY
@@ -2972,7 +2972,7 @@ proxies:
     port: 443
     uuid: 0e90f352-e9bc-4834-8ff6-49ba887eded4
     tls: true
-    servername: "b12a6eea4807ca4e.1323.world"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -2983,7 +2983,7 @@ proxies:
     uuid: 18f72be7-0651-4037-928b-8a309d685796
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    
     network: tcp
     reality-opts:
       public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
@@ -2998,7 +2998,7 @@ proxies:
     uuid: 0ea0ce13-85c2-4e97-8903-ef1232a2a2c6
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    
     network: tcp
     reality-opts:
       public-key: cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8
@@ -3012,7 +3012,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "decdn12.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -3022,7 +3022,7 @@ proxies:
     port: 2345
     uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -3033,7 +3033,7 @@ proxies:
     uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    
     network: tcp
     reality-opts:
       public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A
@@ -3047,7 +3047,7 @@ proxies:
     port: 2087
     uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c
     tls: true
-    servername: "digikala.sorza.ir"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -3061,7 +3061,7 @@ proxies:
     port: 2087
     uuid: ff9fef0b-b3cd-4583-8841-b7ef1843880f
     tls: true
-    servername: "mehdi-cd.wordpresscrt.ir"
+    
     network: ws
     ws-opts:
       path: /path
@@ -3076,7 +3076,7 @@ proxies:
     uuid: 853d23ee-38c6-41bb-a51c-8aea6a25b0bd
     tls: true
     client-fingerprint: chrome
-    servername: "ea.com"
+    
     network: tcp
     reality-opts:
       public-key: 3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY
@@ -3090,7 +3090,7 @@ proxies:
     uuid: 8a77b19a-36be-43ff-ace0-bc322aa4f1e3
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    
     network: tcp
     reality-opts:
       public-key: CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI
@@ -3105,7 +3105,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "fran.scroogethebest.com"
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -3120,7 +3120,7 @@ proxies:
     uuid: ba77276e-9939-4c6c-a73e-90e02b6faf13
     tls: true
     client-fingerprint: chrome
-    servername: "hls-svod.itunes.apple.com"
+    
     network: tcp
     reality-opts:
       public-key: llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws
@@ -3135,7 +3135,7 @@ proxies:
     uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2
     tls: true
     client-fingerprint: chrome
-    servername: "apple.com"
+    
     network: tcp
     reality-opts:
       public-key: Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y
@@ -3149,7 +3149,7 @@ proxies:
     uuid: 3994b2e1-d52c-4536-9848-0b63d74560fa
     tls: true
     client-fingerprint: chrome
-    servername: "www.tradingview.com"
+    
     network: tcp
     reality-opts:
       public-key: q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc
@@ -3164,7 +3164,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "max.ru"
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3179,7 +3179,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -3194,7 +3194,7 @@ proxies:
     uuid: 7177f5c4-f26a-4ab5-820f-62cb6ba649f7
     tls: true
     client-fingerprint: chrome
-    servername: "apple.com"
+    
     network: tcp
     reality-opts:
       public-key: cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20
@@ -3209,7 +3209,7 @@ proxies:
     uuid: 2749534e-8bd1-45cf-8b17-c28bed9236c0
     tls: true
     client-fingerprint: chrome
-    servername: "wikimedia.org"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -3222,7 +3222,7 @@ proxies:
     port: 443
     uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -3233,7 +3233,7 @@ proxies:
     uuid: 5e18094c-18b1-4198-b211-96b40518cecf
     tls: true
     client-fingerprint: chrome
-    servername: "www.techradar.com"
+    
     network: tcp
     reality-opts:
       public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE
@@ -3248,7 +3248,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "pl.jojack.ru"
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -3263,7 +3263,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "pl.jojack.ru"
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -3278,7 +3278,7 @@ proxies:
     uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
     tls: true
     client-fingerprint: chrome
-    servername: "www.ibm.com"
+    
     network: tcp
     reality-opts:
       public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
@@ -3293,7 +3293,7 @@ proxies:
     uuid: a25806c0-0e09-46a2-bd27-a94e92285ce9
     tls: true
     client-fingerprint: chrome
-    servername: "www.amd.com"
+    
     network: tcp
     reality-opts:
       public-key: SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0
@@ -3308,7 +3308,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "de.cdn.stun.su"
+    
     network: tcp
     reality-opts:
       public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA
@@ -3323,7 +3323,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3338,7 +3338,7 @@ proxies:
     uuid: 8e1d0e1d-65f7-454a-862b-90a75e1c27b7
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.net"
+    
     network: tcp
     reality-opts:
       public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
@@ -3353,7 +3353,7 @@ proxies:
     uuid: 40a7f95c-f861-4f04-9a6e-55d624c7582c
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    
     network: tcp
     reality-opts:
       public-key: Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ
@@ -3367,7 +3367,7 @@ proxies:
     uuid: 8b575b35-3c7c-42b0-ac80-2aa6b0d7717c
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U
@@ -3381,7 +3381,7 @@ proxies:
     uuid: 03695e31-89d2-4cce-9d7e-3e61d9d80f22
     tls: true
     client-fingerprint: chrome
-    servername: "live.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -3394,7 +3394,7 @@ proxies:
     port: 18521
     uuid: bbb0d738-975d-41c5-ebfe-164f8cdc914f
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -3409,7 +3409,7 @@ proxies:
     uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
     tls: true
     client-fingerprint: chrome
-    servername: "www.ibm.com"
+    
     network: tcp
     reality-opts:
       public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
@@ -3423,7 +3423,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -3438,7 +3438,7 @@ proxies:
     uuid: 5c183802-747d-4d2f-a6f1-aff2d5d78401
     tls: true
     client-fingerprint: chrome
-    servername: "cdn77.api.userway.org"
+    
     network: tcp
     reality-opts:
       public-key: DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw
@@ -3452,7 +3452,7 @@ proxies:
     uuid: 9897f9f0-ee1d-4428-8a97-4a248751d5c5
     tls: true
     client-fingerprint: chrome
-    servername: "github.com"
+    
     network: tcp
     reality-opts:
       public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
@@ -3466,7 +3466,7 @@ proxies:
     port: 443
     uuid: 2f466a3b-5093-4556-8759-c87c8511c753
     tls: true
-    servername: "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3480,7 +3480,7 @@ proxies:
     port: 443
     uuid: 1679af35-6dd6-4c09-ae3b-18f239217f3e
     tls: true
-    servername: "rAyAn-007.pArViN.DpDnS.OrG"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -3494,7 +3494,7 @@ proxies:
     port: 443
     uuid: 2f466a3b-5093-4556-8759-c87c8511c753
     tls: true
-    servername: "rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3508,7 +3508,7 @@ proxies:
     port: 443
     uuid: 2f466a3b-5093-4556-8759-c87c8511c753
     tls: true
-    servername: "rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3522,7 +3522,7 @@ proxies:
     port: 443
     uuid: 2f466a3b-5093-4556-8759-c87c8511c753
     tls: true
-    servername: "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3536,7 +3536,7 @@ proxies:
     port: 443
     uuid: 55b0463c-e27f-455b-a25a-70123297b9f4
     tls: true
-    servername: "rAyAn-cOnFiG-sg-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3550,7 +3550,7 @@ proxies:
     port: 443
     uuid: 55b0463c-e27f-455b-a25a-70123297b9f4
     tls: true
-    servername: "rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3564,7 +3564,7 @@ proxies:
     port: 443
     uuid: 9ccd06a2-5616-47e3-9763-f9696959d7ad
     tls: true
-    servername: "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3578,7 +3578,7 @@ proxies:
     port: 443
     uuid: 55b0463c-e27f-455b-a25a-70123297b9f4
     tls: true
-    servername: "rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3592,7 +3592,7 @@ proxies:
     port: 443
     uuid: 9ccd06a2-5616-47e3-9763-f9696959d7ad
     tls: true
-    servername: "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3606,7 +3606,7 @@ proxies:
     port: 443
     uuid: 9ccd06a2-5616-47e3-9763-f9696959d7ad
     tls: true
-    servername: "rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3620,7 +3620,7 @@ proxies:
     port: 443
     uuid: e65a5cbc-5663-4f7d-ad7d-800e86ba487d
     tls: true
-    servername: "rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3634,7 +3634,7 @@ proxies:
     port: 443
     uuid: 9ccd06a2-5616-47e3-9763-f9696959d7ad
     tls: true
-    servername: "rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3648,7 +3648,7 @@ proxies:
     port: 443
     uuid: e65a5cbc-5663-4f7d-ad7d-800e86ba487d
     tls: true
-    servername: "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3662,7 +3662,7 @@ proxies:
     port: 443
     uuid: e65a5cbc-5663-4f7d-ad7d-800e86ba487d
     tls: true
-    servername: "rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3676,7 +3676,7 @@ proxies:
     port: 443
     uuid: e65a5cbc-5663-4f7d-ad7d-800e86ba487d
     tls: true
-    servername: "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -3691,7 +3691,7 @@ proxies:
     uuid: f667a096-5231-4cfb-8759-92bb32473139
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg
@@ -3704,7 +3704,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -3718,7 +3718,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -3732,7 +3732,7 @@ proxies:
     port: 443
     uuid: e4824193-4f54-453b-d037-88368e85ef0e
     tls: true
-    servername: "pqh30v5.carwashipdir.shop"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -3743,7 +3743,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: true
-    servername: "pqh29v4.globalfymain.com"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -3754,7 +3754,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -3765,7 +3765,7 @@ proxies:
     port: 443
     uuid: e4824193-4f54-453b-d037-88368e85ef0e
     tls: true
-    servername: "pqh30v5.carwashipdir.shop"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -3776,7 +3776,7 @@ proxies:
     port: 2083
     uuid: b658a9a6-f8f5-4a86-a438-f912a8509db2
     tls: true
-    servername: "native.loveplus.de5.net"
+    
     network: ws
     ws-opts:
       path: /ehueueuejs
@@ -3791,7 +3791,7 @@ proxies:
     uuid: a44e0875-210f-4941-9062-89b6361a14c6
     tls: true
     client-fingerprint: chrome
-    servername: "apple.com"
+    
     network: tcp
     reality-opts:
       public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4
@@ -3806,7 +3806,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3821,7 +3821,7 @@ proxies:
     uuid: 59edf6dc-b1f7-4017-8107-aae4f61a173c
     tls: true
     client-fingerprint: chrome
-    servername: "eh.vk.com"
+    
     network: tcp
     reality-opts:
       public-key: CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI
@@ -3835,7 +3835,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3850,7 +3850,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3865,7 +3865,7 @@ proxies:
     uuid: db444bee-8212-5ff5-be40-47e1a7509eb8
     tls: true
     client-fingerprint: chrome
-    servername: "vk.com"
+    
     network: xhttp
     reality-opts:
       public-key: HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ
@@ -3879,7 +3879,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3894,7 +3894,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3908,7 +3908,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -3922,7 +3922,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -3934,7 +3934,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -3949,7 +3949,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -3965,7 +3965,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /Tel-@V2rayAlpha
@@ -3980,7 +3980,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -3997,7 +3997,7 @@ proxies:
     uuid: 59edf6dc-b1f7-4017-8107-aae4f61a173c
     tls: true
     client-fingerprint: chrome
-    servername: "eh.vk.com"
+    
     network: tcp
     reality-opts:
       public-key: CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI
@@ -4011,7 +4011,7 @@ proxies:
     port: 36454
     uuid: 98fb333c-3d84-4fa4-b1f7-1683b509f65a
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -4022,7 +4022,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4036,7 +4036,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -4051,7 +4051,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4066,7 +4066,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4081,7 +4081,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4096,7 +4096,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4110,7 +4110,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /43.218.77.16=1443
@@ -4125,7 +4125,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4139,7 +4139,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /156.244.1.250=8443
@@ -4153,7 +4153,7 @@ proxies:
     port: 8880
     uuid: 6251f84e-9c02-4140-921c-6b47d394fb96
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -4165,7 +4165,7 @@ proxies:
     uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a
     tls: true
     client-fingerprint: chrome
-    servername: "modily.net"
+    
     network: tcp
     reality-opts:
       public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM
@@ -4180,7 +4180,7 @@ proxies:
     uuid: 373a56eb-aaa9-4a92-b209-503dd916900f
     tls: true
     client-fingerprint: chrome
-    servername: "www.vk.com"
+    
     network: tcp
     reality-opts:
       public-key: 3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI
@@ -4194,7 +4194,7 @@ proxies:
     uuid: 8e633674-dd04-45c0-a900-04066988bd2e
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    
     network: tcp
     reality-opts:
       public-key: _WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM
@@ -4207,7 +4207,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -4222,7 +4222,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4236,7 +4236,7 @@ proxies:
     port: 18521
     uuid: bbb0d738-975d-41c5-ebfe-164f8cdc914f
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -4251,7 +4251,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4266,7 +4266,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4281,7 +4281,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4296,7 +4296,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4311,7 +4311,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4325,7 +4325,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /proxyip=sjc.o00o.ooo
@@ -4340,7 +4340,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4355,7 +4355,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4370,7 +4370,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4384,7 +4384,7 @@ proxies:
     port: 443
     uuid: f74d98a4-9198-4f78-b921-47d4f4950953
     tls: true
-    servername: "de3.teleport.lat"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -4396,7 +4396,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4411,7 +4411,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4426,7 +4426,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4441,7 +4441,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4456,7 +4456,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4470,7 +4470,7 @@ proxies:
     port: 8080
     uuid: e2be0db4-4110-42eb-bca1-ba8df0897319
     tls: true
-    servername: "telewebion.com"
+    
     network: ws
     ws-opts:
       path: /39427/Nextlife
@@ -4486,7 +4486,7 @@ proxies:
     uuid: e977d854-33f3-4345-abee-bf3fa9a6d880
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0
@@ -4500,7 +4500,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -4516,7 +4516,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -4532,7 +4532,7 @@ proxies:
     port: 43233
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -4548,7 +4548,7 @@ proxies:
     uuid: d6b1327d-2bec-4366-a3a1-9b1284f95841
     tls: true
     client-fingerprint: chrome
-    servername: "sun6-21.userapi.com"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -4563,7 +4563,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -4579,7 +4579,7 @@ proxies:
     port: 36454
     uuid: 98fb333c-3d84-4fa4-b1f7-1683b509f65a
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -4590,7 +4590,7 @@ proxies:
     port: 443
     uuid: 071435dc-6ab9-4502-8441-ed4a4b609092
     tls: true
-    servername: "n1.n1server.org"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -4602,7 +4602,7 @@ proxies:
     uuid: 9b5dffa2-8ab0-4e7c-af62-725a320957cc
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -4616,7 +4616,7 @@ proxies:
     port: 443
     uuid: d85ea913-7dfa-44b0-bd66-33414e897991
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /35.230.79.26=443
@@ -4631,7 +4631,7 @@ proxies:
     uuid: 3dcd6767-ec3e-4eeb-9fa6-c70b8661072f
     tls: true
     client-fingerprint: chrome
-    servername: "refersion.com"
+    
     network: tcp
     reality-opts:
       public-key: DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ
@@ -4645,7 +4645,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4660,7 +4660,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4675,7 +4675,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4689,7 +4689,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -4704,7 +4704,7 @@ proxies:
     uuid: id8114764549
     tls: true
     client-fingerprint: chrome
-    servername: "www.google.com"
+    
     network: tcp
     reality-opts:
       public-key: eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA
@@ -4718,7 +4718,7 @@ proxies:
     port: 42122
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -4733,7 +4733,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: true
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -4745,7 +4745,7 @@ proxies:
     uuid: c583e7f8-9807-43b6-dac7-ca7ae5623546
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw
@@ -4759,7 +4759,7 @@ proxies:
     uuid: 133d44b7-170e-41cd-a0cc-0b35470823bb
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU
@@ -4773,7 +4773,7 @@ proxies:
     uuid: 28cdbb46-1309-45fb-92f0-6a761bc30236
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: grpc
     reality-opts:
       public-key: YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ
@@ -4789,7 +4789,7 @@ proxies:
     uuid: 133d44b7-170e-41cd-a0cc-0b35470823bb
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU
@@ -4803,7 +4803,7 @@ proxies:
     uuid: 133d44b7-170e-41cd-a0cc-0b35470823bb
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU
@@ -4817,7 +4817,7 @@ proxies:
     uuid: 481c5606-b586-44d7-bc2e-d8ef30d67f62
     tls: true
     client-fingerprint: chrome
-    servername: "dl.google.com"
+    
     network: tcp
     reality-opts:
       public-key: o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA
@@ -4831,7 +4831,7 @@ proxies:
     uuid: c583e7f8-9807-43b6-dac7-ca7ae5623546
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw
@@ -4845,7 +4845,7 @@ proxies:
     uuid: 28cdbb46-1309-45fb-92f0-6a761bc30236
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: grpc
     reality-opts:
       public-key: YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ
@@ -4861,7 +4861,7 @@ proxies:
     uuid: 18805ff3-b420-45de-af18-93be14024ae8
     tls: true
     client-fingerprint: chrome
-    servername: "www.amazon.com"
+    
     network: tcp
     reality-opts:
       public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
@@ -4875,7 +4875,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4890,7 +4890,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -4904,7 +4904,7 @@ proxies:
     port: 443
     uuid: 071435dc-6ab9-4502-8441-ed4a4b609092
     tls: true
-    servername: "n1.n1server.org"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -4915,7 +4915,7 @@ proxies:
     port: 443
     uuid: 61066a16-78fc-4446-8013-6646bc3f27ba
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /103.86.44.120=65432
@@ -4929,7 +4929,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -4943,7 +4943,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "Pulavpn11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /43.218.77.16=1443
@@ -4957,7 +4957,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -4971,7 +4971,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -4986,7 +4986,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -5000,7 +5000,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /Tel-@V2rayAlpha
@@ -5014,7 +5014,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: >-
@@ -5029,7 +5029,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: true
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -5040,7 +5040,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -5055,7 +5055,7 @@ proxies:
     uuid: 079c1b04-7ef9-4c49-8a7a-849a18ba7b9b
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc
@@ -5068,7 +5068,7 @@ proxies:
     port: 443
     uuid: d85ea913-7dfa-44b0-bd66-33414e897991
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /35.230.79.26=443
@@ -5082,7 +5082,7 @@ proxies:
     port: 443
     uuid: 919f16d2-ae91-4589-8bb2-a672890e3537
     tls: true
-    servername: "z.linglingqi.dpdns.org"
+    
     network: ws
     ws-opts:
       path: /?ed=2048
@@ -5096,7 +5096,7 @@ proxies:
     port: 443
     uuid: 7b906ed2-a5a8-41d2-a9cf-8621ec6e90a9
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /158.101.11.204=15805
@@ -5110,7 +5110,7 @@ proxies:
     port: 443
     uuid: 8fc83032-cb7e-4626-8058-f7051a68eb7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /44.217.235.114=2053
@@ -5124,7 +5124,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -5138,7 +5138,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -5153,7 +5153,7 @@ proxies:
     uuid: bfc78cd8-5951-4803-8d6c-4cedef8cd420
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc
@@ -5166,7 +5166,7 @@ proxies:
     port: 443
     uuid: 16068e83-af4c-49ba-8048-98fcff3e5e7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /131.186.26.129=30443
@@ -5181,7 +5181,7 @@ proxies:
     uuid: ae0a43bc-6189-456e-9b8a-a93f39af336e
     tls: true
     client-fingerprint: chrome
-    servername: "www.microsoft.com"
+    
     network: tcp
     reality-opts:
       public-key: 76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s
@@ -5195,7 +5195,7 @@ proxies:
     port: 42622
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5210,7 +5210,7 @@ proxies:
     port: 443
     uuid: bbafc769-441b-4f06-9aae-9cc04ede1980
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /198.98.61.220=443
@@ -5224,7 +5224,7 @@ proxies:
     port: 42944
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5238,7 +5238,7 @@ proxies:
     port: 42122
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5252,7 +5252,7 @@ proxies:
     port: 43393
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5267,7 +5267,7 @@ proxies:
     port: 42944
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5282,7 +5282,7 @@ proxies:
     port: 42622
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5297,7 +5297,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -5311,7 +5311,7 @@ proxies:
     port: 43383
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5325,7 +5325,7 @@ proxies:
     port: 443
     uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /167.179.110.68=8443
@@ -5339,7 +5339,7 @@ proxies:
     port: 43233
     uuid: 00000000-0000-4000-8000-000000000000
     tls: true
-    servername: "sub.mot.ip-ddns.com"
+    
     network: ws
     ws-opts:
       path: /
@@ -5353,7 +5353,7 @@ proxies:
     port: 443
     uuid: 7dbc427e-1afd-4f76-b916-f7349e8131ce
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /44.217.235.114=8443
@@ -5368,7 +5368,7 @@ proxies:
     uuid: 373a56eb-aaa9-4a92-b209-503dd916900f
     tls: true
     client-fingerprint: chrome
-    servername: "www.vk.com"
+    
     network: tcp
     reality-opts:
       public-key: 3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI
@@ -5381,7 +5381,7 @@ proxies:
     port: 443
     uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /130.185.164.213=8443
@@ -5395,7 +5395,7 @@ proxies:
     port: 443
     uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /167.179.110.68=8443
@@ -5409,7 +5409,7 @@ proxies:
     port: 443
     uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /130.185.164.213=8443
@@ -5424,7 +5424,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "at.jojack.ru"
+    
     network: tcp
     reality-opts:
       public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA
@@ -5438,7 +5438,7 @@ proxies:
     port: 443
     uuid: 61066a16-78fc-4446-8013-6646bc3f27ba
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /103.86.44.120=65432
@@ -5452,7 +5452,7 @@ proxies:
     port: 443
     uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /130.185.164.213=8443
@@ -5467,7 +5467,7 @@ proxies:
     port: 443
     uuid: 7dbc427e-1afd-4f76-b916-f7349e8131ce
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /44.217.235.114=8443
@@ -5481,7 +5481,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -5495,7 +5495,7 @@ proxies:
     port: 443
     uuid: 0e4e3a71-e712-49c6-a6a5-0b457764746e
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /3.86.231.180=443
@@ -5510,7 +5510,7 @@ proxies:
     uuid: c583e7f8-9807-43b6-dac7-ca7ae5623546
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw
@@ -5523,7 +5523,7 @@ proxies:
     port: 443
     uuid: d2efa18a-9e8a-3057-91fe-90c8e620e49f
     tls: true
-    servername: "s6.oboob.cn"
+    
     network: ws
     ws-opts:
       path: /db1024113a787392
@@ -5535,7 +5535,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: true
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -5546,7 +5546,7 @@ proxies:
     port: 2096
     uuid: 26524cce-d514-4014-a426-365fb266a14d
     tls: true
-    servername: "WangCai.443888.xyz"
+    
     network: ws
     ws-opts:
       path: /danfeng?ed=2560&Telegram🇨🇳@WangCai2
@@ -5560,7 +5560,7 @@ proxies:
     port: 443
     uuid: ca7709bd-7ff1-4edc-9f1d-679d17bcd150
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /45.77.25.6=48828
@@ -5575,7 +5575,7 @@ proxies:
     uuid: 03695e31-89d2-4cce-9d7e-3e61d9d80f22
     tls: true
     client-fingerprint: chrome
-    servername: "live.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -5589,7 +5589,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -5603,7 +5603,7 @@ proxies:
     port: 443
     uuid: 16068e83-af4c-49ba-8048-98fcff3e5e7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /131.186.26.129=30443
@@ -5617,7 +5617,7 @@ proxies:
     port: 443
     uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /107.174.121.122=443
@@ -5631,7 +5631,7 @@ proxies:
     port: 443
     uuid: 9751a75b-b27c-4766-9e67-380599588612
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /138.2.95.61=1111
@@ -5645,7 +5645,7 @@ proxies:
     port: 443
     uuid: e8add82d-0a0a-4f3b-a22e-c74f83da73b9
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /138.2.64.229=443
@@ -5659,7 +5659,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -5673,7 +5673,7 @@ proxies:
     port: 443
     uuid: 8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5
     tls: true
-    servername: "pmeli.express-servers.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -5685,7 +5685,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -5699,7 +5699,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram🇨🇳 @WangCai2=
@@ -5714,7 +5714,7 @@ proxies:
     uuid: 3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: 3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I
@@ -5727,7 +5727,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -5742,7 +5742,7 @@ proxies:
     uuid: 28cdbb46-1309-45fb-92f0-6a761bc30236
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: grpc
     reality-opts:
       public-key: YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ
@@ -5757,7 +5757,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /167.234.216.84=65501
@@ -5771,7 +5771,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /43.218.77.16
@@ -5786,7 +5786,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "al.cdn.stun.su"
+    
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -5800,7 +5800,7 @@ proxies:
     port: 443
     uuid: 16068e83-af4c-49ba-8048-98fcff3e5e7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /
@@ -5814,7 +5814,7 @@ proxies:
     port: 443
     uuid: e8add82d-0a0a-4f3b-a22e-c74f83da73b9
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /138.2.64.229=443
@@ -5828,7 +5828,7 @@ proxies:
     port: 443
     uuid: 61066a16-78fc-4446-8013-6646bc3f27ba
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /
@@ -5842,7 +5842,7 @@ proxies:
     port: 443
     uuid: 7b906ed2-a5a8-41d2-a9cf-8621ec6e90a9
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /158.101.11.204=15805
@@ -5856,7 +5856,7 @@ proxies:
     port: 443
     uuid: 16068e83-af4c-49ba-8048-98fcff3e5e7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /131.186.26.129=30443
@@ -5870,7 +5870,7 @@ proxies:
     port: 443
     uuid: 8fc83032-cb7e-4626-8058-f7051a68eb7b
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /44.217.235.114=2053
@@ -5885,7 +5885,7 @@ proxies:
     uuid: 09748875-9da3-440e-9809-9752e1dda1e4
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    
     network: tcp
     reality-opts:
       public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o
@@ -5899,7 +5899,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -5914,7 +5914,7 @@ proxies:
     uuid: 56da6a1e-b5b6-476e-92ed-07ee3a09d4de
     tls: true
     client-fingerprint: chrome
-    servername: "play.google.com"
+    
     network: tcp
     reality-opts:
       public-key: 1fhKlLHUSYEYVdi4ewnm7MSJjy9jhhZmS3Jbo96yqVc
@@ -5927,7 +5927,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -5941,7 +5941,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -5956,7 +5956,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -5971,7 +5971,7 @@ proxies:
     port: 443
     uuid: ca7709bd-7ff1-4edc-9f1d-679d17bcd150
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /45.77.25.6=48828
@@ -5985,7 +5985,7 @@ proxies:
     port: 443
     uuid: 7b906ed2-a5a8-41d2-a9cf-8621ec6e90a9
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /
@@ -6000,7 +6000,7 @@ proxies:
     uuid: 77da92aa-12ad-4370-b9be-25a86bc58c39
     tls: true
     client-fingerprint: chrome
-    servername: "fserv.zaubex.online"
+    
     network: xhttp
     reality-opts:
       public-key: 4BJIHpG7bwgOphjUjhUKTVMxLL8yX7BNDhwMsC-BSg0
@@ -6013,7 +6013,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳 @wangcai2
@@ -6028,7 +6028,7 @@ proxies:
     uuid: ac2b07df-2f52-4417-8af6-36f6b454f55b
     tls: true
     client-fingerprint: chrome
-    servername: "www.icloud.com"
+    
     network: tcp
     reality-opts:
       public-key: DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk
@@ -6041,7 +6041,7 @@ proxies:
     port: 443
     uuid: Telegram = @digi_config
     tls: true
-    servername: "jorge.eventcp10800free.com"
+    
     network: ws
     ws-opts:
       path: >-
@@ -6056,7 +6056,7 @@ proxies:
     port: 443
     uuid: nasnet
     tls: true
-    servername: "nasnet-162191094-direct.sharghdaily.co"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6067,7 +6067,7 @@ proxies:
     port: 2087
     uuid: d1b421cc-ebaf-48cf-bf12-e7947af11c53
     tls: true
-    servername: "rahgozar.italiantourism.net."
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -6077,7 +6077,7 @@ proxies:
     port: 2087
     uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c
     tls: true
-    servername: "digikala.sorza.ir"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -6091,7 +6091,7 @@ proxies:
     port: 2087
     uuid: d1b421cc-ebaf-48cf-bf12-e7947af11c53
     tls: true
-    servername: "rahgozar.italiantourism.net."
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -6102,7 +6102,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -6116,7 +6116,7 @@ proxies:
     port: 18521
     uuid: bbb0d738-975d-41c5-ebfe-164f8cdc914f
     tls: true
-    servername: "h22.amoosias.site"
+    
     network: ws
     ws-opts:
       path: /
@@ -6131,7 +6131,7 @@ proxies:
     port: 443
     uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /107.174.121.122=443
@@ -6146,7 +6146,7 @@ proxies:
     uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
     tls: true
     client-fingerprint: chrome
-    servername: "www.icloud.com"
+    
     network: tcp
     reality-opts:
       public-key: D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls
@@ -6161,7 +6161,7 @@ proxies:
     uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b
     tls: true
     client-fingerprint: chrome
-    servername: "pl-modx.webedg.net"
+    
     network: tcp
     reality-opts:
       public-key: rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM
@@ -6174,7 +6174,7 @@ proxies:
     port: 80
     uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0
     tls: true
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /getWorkerUpdates
@@ -6187,7 +6187,7 @@ proxies:
     port: 443
     uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /167.179.110.68=8443
@@ -6201,7 +6201,7 @@ proxies:
     port: 443
     uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767
     tls: true
-    servername: "nasnet-162191094-direct.sharghdaily.co"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6213,7 +6213,7 @@ proxies:
     uuid: 6fd9f786-d974-49d0-b5c4-397678de69a2
     tls: true
     client-fingerprint: chrome
-    servername: "www.cybo.com"
+    
     network: tcp
     reality-opts:
       public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
@@ -6226,7 +6226,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /tel-@v2rayngzendegimamad@v2rayngzendegimamad
@@ -6240,7 +6240,7 @@ proxies:
     port: 443
     uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
     tls: true
-    servername: "apii.onlineshoppingez.ir"
+    
     network: ws
     ws-opts:
       path: /O1w0n3vYgFKYs7EzNAvLPvOp
@@ -6256,7 +6256,7 @@ proxies:
     uuid: 32561144-434f-4752-a731-f35cd191ba4a
     tls: true
     client-fingerprint: chrome
-    servername: "spb.roblugo.su"
+    
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -6270,7 +6270,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /tel-@v2rayngzendegimamad@v2rayngzendegimamad
@@ -6284,7 +6284,7 @@ proxies:
     port: 443
     uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /107.174.121.122=443
@@ -6298,7 +6298,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -6312,7 +6312,7 @@ proxies:
     port: 443
     uuid: a545ae72-eb49-45d3-bbff-da16cc7730ce
     tls: true
-    servername: "rez1.uplodertelgram.com."
+    
     network: ws
     ws-opts:
       path: >-
@@ -6325,7 +6325,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -6339,7 +6339,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -6353,7 +6353,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "secdn22.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6364,7 +6364,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "secdn20.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6375,7 +6375,7 @@ proxies:
     port: 80
     uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0
     tls: true
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /getWorkerUpdates
@@ -6389,7 +6389,7 @@ proxies:
     uuid: e4598260-fb5e-4d0a-f0c2-64259f5c38e7
     tls: true
     client-fingerprint: chrome
-    servername: "www.xbox.com"
+    
     network: tcp
     reality-opts:
       public-key: Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg
@@ -6404,7 +6404,7 @@ proxies:
     uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -6418,7 +6418,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -6432,7 +6432,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -6447,7 +6447,7 @@ proxies:
     uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2
     tls: true
     client-fingerprint: chrome
-    servername: "ya.ru"
+    
     network: grpc
     reality-opts:
       public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc
@@ -6461,7 +6461,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "secdn19.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6472,7 +6472,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @vpnbaz
@@ -6487,7 +6487,7 @@ proxies:
     uuid: 8c6302ee-8eb9-488c-9888-b7a5eb48fccd
     tls: true
     client-fingerprint: chrome
-    servername: "esa-res.online.sberbank.ru"
+    
     network: tcp
     reality-opts:
       public-key: mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c
@@ -6501,7 +6501,7 @@ proxies:
     port: 51349
     uuid: 2e1cc3db-f65f-4bb3-a619-01847671f289
     tls: true
-    servername: "play.google.com"
+    
     network: ws
     ws-opts:
       path: >-
@@ -6516,7 +6516,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -6531,7 +6531,7 @@ proxies:
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    
     network: tcp
     reality-opts:
       public-key: 5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc
@@ -6546,7 +6546,7 @@ proxies:
     uuid: ef69fec4-568a-428b-b0bf-5b3f9e9faa23
     tls: true
     client-fingerprint: chrome
-    servername: "pingless.com"
+    
     network: xhttp
     reality-opts:
       public-key: sLp0-BtGhqDhYoUS87gqkcAmX87AAAiCSKJLgb33CAk
@@ -6559,7 +6559,7 @@ proxies:
     port: 80
     uuid: 65fe56c2-78ec-417a-a666-9f393eac8b61
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -6573,7 +6573,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /
@@ -6587,7 +6587,7 @@ proxies:
     port: 443
     uuid: f74d98a4-9198-4f78-b921-47d4f4950953
     tls: true
-    servername: "de3.teleport.lat"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6598,7 +6598,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram
@@ -6612,7 +6612,7 @@ proxies:
     port: 443
     uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601
     tls: true
-    servername: "telegram.vpnazadie.store"
+    
     network: ws
     ws-opts:
       path: /vless-tls
@@ -6626,7 +6626,7 @@ proxies:
     port: 443
     uuid: 61066a16-78fc-4446-8013-6646bc3f27ba
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /103.86.44.120=65432
@@ -6640,7 +6640,7 @@ proxies:
     port: 443
     uuid: nasnet
     tls: true
-    servername: "nasnet-162191094-direct.sharghdaily.co"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -6652,7 +6652,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -6666,7 +6666,7 @@ proxies:
     port: 2345
     uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -6676,7 +6676,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -6690,7 +6690,7 @@ proxies:
     port: 2345
     uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -6700,7 +6700,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -6715,7 +6715,7 @@ proxies:
     uuid: 481c5606-b586-44d7-bc2e-d8ef30d67f62
     tls: true
     client-fingerprint: chrome
-    servername: "dl.google.com"
+    
     network: tcp
     reality-opts:
       public-key: o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA
@@ -6728,7 +6728,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -6742,7 +6742,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -6756,7 +6756,7 @@ proxies:
     port: 2345
     uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -6768,7 +6768,7 @@ proxies:
     uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
     tls: true
     client-fingerprint: chrome
-    servername: "www.cloudflare.com"
+    
     network: tcp
     reality-opts:
       public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
@@ -6783,7 +6783,7 @@ proxies:
     uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1
     tls: true
     client-fingerprint: chrome
-    servername: "dl.google.com"
+    
     network: tcp
     reality-opts:
       public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ
@@ -6796,7 +6796,7 @@ proxies:
     port: 80
     uuid: 05b544a4-d479-4ba4-8208-950bd4411453
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -6809,7 +6809,7 @@ proxies:
     uuid: 133d44b7-170e-41cd-a0cc-0b35470823bb
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU
@@ -6824,7 +6824,7 @@ proxies:
     uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
     tls: true
     client-fingerprint: chrome
-    servername: "aws.amazon.com"
+    
     network: tcp
     reality-opts:
       public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
@@ -6837,7 +6837,7 @@ proxies:
     port: 443
     uuid: 0e90f352-e9bc-4834-8ff6-49ba887eded4
     tls: true
-    servername: "b12a6eea4807ca4e.1323.world"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -6848,7 +6848,7 @@ proxies:
     port: 443
     uuid: 1464720a-a342-4e1c-ae46-b23d01797b43
     tls: true
-    servername: "music.parvareshmorghe.ir"
+    
     network: ws
     ws-opts:
       path: >-
@@ -6863,7 +6863,7 @@ proxies:
     port: 443
     uuid: 1679af35-6dd6-4c09-ae3b-18f239217f3e
     tls: true
-    servername: "rAyAn-007.pArViN.DpDnS.OrG"
+    
     network: ws
     ws-opts:
       path: /?ed=2560fp=chrome
@@ -6877,7 +6877,7 @@ proxies:
     port: 8443
     uuid: 0e4865bf-811e-44e8-90ce-233ecf209b0b
     tls: true
-    servername: "rus3.worldunlocked.org"
+    
     network: ws
     ws-opts:
       path: /ws-vless/
@@ -6893,7 +6893,7 @@ proxies:
     uuid: 18805ff3-b420-45de-af18-93be14024ae8
     tls: true
     client-fingerprint: chrome
-    servername: "www.amazon.com"
+    
     network: tcp
     reality-opts:
       public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
@@ -6907,7 +6907,7 @@ proxies:
     port: 80
     uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -6919,7 +6919,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /tel-@v2rayngzendegimamad@v2rayngzendegimamad
@@ -6935,7 +6935,7 @@ proxies:
     uuid: 28cdbb46-1309-45fb-92f0-6a761bc30236
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: grpc
     reality-opts:
       public-key: YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ
@@ -6951,7 +6951,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -6966,7 +6966,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -6981,7 +6981,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -6996,7 +6996,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7011,7 +7011,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7026,7 +7026,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7041,7 +7041,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7056,7 +7056,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7071,7 +7071,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7086,7 +7086,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7101,7 +7101,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7115,7 +7115,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7130,7 +7130,7 @@ proxies:
     port: 443
     uuid: 3321a819-889d-40b3-b8fa-f34208827ef1
     tls: true
-    servername: "o00o.snip.qzz.io"
+    
     network: ws
     ws-opts:
       path: /proxyip=sjc.o00o.ooo
@@ -7145,7 +7145,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7160,7 +7160,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7174,7 +7174,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7189,7 +7189,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7204,7 +7204,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7219,7 +7219,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -7234,7 +7234,7 @@ proxies:
     port: 443
     uuid: 48129906-0fdc-482e-8c79-c78bfc6480b7
     tls: true
-    servername: "041.electrOCElLcO-CF-041.woRKerS.DEV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -7250,7 +7250,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7264,7 +7264,7 @@ proxies:
     port: 2087
     uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c
     tls: true
-    servername: "digikala.sorza.ir"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -7279,7 +7279,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7294,7 +7294,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7308,7 +7308,7 @@ proxies:
     port: 443
     uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8
     tls: true
-    servername: "deu549.worldbypass.org"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -7320,7 +7320,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7335,7 +7335,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7350,7 +7350,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7365,7 +7365,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7380,7 +7380,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7395,7 +7395,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -7410,7 +7410,7 @@ proxies:
     uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2
     tls: true
     client-fingerprint: chrome
-    servername: "apple.com"
+    
     network: tcp
     reality-opts:
       public-key: Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y
@@ -7425,7 +7425,7 @@ proxies:
     uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2
     tls: true
     client-fingerprint: chrome
-    servername: "apple.com"
+    
     network: tcp
     reality-opts:
       public-key: Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y
@@ -7440,7 +7440,7 @@ proxies:
     uuid: 4bc7d558-1943-44de-bd82-56920bc9383e
     tls: true
     client-fingerprint: chrome
-    servername: "test.spectrum.vu"
+    
     network: tcp
     reality-opts:
       public-key: EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo
@@ -7454,7 +7454,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -7469,7 +7469,7 @@ proxies:
     port: 80
     uuid: 53342b53-157e-4475-9f3a-40439434e689
     tls: true
-    servername: "c.iamdt.dpdns.org"
+    
     network: ws
     ws-opts:
       path: /
@@ -7484,7 +7484,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -7499,7 +7499,7 @@ proxies:
     port: 80
     uuid: 4c97ec3e-3527-48c5-80ff-b715463896ba
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -7513,7 +7513,7 @@ proxies:
     port: 443
     uuid: 5c824317-ac50-49a5-8d32-a0ccb890fb3d
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: >-
@@ -7528,7 +7528,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -7542,7 +7542,7 @@ proxies:
     port: 443
     uuid: 61113265-3e78-4012-8f42-692b5069ddac
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /140.245.53.45=443
@@ -7556,7 +7556,7 @@ proxies:
     port: 8443
     uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8
     tls: true
-    servername: "ovhwuxian.pai50288.uk"
+    
     network: ws
     ws-opts:
       path: /57ba2ab1
@@ -7571,7 +7571,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -7585,7 +7585,7 @@ proxies:
     port: 990
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳@wangcai2
@@ -7599,7 +7599,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🎖@YamYamProxy
@@ -7613,7 +7613,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳@WangCai2
@@ -7627,7 +7627,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /Telegram@V2rayAlpha/?ed=2560
@@ -7641,7 +7641,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳@WangCai2
@@ -7655,7 +7655,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -7669,7 +7669,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -7683,7 +7683,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @app_bedal
@@ -7697,7 +7697,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /
@@ -7711,7 +7711,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -7725,7 +7725,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -7739,7 +7739,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -7753,7 +7753,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳@WangCai2
@@ -7767,7 +7767,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳@wangcai2
@@ -7781,7 +7781,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@app_bedal
@@ -7795,7 +7795,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -7809,7 +7809,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -7823,7 +7823,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /
@@ -7835,7 +7835,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -7849,7 +7849,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -7863,7 +7863,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳@vpnbaz
@@ -7877,7 +7877,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳@WangCai2
@@ -7891,7 +7891,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -7905,7 +7905,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /
@@ -7917,7 +7917,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳 @wangcai2
@@ -7931,7 +7931,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -7945,7 +7945,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -7960,7 +7960,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram @app_bedal
@@ -7974,7 +7974,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳@wangcai2
@@ -7988,7 +7988,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.v6.navy"
+    
     network: ws
     ws-opts:
       path: /
@@ -8002,7 +8002,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts: {}
     tfo: false
@@ -8013,7 +8013,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts: {}
     tfo: false
@@ -8024,7 +8024,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -8039,7 +8039,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -8053,7 +8053,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -8067,7 +8067,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -8081,7 +8081,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.v6.navy"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -8095,7 +8095,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -8109,7 +8109,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -8124,7 +8124,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&%2@V2rayng_Fast-
@@ -8138,7 +8138,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&telegram🇨🇳+@wangcai2
@@ -8152,7 +8152,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -8166,7 +8166,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -8181,7 +8181,7 @@ proxies:
     port: 2053
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳+@WangCai2
@@ -8195,7 +8195,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -8209,7 +8209,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.dynv6.net"
+    
     network: ws
     ws-opts:
       path: /?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=
@@ -8225,7 +8225,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -8242,7 +8242,7 @@ proxies:
     uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad
     tls: true
     client-fingerprint: chrome
-    servername: "one-piece.com"
+    
     network: grpc
     reality-opts:
       public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms
@@ -8258,7 +8258,7 @@ proxies:
     port: 8443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560&Telegram🇨🇳 @WangCai2
@@ -8272,7 +8272,7 @@ proxies:
     port: 80
     uuid: 75e1fde7-6bf6-48ef-ba43-400e960e185b
     tls: true
-    servername: "pq-bosniaandherzegovina1.09vpn.com"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8287,7 +8287,7 @@ proxies:
     port: 80
     uuid: 75e1fde7-6bf6-48ef-ba43-400e960e185b
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8299,7 +8299,7 @@ proxies:
     port: 80
     uuid: 65fe56c2-78ec-417a-a666-9f393eac8b61
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -8314,7 +8314,7 @@ proxies:
     uuid: 6fd9f786-d974-49d0-b5c4-397678de69a2
     tls: true
     client-fingerprint: chrome
-    servername: "www.cybo.com"
+    
     network: tcp
     reality-opts:
       public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
@@ -8327,7 +8327,7 @@ proxies:
     port: 51781
     uuid: 7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -8339,7 +8339,7 @@ proxies:
     uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -8354,7 +8354,7 @@ proxies:
     uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -8368,7 +8368,7 @@ proxies:
     uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    
     network: tcp
     reality-opts:
       public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -8382,7 +8382,7 @@ proxies:
     port: 80
     uuid: 7d90f043-ed7f-40c9-ac2f-352987904958
     tls: true
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8395,7 +8395,7 @@ proxies:
     port: 443
     uuid: 7d7d00cb-53a3-4cb4-bef7-3b2d431b1107
     tls: true
-    servername: "tElEgRAm.proXIE1-tel.WORKers.deV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -8410,7 +8410,7 @@ proxies:
     port: 80
     uuid: 8910cbb3-33b1-4266-a243-ac780ac63394
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8422,7 +8422,7 @@ proxies:
     port: 80
     uuid: 8910cbb3-33b1-4266-a243-ac780ac63394
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: >-
@@ -8435,7 +8435,7 @@ proxies:
     port: 443
     uuid: 8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5
     tls: true
-    servername: "pmeli.express-servers.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -8450,7 +8450,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "plcdn18.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8461,7 +8461,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "plcdn14.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8472,7 +8472,7 @@ proxies:
     port: 443
     uuid: 8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5
     tls: true
-    servername: "pmeli.express-servers.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -8488,7 +8488,7 @@ proxies:
     uuid: 90c9c25c-df6c-4438-83d3-ef97166a9184
     tls: true
     client-fingerprint: chrome
-    servername: "sun6-22.userapi.com"
+    
     network: tcp
     reality-opts:
       public-key: KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0
@@ -8502,7 +8502,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "plcdn19.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8513,7 +8513,7 @@ proxies:
     port: 443
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
-    servername: "plcdn13.suio.me"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8524,7 +8524,7 @@ proxies:
     port: 80
     uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8536,7 +8536,7 @@ proxies:
     port: 443
     uuid: a3e65839-adcf-404f-8076-c8bf6dcdadd1
     tls: true
-    servername: "imalrzaiserver.imalrzai.workers.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2048
@@ -8550,7 +8550,7 @@ proxies:
     port: 2087
     uuid: 9f582467-6af2-4bdd-848e-93fdd84486ad
     tls: true
-    servername: "ce.xo-connection.ir"
+    
     network: ws
     ws-opts:
       path: /darkstrange
@@ -8565,7 +8565,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /36.95.152.58=12137
@@ -8579,7 +8579,7 @@ proxies:
     port: 443
     uuid: a619d576-1380-4aac-8732-99e8dfe8df0f
     tls: true
-    servername: "mlb.tunnelguard.ru"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8590,7 +8590,7 @@ proxies:
     port: 18521
     uuid: bbb0d738-975d-41c5-ebfe-164f8cdc914f
     tls: true
-    servername: "65.109.203.5"
+    
     network: ws
     ws-opts:
       path: /
@@ -8605,7 +8605,7 @@ proxies:
     port: 80
     uuid: b4819c49-6c7e-4b57-9b9b-c73031e1de11
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -8617,7 +8617,7 @@ proxies:
     port: 18521
     uuid: bbb0d738-975d-41c5-ebfe-164f8cdc914f
     tls: true
-    servername: "h22.amoosias.site"
+    
     network: ws
     ws-opts:
       path: /
@@ -8632,7 +8632,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /43.218.77.16=1443
@@ -8646,7 +8646,7 @@ proxies:
     port: 443
     uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820
     tls: true
-    servername: "cdn-no.lopzo.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -8659,7 +8659,7 @@ proxies:
     uuid: c583e7f8-9807-43b6-dac7-ca7ae5623546
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw
@@ -8674,7 +8674,7 @@ proxies:
     uuid: c583e7f8-9807-43b6-dac7-ca7ae5623546
     tls: true
     client-fingerprint: chrome
-    servername: "tgju.org"
+    
     network: tcp
     reality-opts:
       public-key: tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw
@@ -8688,7 +8688,7 @@ proxies:
     port: 443
     uuid: d00a29d1-6e6c-4281-9e46-263caa77bb44
     tls: true
-    servername: "pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -8704,7 +8704,7 @@ proxies:
     uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
     tls: true
     client-fingerprint: chrome
-    servername: "www.cloudflare.com"
+    
     network: tcp
     reality-opts:
       public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
@@ -8718,7 +8718,7 @@ proxies:
     port: 51164
     uuid: d29a7cee-acd1-4821-adbf-517f8681040e
     tls: true
-    servername: "speedtest.net"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -8728,7 +8728,7 @@ proxies:
     port: 80
     uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /http
@@ -8740,7 +8740,7 @@ proxies:
     port: 443
     uuid: d85ea913-7dfa-44b0-bd66-33414e897991
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: >-
@@ -8755,7 +8755,7 @@ proxies:
     port: 443
     uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82
     tls: true
-    servername: "nic3-1.workers.dev"
+    
     network: ws
     ws-opts:
       path: /--Telegram---@MiTiVPN/---@MiTiVPN
@@ -8769,7 +8769,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8784,7 +8784,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8799,7 +8799,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8814,7 +8814,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8829,7 +8829,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8844,7 +8844,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8859,7 +8859,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8874,7 +8874,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8889,7 +8889,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8904,7 +8904,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -8919,7 +8919,7 @@ proxies:
     port: 443
     uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -8929,7 +8929,7 @@ proxies:
     port: 443
     uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
     tls: true
-    servername: "apii.onlineshoppingez.ir"
+    
     network: ws
     ws-opts:
       path: /O1w0n3vYgFKYs7EzNAvLPvOp
@@ -8945,7 +8945,7 @@ proxies:
     uuid: f0b15f64-db59-438c-b1b6-f1b83db52240
     tls: true
     client-fingerprint: chrome
-    servername: "azure.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -8959,7 +8959,7 @@ proxies:
     port: 443
     uuid: f74d98a4-9198-4f78-b921-47d4f4950953
     tls: true
-    servername: "de3.teleport.lat"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -8970,7 +8970,7 @@ proxies:
     port: 2052
     uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -8984,7 +8984,7 @@ proxies:
     port: 443
     uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /130.185.164.213=8443
@@ -8999,7 +8999,7 @@ proxies:
     port: 443
     uuid: nasnet
     tls: true
-    servername: "nasnet-5712964102-direct.sharghdaily.co"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -9010,7 +9010,7 @@ proxies:
     port: 443
     uuid: jina
     tls: true
-    servername: "jina-207916049-direct.yektanet.co"
+    
     network: tcp
     tfo: false
     skip-cert-verify: true
@@ -9022,7 +9022,7 @@ proxies:
     uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    
     network: tcp
     reality-opts:
       public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY
@@ -9037,7 +9037,7 @@ proxies:
     uuid: b58583bb-7b63-4a92-a1c2-728cb33d3750
     tls: true
     client-fingerprint: chrome
-    servername: "msn.com"
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -9051,7 +9051,7 @@ proxies:
     uuid: ddab5b97-027d-4c92-b946-c8b0b58cad0f
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    
     network: tcp
     reality-opts:
       public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g
@@ -9066,7 +9066,7 @@ proxies:
     uuid: e929f51d-5a95-5432-b66f-cfe725ea1f61
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0
@@ -9081,7 +9081,7 @@ proxies:
     uuid: f4fec1b0-a67e-4967-b9ea-0bd832b57a4d
     tls: true
     client-fingerprint: chrome
-    servername: "sun6-21.userapi.com"
+    
     network: tcp
     reality-opts:
       public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo
@@ -9094,7 +9094,7 @@ proxies:
     port: 80
     uuid: 8910cbb3-33b1-4266-a243-ac780ac63394
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9106,7 +9106,7 @@ proxies:
     port: 8880
     uuid: 65a415d8-eb17-43c7-a7e8-ad7149e8a9d9
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9116,7 +9116,7 @@ proxies:
     port: 8880
     uuid: 6a045883-77d9-489f-acaf-74fc33c5d1ab
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9126,7 +9126,7 @@ proxies:
     port: 443
     uuid: d00a29d1-6e6c-4281-9e46-263caa77bb44
     tls: true
-    servername: "pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9141,7 +9141,7 @@ proxies:
     port: 8880
     uuid: 22698203-9245-4791-8869-f35483892679
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9152,7 +9152,7 @@ proxies:
     uuid: 0a21d713-6e6f-4274-8b84-464019325513
     tls: true
     client-fingerprint: chrome
-    servername: "www.microsoft.com"
+    
     network: grpc
     reality-opts:
       public-key: vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA
@@ -9167,7 +9167,7 @@ proxies:
     port: 80
     uuid: 787b3724-16c8-4e58-a038-2b8013cdc6d9
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9182,7 +9182,7 @@ proxies:
     port: 80
     uuid: c3f75f0e-3fe6-4037-95be-ec869c453dfc
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9197,7 +9197,7 @@ proxies:
     port: 443
     uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6
     tls: true
-    servername: "stipulations.gelatin.workers.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9212,7 +9212,7 @@ proxies:
     port: 443
     uuid: 064059ce-23b9-45d3-953d-57d4c5092874
     tls: true
-    servername: "026.elEctrOCELLCo-cF-026.wORKERs.deV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9227,7 +9227,7 @@ proxies:
     port: 443
     uuid: 11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf
     tls: true
-    servername: "ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9242,7 +9242,7 @@ proxies:
     port: 8443
     uuid: 15190a50-e317-4acd-8baf-a6c8da1ae2ef
     tls: true
-    servername: "003.EleCtroCElLco-cf-003.woRKERS.DEv"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9257,7 +9257,7 @@ proxies:
     port: 443
     uuid: 6b2d40f5-9db1-4964-aa9d-103d2a37fac6
     tls: true
-    servername: "steep-Fog-3339.iRwo5.wOrkeRS.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9272,7 +9272,7 @@ proxies:
     port: 443
     uuid: 72fc1188-430f-4a3c-a64e-af9023819899
     tls: true
-    servername: "002.w4WL4V1cpTKY.wOrKers.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9287,7 +9287,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -9299,7 +9299,7 @@ proxies:
     port: 443
     uuid: 7b55e08d-0ec9-44d0-95a6-1b51fd472658
     tls: true
-    servername: "QUiET-CaKE-3B50.heGamo9231.wOrkErs.dEv"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9314,7 +9314,7 @@ proxies:
     port: 443
     uuid: 7d7d00cb-53a3-4cb4-bef7-3b2d431b1107
     tls: true
-    servername: "tElEgRAm.proXIE1-tel.WORKers.deV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9329,7 +9329,7 @@ proxies:
     port: 443
     uuid: 9ccd06a2-5616-47e3-9763-f9696959d7ad
     tls: true
-    servername: "rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -9343,7 +9343,7 @@ proxies:
     port: 443
     uuid: cdd6d645-fd41-4200-857d-2c4880ab514f
     tls: true
-    servername: "S5-cB2WE5COX8cZiVW-RN9Po87ArXZRW.foxnim2.WoRkErS.DeV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9358,7 +9358,7 @@ proxies:
     port: 443
     uuid: ef6db9e0-4c05-4933-a599-0dc9530f08cc
     tls: true
-    servername: "022.eLEctRocELlcO-CF-022.worKeRs.DEV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9373,7 +9373,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -9387,7 +9387,7 @@ proxies:
     port: 80
     uuid: 4c886269-904b-459d-a913-d81d15b16d6b
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9397,7 +9397,7 @@ proxies:
     port: 2082
     uuid: cb213db5-803d-49dd-a7e2-46d938af0751
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -9411,7 +9411,7 @@ proxies:
     port: 2095
     uuid: 9f77d53d-7dac-47a7-8873-5b9fc399868c
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9421,7 +9421,7 @@ proxies:
     port: 15855
     uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -9435,7 +9435,7 @@ proxies:
     port: 2087
     uuid: cce9a82d-eb90-4f9f-afc0-1a55442fd235
     tls: true
-    servername: "fnldvip.duosseldorf.ir"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -9445,7 +9445,7 @@ proxies:
     port: 443
     uuid: 1464720a-a342-4e1c-ae46-b23d01797b43
     tls: true
-    servername: "music.parvareshmorghe.ir"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9460,7 +9460,7 @@ proxies:
     port: 443
     uuid: bffcdf90-ce20-41fd-9774-9eadb2f65072
     tls: true
-    servername: "hla.allonetworks.ru"
+    
     network: xhttp
     tfo: false
     skip-cert-verify: false
@@ -9470,7 +9470,7 @@ proxies:
     port: 80
     uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9482,7 +9482,7 @@ proxies:
     port: 443
     uuid: e65a5cbc-5663-4f7d-ad7d-800e86ba487d
     tls: true
-    servername: "rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -9496,7 +9496,7 @@ proxies:
     port: 80
     uuid: 5ce84688-f535-46ad-a512-37b17becf6ea
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9510,7 +9510,7 @@ proxies:
     port: 80
     uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9522,7 +9522,7 @@ proxies:
     port: 42079
     uuid: 6e21ee37-f0d4-4f0a-b131-af8d3cda61c5
     tls: false
-    servername: "''"
+    
     network: xhttp
     tfo: false
     skip-cert-verify: false
@@ -9532,7 +9532,7 @@ proxies:
     port: 443
     uuid: 003ef206-46b6-3701-ab77-b03debe7511f
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024143bf11354
@@ -9546,7 +9546,7 @@ proxies:
     port: 38666
     uuid: 65d8bfbf-f625-4d35-9a1c-2b19a55e58e2
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -9558,7 +9558,7 @@ proxies:
     port: 443
     uuid: 1e823993-86ac-3ead-89b5-227e73825fdb
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024faebdb62e0
@@ -9572,7 +9572,7 @@ proxies:
     port: 443
     uuid: 305419ed-4ef5-3e5a-8d48-b803c58853d3
     tls: true
-    servername: "s6.oboob.cn"
+    
     network: ws
     ws-opts:
       path: /db10248afdcb0daf
@@ -9586,7 +9586,7 @@ proxies:
     port: 443
     uuid: 3f9c8463-8610-3ed8-86c8-a26713067825
     tls: true
-    servername: "dabaius2.sylu.net"
+    
     network: ws
     ws-opts:
       path: /db10240eb751d6ab
@@ -9600,7 +9600,7 @@ proxies:
     port: 443
     uuid: 873a8e21-5fed-36a7-b251-734ebc97381c
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db10248a03e8db1b
@@ -9614,7 +9614,7 @@ proxies:
     port: 443
     uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024a105975707
@@ -9628,7 +9628,7 @@ proxies:
     port: 443
     uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024f4e56f542c
@@ -9642,7 +9642,7 @@ proxies:
     port: 443
     uuid: a73b8135-ec7a-4f70-bac6-81fbccad4515
     tls: true
-    servername: "labeller.neonime83.workers.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -9656,7 +9656,7 @@ proxies:
     port: 80
     uuid: 5a54a377-a9d3-4ea5-b7b0-17bd899e202d
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9668,7 +9668,7 @@ proxies:
     port: 443
     uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
     tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /156.244.1.250=8443
@@ -9682,7 +9682,7 @@ proxies:
     port: 80
     uuid: 05b544a4-d479-4ba4-8208-950bd4411453
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -9694,7 +9694,7 @@ proxies:
     port: 443
     uuid: 621a845a-48ea-35f0-9b9a-ca499c647ade
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024e9df2f990b
@@ -9708,7 +9708,7 @@ proxies:
     port: 443
     uuid: c4be5399-3a11-46ad-a92a-294b4f7b2690
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /64.176.36.17=443
@@ -9722,7 +9722,7 @@ proxies:
     port: 443
     uuid: 2f466a3b-5093-4556-8759-c87c8511c753
     tls: true
-    servername: "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -9736,7 +9736,7 @@ proxies:
     port: 443
     uuid: 1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /45.76.192.129=24434
@@ -9750,7 +9750,7 @@ proxies:
     port: 443
     uuid: d22531a3-bd03-465f-a91a-efafdbbf8ce6
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /132.145.127.203=8443
@@ -9764,7 +9764,7 @@ proxies:
     port: 443
     uuid: a2bb8800-245c-47d3-9539-02f04066e90e
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /140.83.59.158=15805
@@ -9778,7 +9778,7 @@ proxies:
     port: 443
     uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
     tls: true
-    servername: "powered-by-surena.user68f797c2f3e1b.workers.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -9792,7 +9792,7 @@ proxies:
     port: 443
     uuid: 31ded4f6-2460-41b1-8922-94632c5c5543
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /132.226.21.116=6056
@@ -9806,7 +9806,7 @@ proxies:
     port: 443
     uuid: 1dbebdd3-3922-40c0-9b0e-ace270adb479
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /175.202.135.114=12427
@@ -9820,7 +9820,7 @@ proxies:
     port: 443
     uuid: a0d17bf0-e548-4154-b200-3ea825a46740
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /144.24.90.107=443
@@ -9834,7 +9834,7 @@ proxies:
     port: 443
     uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82
     tls: true
-    servername: "nic3-1.workers.dev"
+    
     network: ws
     ws-opts:
       path: /--Telegram---@MiTiVPN/---@MiTiVPN
@@ -9848,7 +9848,7 @@ proxies:
     port: 2052
     uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -9862,7 +9862,7 @@ proxies:
     port: 80
     uuid: 2a2a8023-3b4b-407d-a00a-7beb5a158148
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -9876,7 +9876,7 @@ proxies:
     port: 80
     uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /getWorkerUpdates
@@ -9888,7 +9888,7 @@ proxies:
     port: 80
     uuid: 33e1a095-1e25-4198-bfe7-ec312e4f98ee
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -9902,7 +9902,7 @@ proxies:
     port: 80
     uuid: 7d4a519b-d270-434e-a42d-d39624577a92
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -9916,7 +9916,7 @@ proxies:
     port: 80
     uuid: 860d8f27-ed60-4791-b6a0-e1e471d7ee6d
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -9930,7 +9930,7 @@ proxies:
     port: 80
     uuid: e31085f9-7f55-4a7d-b00e-ce94149477cb
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -9944,7 +9944,7 @@ proxies:
     port: 443
     uuid: 071435dc-6ab9-4502-8441-ed4a4b609092
     tls: true
-    servername: "n1.n1server.org"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -9955,7 +9955,7 @@ proxies:
     port: 443
     uuid: 8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5
     tls: true
-    servername: "pmeli.express-servers.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -9967,7 +9967,7 @@ proxies:
     port: 443
     uuid: 90b9fe99-5bd4-4fa8-a290-4987833adb22
     tls: true
-    servername: "TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV"
+    
     network: ws
     ws-opts:
       path: >-
@@ -9982,7 +9982,7 @@ proxies:
     port: 443
     uuid: 128a854c-13ab-472e-b418-139869e82df6
     tls: true
-    servername: "telegram.vpnazadie.store"
+    
     network: ws
     ws-opts:
       path: /vless-tls
@@ -9996,7 +9996,7 @@ proxies:
     port: 2083
     uuid: b658a9a6-f8f5-4a86-a438-f912a8509db2
     tls: true
-    servername: "native.loveplus.de5.net"
+    
     network: ws
     ws-opts:
       path: /ehueueuejs
@@ -10010,7 +10010,7 @@ proxies:
     port: 2087
     uuid: 9f582467-6af2-4bdd-848e-93fdd84486ad
     tls: true
-    servername: "ce.xo-connection.ir"
+    
     network: ws
     ws-opts:
       path: /darkstrange
@@ -10024,7 +10024,7 @@ proxies:
     port: 443
     uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601
     tls: true
-    servername: "telegram.vpnazadie.store"
+    
     network: ws
     ws-opts:
       path: /vless-tls
@@ -10038,7 +10038,7 @@ proxies:
     port: 443
     uuid: 9751a75b-b27c-4766-9e67-380599588612
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /138.2.95.61=1111
@@ -10052,7 +10052,7 @@ proxies:
     port: 80
     uuid: 53342b53-157e-4475-9f3a-40439434e689
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /
@@ -10066,7 +10066,7 @@ proxies:
     port: 2053
     uuid: 26524cce-d514-4014-a426-365fb266a14d
     tls: true
-    servername: "snippet.fgfw.eu.org"
+    
     network: ws
     ws-opts:
       path: /danfeng?ed=2560
@@ -10080,7 +10080,7 @@ proxies:
     port: 443
     uuid: 0ec1c958-0087-4ca6-b4b2-b846c0f62419
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /45.32.100.46=13802
@@ -10094,7 +10094,7 @@ proxies:
     port: 443
     uuid: e950cb3d-ddc9-4426-bfb5-7056de3ebe5e
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /129.150.58.86=57621
@@ -10108,7 +10108,7 @@ proxies:
     port: 443
     uuid: a1923428-524e-46c3-936d-16cda1656763
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /3.0.50.69=443
@@ -10122,7 +10122,7 @@ proxies:
     port: 2096
     uuid: b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0
     tls: true
-    servername: "free-server.techsonic.ggff.net"
+    
     network: ws
     ws-opts:
       path: /@Tech_Sonic
@@ -10136,7 +10136,7 @@ proxies:
     port: 443
     uuid: 55b0463c-e27f-455b-a25a-70123297b9f4
     tls: true
-    servername: "rAyAn-cOnFiG-sg-1.pAriSa.dPdNs.oRg"
+    
     network: ws
     ws-opts:
       path: /ws
@@ -10150,7 +10150,7 @@ proxies:
     port: 8880
     uuid: 41ccd500-43f8-457f-9bd9-de5273a103e8
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10164,7 +10164,7 @@ proxies:
     port: 443
     uuid: 6573a2b1-fd7a-4916-9688-b88260547c24
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /43.130.134.123=65002
@@ -10178,7 +10178,7 @@ proxies:
     port: 443
     uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448
     tls: true
-    servername: "steep-poetry-829c.false-mossy-caucus.workers.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10192,7 +10192,7 @@ proxies:
     port: 443
     uuid: 6eb4311c-e5cd-458f-a142-83417ac34245
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /129.158.198.241=8443
@@ -10206,7 +10206,7 @@ proxies:
     port: 443
     uuid: 643a3034-d3f9-4e03-acde-0e6ab3a238fb
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /54.203.85.46=80
@@ -10220,7 +10220,7 @@ proxies:
     port: 8443
     uuid: 6991c683-9978-0f82-ef9d-fb9c8a053b34
     tls: true
-    servername: "d657fa2a.lfree.ccwu.cc"
+    
     network: ws
     ws-opts:
       path: /socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719
@@ -10234,7 +10234,7 @@ proxies:
     port: 443
     uuid: a49f214f-9460-44cf-bcc4-08fda8a3f3de
     tls: true
-    servername: "fancy-disk-3455.v2raytv20.workers.dev"
+    
     network: ws
     ws-opts:
       path: /
@@ -10248,7 +10248,7 @@ proxies:
     port: 443
     uuid: 93f0761d-4393-4b43-a523-e812fa0b7e83
     tls: true
-    servername: "cf.cfvip.lol"
+    
     network: ws
     ws-opts:
       path: /pyip=47.251.95.178
@@ -10262,7 +10262,7 @@ proxies:
     port: 443
     uuid: 931dc751-9096-44ce-84a5-89f10505bd65
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /45.151.132.228=19034
@@ -10276,7 +10276,7 @@ proxies:
     port: 443
     uuid: 919f16d2-ae91-4589-8bb2-a672890e3537
     tls: true
-    servername: "z.linglingqi.dpdns.org"
+    
     network: ws
     ws-opts:
       path: /?ed=2048
@@ -10290,7 +10290,7 @@ proxies:
     port: 443
     uuid: d3e15a11-ebd9-4315-b110-f9fb1c52f153
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /144.202.126.54=443
@@ -10304,7 +10304,7 @@ proxies:
     port: 443
     uuid: a3e65839-adcf-404f-8076-c8bf6dcdadd1
     tls: true
-    servername: "imalrzaiserver.imalrzai.workers.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2048
@@ -10318,7 +10318,7 @@ proxies:
     port: 443
     uuid: aac16b46-fa88-42d0-a4f9-970ea25d2c70
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /209.237.135.93=443
@@ -10332,7 +10332,7 @@ proxies:
     port: 443
     uuid: bbafc769-441b-4f06-9aae-9cc04ede1980
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /198.98.61.220=443
@@ -10346,7 +10346,7 @@ proxies:
     port: 443
     uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /107.174.121.122=443
@@ -10361,7 +10361,7 @@ proxies:
     uuid: 2a9ed01e-5455-44b4-a66a-76ee8165f0ac
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM
@@ -10375,7 +10375,7 @@ proxies:
     uuid: a00d89f6-ab7e-4e30-a5e5-54c701d62c93
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
@@ -10388,7 +10388,7 @@ proxies:
     port: 443
     uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024f4e56f542c
@@ -10402,7 +10402,7 @@ proxies:
     port: 443
     uuid: 873a8e21-5fed-36a7-b251-734ebc97381c
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db10248a03e8db1b
@@ -10416,7 +10416,7 @@ proxies:
     port: 443
     uuid: e4824193-4f54-453b-d037-88368e85ef0e
     tls: true
-    servername: "pqh30v5.carwashipdir.shop"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -10427,7 +10427,7 @@ proxies:
     port: 443
     uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813
     tls: true
-    servername: "dabaihk.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024a105975707
@@ -10442,7 +10442,7 @@ proxies:
     uuid: 4b9063e0-3288-44e9-9aac-80fbfce323a0
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo
@@ -10455,7 +10455,7 @@ proxies:
     port: 443
     uuid: 1e823993-86ac-3ead-89b5-227e73825fdb
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024faebdb62e0
@@ -10469,7 +10469,7 @@ proxies:
     port: 443
     uuid: e4824193-4f54-453b-d037-88368e85ef0e
     tls: true
-    servername: "pqh30v5.carwashipdir.shop"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -10480,7 +10480,7 @@ proxies:
     port: 80
     uuid: 2a2a8023-3b4b-407d-a00a-7beb5a158148
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10494,7 +10494,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: true
-    servername: ">-"
+    
       /?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net
     network: grpc
     grpc-opts: {}
@@ -10506,7 +10506,7 @@ proxies:
     port: 443
     uuid: e4824193-4f54-453b-d037-88368e85ef0e
     tls: true
-    servername: "pqh30v4.carwashipdir.shop"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -10518,7 +10518,7 @@ proxies:
     uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
     tls: true
     client-fingerprint: chrome
-    servername: "aws.amazon.com"
+    
     network: tcp
     reality-opts:
       public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
@@ -10533,7 +10533,7 @@ proxies:
     uuid: 9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b
     tls: true
     client-fingerprint: chrome
-    servername: "www.amd.com"
+    
     network: tcp
     reality-opts:
       public-key: W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg
@@ -10547,7 +10547,7 @@ proxies:
     uuid: 11beaf11-726d-4c11-8ce9-27308c1c608c
     tls: true
     client-fingerprint: chrome
-    servername: "analytics.google.com"
+    
     network: tcp
     reality-opts:
       public-key: v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8
@@ -10560,7 +10560,7 @@ proxies:
     port: 443
     uuid: d2efa18a-9e8a-3057-91fe-90c8e620e49f
     tls: true
-    servername: "s6.oboob.cn"
+    
     network: ws
     ws-opts:
       path: /db10242a4797a252
@@ -10574,7 +10574,7 @@ proxies:
     port: 80
     uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0
     tls: true
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /vless/
@@ -10586,7 +10586,7 @@ proxies:
     port: 80
     uuid: 2a2a8023-3b4b-407d-a00a-7beb5a158148
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10600,7 +10600,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -10612,7 +10612,7 @@ proxies:
     uuid: 53cd8178-2ee6-43d9-a2a7-881f287fd408
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM
@@ -10626,7 +10626,7 @@ proxies:
     uuid: nothing_88147cqsru
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0
@@ -10640,7 +10640,7 @@ proxies:
     port: 80
     uuid: c5fbb5dd-83bb-43ce-a799-e3e5c29e25da
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10654,7 +10654,7 @@ proxies:
     port: 80
     uuid: 33e1a095-1e25-4198-bfe7-ec312e4f98ee
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10668,7 +10668,7 @@ proxies:
     port: 80
     uuid: 2a2a8023-3b4b-407d-a00a-7beb5a158148
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10683,7 +10683,7 @@ proxies:
     uuid: e16a35ea-6715-4e75-9845-d20358bd0876
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    
     network: tcp
     reality-opts:
       public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU
@@ -10696,7 +10696,7 @@ proxies:
     port: 2098
     uuid: 5341f83e-634d-4920-9391-a6ffadd15276
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /PULAVPN
@@ -10710,7 +10710,7 @@ proxies:
     port: 443
     uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
     tls: true
-    servername: "dabaif0.webn.cc"
+    
     network: ws
     ws-opts:
       path: /db1024f4e56f542c
@@ -10724,7 +10724,7 @@ proxies:
     port: 80
     uuid: 65fe56c2-78ec-417a-a666-9f393eac8b61
     tls: false
-    servername: "''"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10738,7 +10738,7 @@ proxies:
     port: 2345
     uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028
     tls: false
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -10748,7 +10748,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10762,7 +10762,7 @@ proxies:
     port: 12312
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10776,7 +10776,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -10790,7 +10790,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10804,7 +10804,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10818,7 +10818,7 @@ proxies:
     port: 2086
     uuid: a2626d27-e0f8-490d-b23c-c9ca0dea4ea9
     tls: false
-    servername: "''"
+    
     network: httpupgrade
     tfo: false
     skip-cert-verify: false
@@ -10828,7 +10828,7 @@ proxies:
     port: 443
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10842,7 +10842,7 @@ proxies:
     port: 443
     uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820
     tls: true
-    servername: "cdn-no.lopzo.ir"
+    
     network: ws
     ws-opts:
       path: /
@@ -10854,7 +10854,7 @@ proxies:
     port: 443
     uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7
     tls: true
-    servername: "afrcloud22.mmv.kr"
+    
     network: ws
     ws-opts:
       path: /167.179.110.68
@@ -10868,7 +10868,7 @@ proxies:
     port: 12312
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.111000.indevs.in"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10883,7 +10883,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -10897,7 +10897,7 @@ proxies:
     port: 26480
     uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -10907,7 +10907,7 @@ proxies:
     port: 2096
     uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
     tls: true
-    servername: "sni.jpmj.dev"
+    
     network: ws
     ws-opts:
       path: /?ed=2560
@@ -10921,7 +10921,7 @@ proxies:
     port: 2087
     uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c
     tls: true
-    servername: "digikala.sorza.ir"
+    
     network: ws
     ws-opts:
       path: /?ed
@@ -10935,7 +10935,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -10949,7 +10949,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -10963,7 +10963,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -10975,7 +10975,7 @@ proxies:
     uuid: 0ea0ce13-85c2-4e97-8903-ef1232a2a2c6
     tls: true
     client-fingerprint: chrome
-    servername: "github.com"
+    
     network: tcp
     reality-opts:
       public-key: cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8
@@ -10989,7 +10989,7 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    
     network: ws
     ws-opts:
       path: /
@@ -11003,7 +11003,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -11018,7 +11018,7 @@ proxies:
     uuid: 8c6302ee-8eb9-488c-9888-b7a5eb48fccd
     tls: true
     client-fingerprint: chrome
-    servername: "de.darknet.run"
+    
     network: tcp
     reality-opts:
       public-key: cRoPQAxIR43_cZ5Ow5BP4L7fb60sI3EcG39ldWI0rDo
@@ -11033,7 +11033,7 @@ proxies:
     uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    
     network: tcp
     reality-opts:
       public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY
@@ -11047,7 +11047,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -11061,7 +11061,7 @@ proxies:
     port: 8880
     uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
     tls: false
-    servername: "''"
+    
     network: grpc
     grpc-opts: {}
     tfo: false
@@ -11072,7 +11072,7 @@ proxies:
     port: 443
     uuid: 72fc1188-430f-4a3c-a64e-af9023819899
     tls: true
-    servername: "002.w4WL4V1cpTKY.wOrKers.dev"
+    
     network: ws
     ws-opts:
       path: >-
@@ -11088,7 +11088,7 @@ proxies:
     uuid: 309fa273-6579-4cb2-9143-7cad50401eba
     tls: true
     client-fingerprint: chrome
-    servername: "www.cloudflare.com"
+    
     network: tcp
     reality-opts:
       public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY
@@ -11102,7 +11102,7 @@ proxies:
     port: 443
     uuid: 0e90f352-e9bc-4834-8ff6-49ba887eded4
     tls: true
-    servername: "''"
+    
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -11113,7 +11113,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11128,7 +11128,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11143,7 +11143,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11158,7 +11158,7 @@ proxies:
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: 5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc
@@ -11173,7 +11173,7 @@ proxies:
     uuid: 0535c331-b038-4cf1-b8e4-d4c41c8ad06b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I
@@ -11188,7 +11188,7 @@ proxies:
     uuid: 0535c331-b038-4cf1-b8e4-d4c41c8ad06b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I
@@ -11203,7 +11203,7 @@ proxies:
     uuid: 8c6302ee-8eb9-488c-9888-b7a5eb48fccd
     tls: true
     client-fingerprint: chrome
-    servername: st.ozone.ru
+    
     network: tcp
     reality-opts:
       public-key: mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c
@@ -11218,7 +11218,7 @@ proxies:
     uuid: 0535c331-b038-4cf1-b8e4-d4c41c8ad06b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I
@@ -11233,7 +11233,7 @@ proxies:
     uuid: b39aca97-e9f2-4a94-b87f-8748299846cd
     tls: true
     client-fingerprint: chrome
-    servername: m.vk.ru
+    
     network: tcp
     reality-opts:
       public-key: _clqzJ8ZkSG71dSLu5KfRB9NJf63uBbdlDFZ4hp1uBE
@@ -11248,7 +11248,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: XM44EKjkC6U8bm_SlaAoou6DqQx61K9mScIF_WGnk2s
@@ -11263,7 +11263,7 @@ proxies:
     uuid: 0535c331-b038-4cf1-b8e4-d4c41c8ad06b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I
@@ -11278,7 +11278,7 @@ proxies:
     uuid: a8214f18-5d5b-409f-a98a-458a85bce22b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0
@@ -11293,7 +11293,7 @@ proxies:
     uuid: 8c6302ee-8eb9-488c-9888-b7a5eb48fccd
     tls: true
     client-fingerprint: chrome
-    servername: esa-res.online.sberbank.ru
+    
     network: tcp
     reality-opts:
       public-key: mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c
@@ -11308,7 +11308,7 @@ proxies:
     uuid: 048ce500-05ab-485b-b224-1753d2b60730
     tls: true
     client-fingerprint: chrome
-    servername: dk40.strelkavpn.com
+    
     network: tcp
     reality-opts:
       public-key: xfNZvP60yv5cee9Nyac7Daww3QwlAd2WDTd14jJixAk
@@ -11323,7 +11323,7 @@ proxies:
     uuid: a8214f18-5d5b-409f-a98a-458a85bce22b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0
@@ -11338,7 +11338,7 @@ proxies:
     uuid: a8214f18-5d5b-409f-a98a-458a85bce22b
     tls: true
     client-fingerprint: chrome
-    servername: nl.funvideorus.net
+    
     network: tcp
     reality-opts:
       public-key: vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8
@@ -11353,7 +11353,7 @@ proxies:
     uuid: 4604876a-0652-4835-88bd-4421ea5c40da
     tls: true
     client-fingerprint: chrome
-    servername: hls-svod.itunes.apple.com
+    
     network: tcp
     reality-opts:
       public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -11368,7 +11368,7 @@ proxies:
     uuid: a8214f18-5d5b-409f-a98a-458a85bce22b
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0
@@ -11383,7 +11383,7 @@ proxies:
     uuid: 94a03e9a-74d5-4036-95e9-563cc19355de
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: 5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc
@@ -11398,7 +11398,7 @@ proxies:
     uuid: 1ebb7caf-8704-48de-adbb-30b0b821c650
     tls: true
     client-fingerprint: chrome
-    servername: www.microsoft.com
+    
     network: tcp
     reality-opts:
       public-key: 4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8
@@ -11413,7 +11413,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11428,7 +11428,7 @@ proxies:
     uuid: b39aca97-e9f2-4a94-b87f-8748299846cd
     tls: true
     client-fingerprint: chrome
-    servername: m.vk.ru
+    
     network: tcp
     reality-opts:
       public-key: _clqzJ8ZkSG71dSLu5KfRB9NJf63uBbdlDFZ4hp1uBE
@@ -11443,7 +11443,7 @@ proxies:
     uuid: 7177f5c4-f26a-4ab5-820f-62cb6ba649f7
     tls: true
     client-fingerprint: chrome
-    servername: apple.com
+    
     network: tcp
     reality-opts:
       public-key: cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20
@@ -11458,7 +11458,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: ae.cdn.stun.su
+    
     network: tcp
     reality-opts:
       public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
@@ -11472,7 +11472,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: ca.adobe-connect.top
+    
     network: ws
     ws-opts:
       path: /
@@ -11488,7 +11488,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: mpQAexKq3O655X6ORkad_CeBsPAutdghPp3CY_jtJSc
@@ -11503,7 +11503,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: poland.scroogethebest.com
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -11518,7 +11518,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11533,7 +11533,7 @@ proxies:
     uuid: a25405ec-ac56-433f-ad84-fa1b73cbbf2c
     tls: true
     client-fingerprint: chrome
-    servername: node5.telegavpn.org
+    
     network: tcp
     reality-opts:
       public-key: WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA
@@ -11548,7 +11548,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11563,7 +11563,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11578,7 +11578,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11593,7 +11593,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: poland.scroogethebest.com
+    
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -11608,7 +11608,7 @@ proxies:
     uuid: c690db76-e866-4bca-b184-4965d29ab086
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11623,7 +11623,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11638,7 +11638,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: max.ru
+    
     network: tcp
     reality-opts:
       public-key: Us7U978Q2jZwoEFoPxkv-fR1A4N0ehZVX_T9KwzXH3s
@@ -11653,7 +11653,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11668,7 +11668,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11683,7 +11683,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: max.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11698,7 +11698,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11713,7 +11713,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11728,7 +11728,7 @@ proxies:
     uuid: 24317829-ff2f-4287-bd4a-e61e9ccf3390
     tls: true
     client-fingerprint: chrome
-    servername: miui.com
+    
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -11743,7 +11743,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11758,7 +11758,7 @@ proxies:
     uuid: b39aca97-e9f2-4a94-b87f-8748299846cd
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0
@@ -11773,7 +11773,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11788,7 +11788,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -11803,7 +11803,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -11817,7 +11817,7 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: hetz.x-smm.com
+    
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
@@ -11833,7 +11833,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -11848,7 +11848,7 @@ proxies:
     uuid: e821a4aa-5892-4feb-bf76-a127cb3a2e56
     tls: true
     client-fingerprint: chrome
-    servername: apple.com
+    
     network: tcp
     reality-opts:
       public-key: luT4YDul5FI4hOdnV14CDyYTjdiYwRPRW3C149baYFM
@@ -11863,7 +11863,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -11878,7 +11878,7 @@ proxies:
     uuid: 7a7aa0d2-5311-45fc-80b0-9f46f3546793
     tls: true
     client-fingerprint: chrome
-    servername: eh.vk.ru
+    
     network: grpc
     reality-opts:
       public-key: wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE
@@ -11895,7 +11895,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11910,7 +11910,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: al.cdn.stun.su
+    
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -11925,7 +11925,7 @@ proxies:
     uuid: e39b2db3-ad43-48d5-8d57-22e4998702b7
     tls: true
     client-fingerprint: chrome
-    servername: tradingview.com
+    
     network: tcp
     reality-opts:
       public-key: Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0
@@ -11940,7 +11940,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -11955,7 +11955,7 @@ proxies:
     uuid: 18f72be7-0651-4037-928b-8a309d685796
     tls: true
     client-fingerprint: chrome
-    servername: google.com
+    
     network: tcp
     reality-opts:
       public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
@@ -11970,7 +11970,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -11985,7 +11985,7 @@ proxies:
     uuid: 99563666-9f62-4d8a-a0bb-f6881f93c52f
     tls: true
     client-fingerprint: chrome
-    servername: yahoo.com
+    
     network: tcp
     reality-opts:
       public-key: 5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ
@@ -12000,7 +12000,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: www.io.ozone.ru
+    
     network: tcp
     reality-opts:
       public-key: zwmzheFdRaB1IwtMIqzB6xfrL_Mako1kDAXO1IocCW0
@@ -12015,7 +12015,7 @@ proxies:
     uuid: 8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0
     tls: true
     client-fingerprint: chrome
-    servername: splitter.wb.ru
+    
     network: tcp
     reality-opts:
       public-key: QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw
@@ -12030,7 +12030,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12045,7 +12045,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12060,7 +12060,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12075,7 +12075,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12090,7 +12090,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -12105,7 +12105,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: hu.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12120,7 +12120,7 @@ proxies:
     uuid: 18f72be7-0651-4037-928b-8a309d685796
     tls: true
     client-fingerprint: chrome
-    servername: google.com
+    
     network: tcp
     reality-opts:
       public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
@@ -12135,7 +12135,7 @@ proxies:
     uuid: 6255a223-325c-4809-960e-ff072156735c
     tls: true
     client-fingerprint: chrome
-    servername: apiok.ru
+    
     network: tcp
     reality-opts:
       public-key: L6JmMq7D45s3pLCMas0Ukf3TWmCgYNEqo8ar8hFkfxY
@@ -12150,7 +12150,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: hu.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12165,7 +12165,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12180,7 +12180,7 @@ proxies:
     uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2
     tls: true
     client-fingerprint: chrome
-    servername: ya.ru
+    
     network: grpc
     reality-opts:
       public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc
@@ -12195,7 +12195,7 @@ proxies:
     port: 443
     uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045
     tls: true
-    servername: dev.nestandneighbours.com
+    
     network: ws
     ws-opts:
       path: /
@@ -12211,7 +12211,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: www.io.ozone.ru
+    
     network: tcp
     reality-opts:
       public-key: zwmzheFdRaB1IwtMIqzB6xfrL_Mako1kDAXO1IocCW0
@@ -12226,7 +12226,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12241,7 +12241,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12256,7 +12256,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: api-maps.yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12270,7 +12270,7 @@ proxies:
     port: 443
     uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
     tls: true
-    servername: apii.onlineshoppingez.ir
+    
     network: ws
     ws-opts:
       path: /O1w0n3vYgFKYs7EzNAvLPvOp
@@ -12286,7 +12286,7 @@ proxies:
     uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2
     tls: true
     client-fingerprint: chrome
-    servername: yahoo.com
+    
     network: tcp
     reality-opts:
       public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk
@@ -12301,7 +12301,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: kE4EZIN4WcOejRZGeNrzCuCZk22ebmMmq9YzOo1yC0k
@@ -12316,7 +12316,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: AmcTYjbCAn33BFmg55kFKIIbNRBmQWan9RDl8lZuHgo
@@ -12331,7 +12331,7 @@ proxies:
     uuid: e9000d6b-2cb8-46b0-96c8-751a7abd54f2
     tls: true
     client-fingerprint: chrome
-    servername: tradingview.com
+    
     network: tcp
     reality-opts:
       public-key: NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA
@@ -12346,7 +12346,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: pl.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw
@@ -12361,7 +12361,7 @@ proxies:
     uuid: feaf1d64-b44c-4cc8-b114-4001478c1fd0
     tls: true
     client-fingerprint: chrome
-    servername: fit.jojack.ru
+    
     network: tcp
     reality-opts:
       public-key: u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw
@@ -12376,7 +12376,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8
@@ -12391,7 +12391,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: www.io.ozone.ru
+    
     network: tcp
     reality-opts:
       public-key: uO6Gm9E_o0K-qqROroclkJ6ab0Cu2C0rOc6DZmyo_TE
@@ -12406,7 +12406,7 @@ proxies:
     uuid: bf3e8944-8d26-47de-8748-b9aa74cce974
     tls: true
     client-fingerprint: chrome
-    servername: yahoo.com
+    
     network: tcp
     reality-opts:
       public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk
@@ -12421,7 +12421,7 @@ proxies:
     uuid: 6fd9f786-d974-49d0-b5c4-397678de69a2
     tls: true
     client-fingerprint: chrome
-    servername: www.cybo.com
+    
     network: tcp
     reality-opts:
       public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
@@ -12436,7 +12436,7 @@ proxies:
     uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -12450,7 +12450,7 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: ca.adobe-connect.top
+    
     network: ws
     ws-opts:
       path: /
@@ -12466,7 +12466,7 @@ proxies:
     uuid: 8e3a3121-93e6-416e-8a8a-8e5ea918a81b
     tls: true
     client-fingerprint: chrome
-    servername: pls.kopobkatopta.ru
+    
     network: tcp
     reality-opts:
       public-key: SKTGLuU_H4_K3YDqsBzsSROeC7NcfAZkoLg4YVkDvxY
@@ -12480,7 +12480,7 @@ proxies:
     port: 443
     uuid: 79d24ca6-8f75-4653-9a9c-2d4ee38f4b88
     tls: true
-    servername: nnet.online
+    
     network: ws
     ws-opts:
       path: /vless-tls
@@ -12496,7 +12496,7 @@ proxies:
     uuid: ff6fb512-147d-419a-9672-e131133f7189
     tls: true
     client-fingerprint: chrome
-    servername: tradingview.com
+    
     network: tcp
     reality-opts:
       public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA
@@ -12511,7 +12511,7 @@ proxies:
     uuid: b39aca97-e9f2-4a94-b87f-8748299846cd
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0
@@ -12526,7 +12526,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk
@@ -12541,7 +12541,7 @@ proxies:
     uuid: 11e41a32-6672-48a0-b9cb-c8694242ecff
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -12556,7 +12556,7 @@ proxies:
     uuid: 811b7652-ac8c-41f8-84c0-8406d883e345
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -12571,7 +12571,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: www.io.ozone.ru
+    
     network: tcp
     reality-opts:
       public-key: uO6Gm9E_o0K-qqROroclkJ6ab0Cu2C0rOc6DZmyo_TE
@@ -12586,7 +12586,7 @@ proxies:
     uuid: 8c6302ee-8eb9-488c-9888-b7a5eb48fccd
     tls: true
     client-fingerprint: chrome
-    servername: nyc.cdn.stun.su
+    
     network: tcp
     reality-opts:
       public-key: mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c
@@ -12601,7 +12601,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: 29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0
@@ -12616,7 +12616,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -12631,7 +12631,7 @@ proxies:
     uuid: 9bc247bd-6fef-468b-91e7-2400e8c0903f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: zbYv3t9VgzBeh9kTydhdi7u9niwh-_LHa4xYc9Zl_1U
@@ -12646,7 +12646,7 @@ proxies:
     uuid: 7cd318d9-4bf8-4a7a-8680-af84282953e6
     tls: true
     client-fingerprint: chrome
-    servername: m.vk.ru
+    
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -12661,7 +12661,7 @@ proxies:
     uuid: 86c8a690-9602-4d40-bbf7-156720de104f
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -12676,7 +12676,7 @@ proxies:
     uuid: 30eb83b9-1782-4848-a37c-dec8bbf4c62f
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw
@@ -12691,7 +12691,7 @@ proxies:
     uuid: 11e41a32-6672-48a0-b9cb-c8694242ecff
     tls: true
     client-fingerprint: chrome
-    servername: m.vk.ru
+    
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -12706,7 +12706,7 @@ proxies:
     uuid: 8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0
     tls: true
     client-fingerprint: chrome
-    servername: max.ru
+    
     network: tcp
     reality-opts:
       public-key: fdfPxIo_ioKf-zRBmiXZPcyziJpJCe5ARgzXH0kqpCw
@@ -12721,7 +12721,7 @@ proxies:
     uuid: 7cd318d9-4bf8-4a7a-8680-af84282953e6
     tls: true
     client-fingerprint: chrome
-    servername: yandex.ru
+    
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -12736,7 +12736,7 @@ proxies:
     uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
     tls: true
     client-fingerprint: chrome
-    servername: www.ibm.com
+    
     network: tcp
     reality-opts:
       public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
@@ -12751,7 +12751,7 @@ proxies:
     uuid: 99bd2791-8e27-435b-a1e2-c9b625101af9
     tls: true
     client-fingerprint: chrome
-    servername: www.intel.com
+    
     network: tcp
     reality-opts:
       public-key: PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU
@@ -12766,7 +12766,7 @@ proxies:
     uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98
     tls: true
     client-fingerprint: chrome
-    servername: ads.x5.ru
+    
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
