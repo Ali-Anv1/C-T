@@ -1415,15 +1415,6 @@ proxies:
     port: 443
     cipher: aes-128-gcm
     password: shadowsocks
-  - name: "hamedp71sg 2"
-    type: trojan
-    server: 153.121.39.240
-    port: 3901
-    password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-    tls: true
-    sni: www.nintendogames.net
-    skip-cert-verify: true
-    network: tcp
   - name: "hamedp71🇩🇪 28"
     type: vmess
     server: 57.129.25.22
