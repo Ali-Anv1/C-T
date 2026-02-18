@@ -20,7 +20,7 @@ external-controller-cors:
 profile:
   store-selected: true
   store-fake-ip: true
-hosts: {}
+hosts: 
 dns:
   enable: true
   listen: 0.0.0.0:1053
@@ -393,7 +393,7 @@ proxies:
     tls: true
     servername: "''"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: false
   - name: "hamedp71🇳🇱 3"
@@ -529,7 +529,7 @@ proxies:
     tls: true
     servername: "pqh30v5.carwashipdir.shop"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: true
   - name: "hamedp71❓ 16"
@@ -540,7 +540,7 @@ proxies:
     tls: true
     servername: "pqh30v5.carwashipdir.shop"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: true
   - name: "hamedp71🇺🇸 3"
@@ -566,7 +566,7 @@ proxies:
     tls: true
     servername: "pqh30v4.carwashipdir.shop"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: false
   - name: "hamedp71❓ 18"
@@ -601,7 +601,7 @@ proxies:
     tls: false
     servername: "''"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: false
   - name: "hamedp71❓ 20"
@@ -652,7 +652,7 @@ proxies:
     tls: false
     servername: "''"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: false
   - name: "hamedp71❓ 23"
@@ -879,7 +879,7 @@ proxies:
     tls: true
     servername: "''"
     network: grpc
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: true
   - name: "hamedp71🇪🇪"
@@ -3693,7 +3693,7 @@ proxies:
     reality-opts:
       public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc
       short-id: 7dcd0c337708
-    grpc-opts: {}
+    grpc-opts: 
     tfo: false
     skip-cert-verify: false
     flow: ''
