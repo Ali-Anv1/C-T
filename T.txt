@@ -569,20 +569,6 @@ proxies:
     grpc-opts: {}
     tfo: false
     skip-cert-verify: false
-  - name: "hamedp71🇫🇷 3"
-    type: trojan
-    server: chatgpt.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: false
   - name: "hamedp71❓ 18"
     type: vless
     server: 45.82.251.208
@@ -4859,7 +4845,6 @@ proxy-groups:
       - "hamedp71❓ 16"
       - "hamedp71🇺🇸 3"
       - "hamedp71❓ 17"
-      - "hamedp71🇫🇷 3"
       - "hamedp71❓ 18"
       - "hamedp71🇳🇱 5"
       - "hamedp71❓ 19"
