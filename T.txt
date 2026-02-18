@@ -86,10 +86,9 @@ proxies:
       headers:
         host: tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev
     tfo: false
-    skip-cert-verify: false
-    client-fingerprint: chrome  # اضافه شده
-    tls-padding: true           # اضافه شده (برای مخفی کردن طول پکت)
-    skip-cert-verify: true      # بهتر است روی true باشد
+    skip-cert-verify: true
+    client-fingerprint: chrome    
+    tls-padding: true         
     # تنظیمات فرگمنت مخصوص ایران 👇
     smux:
       enable: true
