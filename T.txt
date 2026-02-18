@@ -592,7 +592,7 @@ proxies:
     servername: ">-"
       /?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net
     network: grpc
-    grpc-opts: {}
+    grpc-opts:
     tfo: false
     skip-cert-verify: false
   - name: "hamedp71🇳🇱 5"
