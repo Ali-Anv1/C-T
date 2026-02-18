@@ -72,6 +72,946 @@ sniffer:
     QUIC:
       ports: [443, 8443]
 proxies:
+  - name: "hamedp71🇺🇸"
+    type: vless
+    server: afrcloud22.mmv.kr
+    port: 443
+    uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
+    tls: true
+    servername: "afrcloud22.mmv.kr"
+    network: ws
+    ws-opts:
+      path: /130.185.164.213=8443
+      headers:
+        host: afrcloud22.mmv.kr
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇬🇧"
+    type: ss
+    server: admin.c2.havij.co
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: kaQH3hGdcP80XEDI
+  - name: "hamedp71🇵🇱"
+    type: vless
+    server: 144.31.3.30
+    port: 443
+    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
+    tls: true
+    client-fingerprint: chrome
+    servername: "poland.scroogethebest.com"
+    network: tcp
+    reality-opts:
+      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
+      short-id: 4fa44664f6a566d3
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇵🇱 2"
+    type: vless
+    server: 144.31.3.35
+    port: 443
+    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
+    tls: true
+    client-fingerprint: chrome
+    servername: "poland.scroogethebest.com"
+    network: tcp
+    reality-opts:
+      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
+      short-id: 4fa44664f6a566d3
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓"
+    type: vless
+    server: 5.34.179.145
+    port: 3443
+    uuid: b5eacdb7-87cf-468c-ae20-5e9c009722e6
+    tls: true
+    client-fingerprint: chrome
+    servername: "google.com"
+    network: tcp
+    reality-opts:
+      public-key: CsUm6jBZvd5KzFN8Klm9KYF5kiUmztspcA9InbcnwXM
+      short-id: e49b4e3d5f46d5c2
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇫🇷"
+    type: trojan
+    server: chatgpt.com
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.gossipglove.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        host: www.gossipglove.com
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇫🇮"
+    type: vless
+    server: 45.15.127.107
+    port: 443
+    uuid: 8df8d701-38b4-5175-89ef-7447a1250e67
+    tls: true
+    client-fingerprint: chrome
+    servername: "eh.vk.com"
+    network: tcp
+    reality-opts:
+      public-key: 3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk
+      short-id: e3
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 2"
+    type: vless
+    server: 104.16.2.90
+    port: 443
+    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
+    tls: true
+    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: afrcloud22.mmv.kr
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇺🇸 2"
+    type: vless
+    server: nyc.cdn.stun.su
+    port: 443
+    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
+    tls: true
+    client-fingerprint: chrome
+    servername: "nyc.cdn.stun.su"
+    network: tcp
+    reality-opts:
+      public-key: u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w
+      short-id: 1c8eebcb20f6d0ce
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇫🇮 2"
+    type: vless
+    server: 64.188.73.12
+    port: 443
+    uuid: 99bd2791-8e27-435b-a1e2-c9b625101af9
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.intel.com"
+    network: tcp
+    reality-opts:
+      public-key: PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU
+      short-id: d91248fbca
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 3"
+    type: vless
+    server: norman.ns.cloudflare.com
+    port: 2096
+    uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
+    tls: true
+    servername: "hetz.x-smm.com"
+    network: ws
+    ws-opts:
+      path: /45.76.183.217=49292
+      headers:
+        host: hetz.x-smm.com
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇳🇱"
+    type: vless
+    server: 45.134.218.222
+    port: 443
+    uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4
+    tls: true
+    client-fingerprint: chrome
+    servername: "stats.vk-portal.net"
+    network: tcp
+    reality-opts:
+      public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg
+      short-id: d4727968a1fae56f
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 4"
+    type: vless
+    server: 104.18.185.26
+    port: 443
+    uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
+    tls: true
+    servername: "apii.onlineshoppingez.ir"
+    network: ws
+    ws-opts:
+      path: /O1w0n3vYgFKYs7EzNAvLPvOp
+      headers:
+        host: apii.onlineshoppingez.ir
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇫🇷 2"
+    type: trojan
+    server: 172.64.152.23
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.gossipglove.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        host: www.gossipglove.com
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 5"
+    type: vless
+    server: 104.16.2.90
+    port: 443
+    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
+    tls: true
+    servername: "ProxyVPN11.afrcloud22.mmv.kr"
+    network: ws
+    ws-opts:
+      path: /43.218.77.16=1443
+      headers:
+        host: afrcloud22.mmv.kr
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇳🇱 2"
+    type: ss
+    server: 82.38.31.69
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: oZIoA69Q8yhcQV8ka3Pa3A
+  - name: "hamedp71❓ 6"
+    type: vless
+    server: 162.159.36.20
+    port: 2053
+    uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
+    tls: true
+    servername: "ir1.airpanel.top"
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: ir1.airpanel.top
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 7"
+    type: vless
+    server: br.pineappled.org
+    port: 443
+    uuid: 8a77b19a-36be-43ff-ace0-bc322aa4f1e3
+    tls: true
+    client-fingerprint: chrome
+    servername: "google.com"
+    network: tcp
+    reality-opts:
+      public-key: CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI
+      short-id: '99'
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇫🇮 3"
+    type: vless
+    server: fn.takovpn.ru
+    port: 443
+    uuid: 373a56eb-aaa9-4a92-b209-503dd916900f
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.vk.com"
+    network: tcp
+    reality-opts:
+      public-key: 3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI
+      short-id: 286e2d
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇫🇮 4"
+    type: vless
+    server: 144.31.128.129
+    port: 443
+    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
+    tls: true
+    client-fingerprint: chrome
+    servername: "ae.cdn.stun.su"
+    network: tcp
+    reality-opts:
+      public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
+      short-id: 41a0b29e95aaea87
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇩🇪"
+    type: vless
+    server: 185.236.26.58
+    port: 443
+    uuid: f74d98a4-9198-4f78-b921-47d4f4950953
+    tls: true
+    servername: "de3.teleport.lat"
+    network: tcp
+    tfo: false
+    skip-cert-verify: true
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇩🇪 2"
+    type: vless
+    server: 212.192.246.57
+    port: 2087
+    uuid: 3dcd6767-ec3e-4eeb-9fa6-c70b8661072f
+    tls: true
+    client-fingerprint: chrome
+    servername: "refersion.com"
+    network: tcp
+    reality-opts:
+      public-key: DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ
+      short-id: e004
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇦🇹"
+    type: vless
+    server: 152.53.46.3
+    port: 443
+    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
+    tls: true
+    client-fingerprint: chrome
+    servername: "au1.scroogethebest.com"
+    network: tcp
+    reality-opts:
+      public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4
+      short-id: 9c2378562188c3cb
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 8"
+    type: vless
+    server: yesok42v2.ip4exordir.shop
+    port: 8880
+    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
+    tls: true
+    servername: "''"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇳🇱 3"
+    type: trojan
+    server: 104.18.32.47
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.multiplydose.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        host: www.multiplydose.com
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇳🇱 4"
+    type: trojan
+    server: www.multiplydose.com
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.multiplydose.com
+    network: ws
+    ws-opts:
+      path: /assignment
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 9"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813
+    tls: true
+    servername: "dabaihk.webn.cc"
+    network: ws
+    ws-opts:
+      path: /db1024a105975707
+      headers:
+        host: dabaihk.webn.cc
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 10"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
+    tls: true
+    servername: "dabaif0.webn.cc"
+    network: ws
+    ws-opts:
+      path: /db1024f4e56f542c
+      headers:
+        host: dabaif0.webn.cc
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 11"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 873a8e21-5fed-36a7-b251-734ebc97381c
+    tls: true
+    servername: "dabaif0.webn.cc"
+    network: ws
+    ws-opts:
+      path: /db10248a03e8db1b
+      headers:
+        host: dabaif0.webn.cc
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇵🇱 3"
+    type: trojan
+    server: 188.114.98.0
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.creationlong.org
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        host: www.creationlong.org
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 12"
+    type: vmess
+    server: 209.126.84.189
+    port: 443
+    uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7
+    alterId: 0
+    cipher: auto
+    tls: false
+    servername: "''"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /vmessws
+      headers:
+        host: 209.126.84.189
+  - name: "hamedp71❓ 13"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 1e823993-86ac-3ead-89b5-227e73825fdb
+    tls: true
+    servername: "dabaif0.webn.cc"
+    network: ws
+    ws-opts:
+      path: /db1024faebdb62e0
+      headers:
+        host: dabaif0.webn.cc
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 14"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 3f9c8463-8610-3ed8-86c8-a26713067825
+    tls: true
+    servername: "s6.oboob.cn"
+    network: ws
+    ws-opts:
+      path: /db1024efd9edc1a9
+      headers:
+        host: s6.oboob.cn
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 15"
+    type: vless
+    server: all.tellmethetrue.shop
+    port: 443
+    uuid: e4824193-4f54-453b-d037-88368e85ef0e
+    tls: true
+    servername: "pqh30v5.carwashipdir.shop"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 16"
+    type: vless
+    server: 104.16.9.20
+    port: 443
+    uuid: e4824193-4f54-453b-d037-88368e85ef0e
+    tls: true
+    servername: "pqh30v5.carwashipdir.shop"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇺🇸 3"
+    type: vmess
+    server: 69.63.210.35
+    port: 24943
+    uuid: a89feda9-ec30-48c1-ae6b-1a6f5b573f6b
+    alterId: 0
+    cipher: auto
+    tls: false
+    servername: "''"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /a89feda9-ec30-48c1-ae6b-1a6f5b573f6b-vm
+      headers:
+        host: www.bing.com
+  - name: "hamedp71❓ 17"
+    type: vless
+    server: chatgpt.com
+    port: 443
+    uuid: e4824193-4f54-453b-d037-88368e85ef0e
+    tls: true
+    servername: "pqh30v4.carwashipdir.shop"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇫🇷 3"
+    type: trojan
+    server: chatgpt.com
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.gossipglove.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        host: www.gossipglove.com
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 18"
+    type: vless
+    server: 45.82.251.208
+    port: 8880
+    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
+    tls: true
+    servername: ">-"
+      /?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇳🇱 5"
+    type: trojan
+    server: 188.114.98.0
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.multiplydose.com
+    network: ws
+    ws-opts:
+      path: /assignment
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 19"
+    type: vless
+    server: pqh29v4.globalfymain.com
+    port: 8880
+    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
+    tls: false
+    servername: "''"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 20"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: d2efa18a-9e8a-3057-91fe-90c8e620e49f
+    tls: true
+    servername: "s6.oboob.cn"
+    network: ws
+    ws-opts:
+      path: /db10242a4797a252
+      headers:
+        host: s6.oboob.cn
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 21"
+    type: vless
+    server: 95.164.85.109
+    port: 59374
+    uuid: bfc78cd8-5951-4803-8d6c-4cedef8cd420
+    tls: true
+    client-fingerprint: chrome
+    servername: "yahoo.com"
+    network: tcp
+    reality-opts:
+      public-key: ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc
+      short-id: d21e7c
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇫🇷 4"
+    type: trojan
+    server: www.gossipglove.com
+    port: 443
+    password: humanity
+    tls: true
+    sni: www.gossipglove.com
+    network: ws
+    ws-opts:
+      path: /assignment
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71❓ 22"
+    type: vless
+    server: 45.82.251.116
+    port: 8880
+    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
+    tls: false
+    servername: "''"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 23"
+    type: vless
+    server: 152.228.162.19
+    port: 80
+    uuid: 5ce84688-f535-46ad-a512-37b17becf6ea
+    tls: false
+    servername: "''"
+    network: ws
+    ws-opts:
+      path: /vless/
+      headers:
+        host: akamaized.net
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇺🇸 4"
+    type: vless
+    server: 025.electrocellco-cf-025.workers.dev
+    port: 2053
+    uuid: 0b93fd13-de5c-4ca5-8530-435bfa2a0955
+    tls: true
+    servername: "025.ELEcTROcELLco-Cf-025.wORkeRS.DeV"
+    network: ws
+    ws-opts:
+      path: >-
+        /eyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560
+      headers:
+        host: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 24"
+    type: vless
+    server: s1.db-link.in
+    port: 443
+    uuid: 305419ed-4ef5-3e5a-8d48-b803c58853d3
+    tls: true
+    servername: "s6.oboob.cn"
+    network: ws
+    ws-opts:
+      path: /db10248afdcb0daf
+      headers:
+        host: s6.oboob.cn
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 25"
+    type: vless
+    server: 38.180.144.156
+    port: 8443
+    uuid: ae0a43bc-6189-456e-9b8a-a93f39af336e
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.microsoft.com"
+    network: tcp
+    reality-opts:
+      public-key: 76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s
+      short-id: 42d7234d875308a2
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇨🇦"
+    type: vmess
+    server: 15.235.41.200
+    port: 80
+    uuid: 58fe1542-5290-40ad-815a-77707a81afe5
+    alterId: 0
+    cipher: auto
+    tls: false
+    servername: "''"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /IOebhLMhl1CTbFHbL95myfRX2
+      headers:
+        host: 15.235.41.200
+  - name: "hamedp71❓ 26"
+    type: vless
+    server: 104.18.32.47
+    port: 80
+    uuid: c5fbb5dd-83bb-43ce-a799-e3e5c29e25da
+    tls: false
+    servername: "''"
+    network: ws
+    ws-opts:
+      path: /?ed
+      headers:
+        host: gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 27"
+    type: vmess
+    server: 47.250.45.234
+    port: 8613
+    uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea
+    alterId: 0
+    cipher: auto
+    tls: false
+    servername: "''"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /arki?ed=2048
+      headers:
+        host: ''
+  - name: "hamedp71🇩🇪 3"
+    type: vless
+    server: vip2.kaixincloud.top
+    port: 2096
+    uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
+    tls: true
+    servername: "ca.adobe-connect.top"
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: ca.adobe-connect.top
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇩🇪 4"
+    type: vless
+    server: 104.18.185.26
+    port: 2096
+    uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
+    tls: true
+    servername: "ca.adobe-connect.top"
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: ca.adobe-connect.top
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇹🇷"
+    type: vless
+    server: 94.131.123.167
+    port: 443
+    uuid: a44e0875-210f-4941-9062-89b6361a14c6
+    tls: true
+    client-fingerprint: chrome
+    servername: "apple.com"
+    network: tcp
+    reality-opts:
+      public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4
+      short-id: 8bcfe256cf216fd8
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 28"
+    type: vless
+    server: 104.18.185.26
+    port: 443
+    uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
+    tls: true
+    servername: "dabaif0.webn.cc"
+    network: ws
+    ws-opts:
+      path: /db1024f4e56f542c
+      headers:
+        host: dabaif0.webn.cc
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇧🇷"
+    type: ss
+    server: 5.188.4.103
+    port: 11203
+    cipher: chacha20-ietf-poly1305
+    password: a7c205642b302c20
+  - name: "hamedp71🇧🇷 2"
+    type: ss
+    server: 5.188.4.103
+    port: 11201
+    cipher: chacha20-ietf-poly1305
+    password: a7c205642b302c20
+  - name: "hamedp71🇧🇷 3"
+    type: ss
+    server: 5.188.4.103
+    port: 11202
+    cipher: chacha20-ietf-poly1305
+    password: a7c205642b302c20
+  - name: "hamedp71🇧🇷 4"
+    type: ss
+    server: 5.188.4.103
+    port: 11204
+    cipher: chacha20-ietf-poly1305
+    password: a7c205642b302c20
+  - name: "hamedp71🇧🇷 5"
+    type: ss
+    server: 5.188.4.103
+    port: 11205
+    cipher: chacha20-ietf-poly1305
+    password: a7c205642b302c20
+  - name: "hamedp71❓ 29"
+    type: ss
+    server: 3.1.195.148
+    port: 8313
+    cipher: chacha20-ietf-poly1305
+    password: ljqdalu13..
+  - name: "hamedp71❓ 30"
+    type: ss
+    server: 3.1.195.148
+    port: 8316
+    cipher: chacha20-ietf-poly1305
+    password: ljqdalu13..
+  - name: "hamedp71🇺🇸 5"
+    type: vless
+    server: vvbg.191262.xyz
+    port: 443
+    uuid: 4a7baca1-8048-4a91-8316-595b36657a54
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.aljazeera.net"
+    network: tcp
+    reality-opts:
+      public-key: WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo
+      short-id: b8b4fb16
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71❓ 31"
+    type: vless
+    server: yesok42v1.ip4exordir.shop
+    port: 8880
+    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
+    tls: true
+    servername: "''"
+    network: grpc
+    grpc-opts: {}
+    tfo: false
+    skip-cert-verify: true
+  - name: "hamedp71🇪🇪"
+    type: ss
+    server: 38.180.216.114
+    port: 7307
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+  - name: "hamedp71❓ 32"
+    type: vless
+    server: 43.173.125.15
+    port: 44519
+    uuid: 6b05ea27-051b-450b-965b-f6c5da11a1f0
+    tls: false
+    servername: "''"
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇺🇸 6"
+    type: vless
+    server: 188.114.96.0
+    port: 443
+    uuid: 0c77cfd8-dcf8-4558-8a9b-1b39f324d347
+    tls: true
+    servername: "serverjadid.teramadolyt.workers.dev"
+    network: ws
+    ws-opts:
+      path: >-
+        /eyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560
+      headers:
+        host: serverjadid.teramadolyt.workers.dev
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇳🇱 6"
+    type: vless
+    server: 37.16.74.19
+    port: 2053
+    uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.ibm.com"
+    network: tcp
+    reality-opts:
+      public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
+      short-id: 4a5b6c7d
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇵🇱 4"
+    type: vless
+    server: 178.17.59.73
+    port: 2053
+    uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
+    tls: true
+    client-fingerprint: chrome
+    servername: "www.ibm.com"
+    network: tcp
+    reality-opts:
+      public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
+      short-id: 423bccc9c13fb509
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇺🇸 7"
+    type: vless
+    server: 017.electrocellco-cf-017.workers.dev
+    port: 443
+    uuid: b74bbaca-8bbe-41e1-9af9-18d467836282
+    tls: true
+    servername: "017.EleCTRoCelLCo-CF-017.Workers.dEv"
+    network: ws
+    ws-opts:
+      path: >-
+        /eyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
+      headers:
+        host: 017.EleCTRoCelLCo-CF-017.Workers.dEv
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71❓ 33"
+    type: vless
+    server: a11.api-tel.ir
+    port: 2086
+    uuid: 0696d558-118e-4613-8262-59fe272cac59
+    tls: true
+    servername: "''"
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "hamedp71🇺🇸 8"
+    type: vless
+    server: 15.204.97.197
+    port: 23576
+    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+    tls: true
+    client-fingerprint: chrome
+    servername: "fuck.rkn"
+    network: tcp
+    reality-opts:
+      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+      short-id: '01'
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+  - name: "hamedp71🇺🇸 9"
+    type: vless
+    server: 15.204.97.216
+    port: 23576
+    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+    tls: true
+    client-fingerprint: chrome
+    servername: "fuck.rkn"
+    network: tcp
+    reality-opts:
+      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+      short-id: '01'
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
   - name: "hamedvpns-F 🇦🇺"
     type: vless
     server: chatgpt.com
@@ -2123,946 +3063,6 @@ proxies:
         host: steep-poetry-829c.false-mossy-caucus.workers.dev
     tfo: false
     
-  - name: "hamedp71🇺🇸"
-    type: vless
-    server: afrcloud22.mmv.kr
-    port: 443
-    uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043
-    tls: true
-    servername: "afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /130.185.164.213=8443
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇬🇧"
-    type: ss
-    server: admin.c2.havij.co
-    port: 443
-    cipher: chacha20-ietf-poly1305
-    password: kaQH3hGdcP80XEDI
-  - name: "hamedp71🇵🇱"
-    type: vless
-    server: 144.31.3.30
-    port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
-      short-id: 4fa44664f6a566d3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇵🇱 2"
-    type: vless
-    server: 144.31.3.35
-    port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
-      short-id: 4fa44664f6a566d3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓"
-    type: vless
-    server: 5.34.179.145
-    port: 3443
-    uuid: b5eacdb7-87cf-468c-ae20-5e9c009722e6
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: CsUm6jBZvd5KzFN8Klm9KYF5kiUmztspcA9InbcnwXM
-      short-id: e49b4e3d5f46d5c2
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇷"
-    type: trojan
-    server: chatgpt.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇫🇮"
-    type: vless
-    server: 45.15.127.107
-    port: 443
-    uuid: 8df8d701-38b4-5175-89ef-7447a1250e67
-    tls: true
-    client-fingerprint: chrome
-    servername: "eh.vk.com"
-    network: tcp
-    reality-opts:
-      public-key: 3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk
-      short-id: e3
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 2"
-    type: vless
-    server: 104.16.2.90
-    port: 443
-    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
-    tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇺🇸 2"
-    type: vless
-    server: nyc.cdn.stun.su
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "nyc.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w
-      short-id: 1c8eebcb20f6d0ce
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇮 2"
-    type: vless
-    server: 64.188.73.12
-    port: 443
-    uuid: 99bd2791-8e27-435b-a1e2-c9b625101af9
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.intel.com"
-    network: tcp
-    reality-opts:
-      public-key: PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU
-      short-id: d91248fbca
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 3"
-    type: vless
-    server: norman.ns.cloudflare.com
-    port: 2096
-    uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
-    tls: true
-    servername: "hetz.x-smm.com"
-    network: ws
-    ws-opts:
-      path: /45.76.183.217=49292
-      headers:
-        host: hetz.x-smm.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇳🇱"
-    type: vless
-    server: 45.134.218.222
-    port: 443
-    uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4
-    tls: true
-    client-fingerprint: chrome
-    servername: "stats.vk-portal.net"
-    network: tcp
-    reality-opts:
-      public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg
-      short-id: d4727968a1fae56f
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 4"
-    type: vless
-    server: 104.18.185.26
-    port: 443
-    uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
-    tls: true
-    servername: "apii.onlineshoppingez.ir"
-    network: ws
-    ws-opts:
-      path: /O1w0n3vYgFKYs7EzNAvLPvOp
-      headers:
-        host: apii.onlineshoppingez.ir
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇫🇷 2"
-    type: trojan
-    server: 172.64.152.23
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 5"
-    type: vless
-    server: 104.16.2.90
-    port: 443
-    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
-    tls: true
-    servername: "ProxyVPN11.afrcloud22.mmv.kr"
-    network: ws
-    ws-opts:
-      path: /43.218.77.16=1443
-      headers:
-        host: afrcloud22.mmv.kr
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇳🇱 2"
-    type: ss
-    server: 82.38.31.69
-    port: 8080
-    cipher: chacha20-ietf-poly1305
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-  - name: "hamedp71❓ 6"
-    type: vless
-    server: 162.159.36.20
-    port: 2053
-    uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
-    tls: true
-    servername: "ir1.airpanel.top"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: ir1.airpanel.top
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 7"
-    type: vless
-    server: br.pineappled.org
-    port: 443
-    uuid: 8a77b19a-36be-43ff-ace0-bc322aa4f1e3
-    tls: true
-    client-fingerprint: chrome
-    servername: "google.com"
-    network: tcp
-    reality-opts:
-      public-key: CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI
-      short-id: '99'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇫🇮 3"
-    type: vless
-    server: fn.takovpn.ru
-    port: 443
-    uuid: 373a56eb-aaa9-4a92-b209-503dd916900f
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.vk.com"
-    network: tcp
-    reality-opts:
-      public-key: 3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI
-      short-id: 286e2d
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇫🇮 4"
-    type: vless
-    server: 144.31.128.129
-    port: 443
-    uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
-    tls: true
-    client-fingerprint: chrome
-    servername: "ae.cdn.stun.su"
-    network: tcp
-    reality-opts:
-      public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
-      short-id: 41a0b29e95aaea87
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪"
-    type: vless
-    server: 185.236.26.58
-    port: 443
-    uuid: f74d98a4-9198-4f78-b921-47d4f4950953
-    tls: true
-    servername: "de3.teleport.lat"
-    network: tcp
-    tfo: false
-    skip-cert-verify: true
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇩🇪 2"
-    type: vless
-    server: 212.192.246.57
-    port: 2087
-    uuid: 3dcd6767-ec3e-4eeb-9fa6-c70b8661072f
-    tls: true
-    client-fingerprint: chrome
-    servername: "refersion.com"
-    network: tcp
-    reality-opts:
-      public-key: DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ
-      short-id: e004
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇦🇹"
-    type: vless
-    server: 152.53.46.3
-    port: 443
-    uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-    tls: true
-    client-fingerprint: chrome
-    servername: "au1.scroogethebest.com"
-    network: tcp
-    reality-opts:
-      public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4
-      short-id: 9c2378562188c3cb
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 8"
-    type: vless
-    server: yesok42v2.ip4exordir.shop
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: true
-    servername: "''"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇳🇱 3"
-    type: trojan
-    server: 104.18.32.47
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.multiplydose.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.multiplydose.com
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇳🇱 4"
-    type: trojan
-    server: www.multiplydose.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.multiplydose.com
-    network: ws
-    ws-opts:
-      path: /assignment
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 9"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813
-    tls: true
-    servername: "dabaihk.webn.cc"
-    network: ws
-    ws-opts:
-      path: /db1024a105975707
-      headers:
-        host: dabaihk.webn.cc
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 10"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
-    tls: true
-    servername: "dabaif0.webn.cc"
-    network: ws
-    ws-opts:
-      path: /db1024f4e56f542c
-      headers:
-        host: dabaif0.webn.cc
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 11"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 873a8e21-5fed-36a7-b251-734ebc97381c
-    tls: true
-    servername: "dabaif0.webn.cc"
-    network: ws
-    ws-opts:
-      path: /db10248a03e8db1b
-      headers:
-        host: dabaif0.webn.cc
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇵🇱 3"
-    type: trojan
-    server: 188.114.98.0
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.creationlong.org
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.creationlong.org
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 12"
-    type: vmess
-    server: 209.126.84.189
-    port: 443
-    uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: "''"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /vmessws
-      headers:
-        host: 209.126.84.189
-  - name: "hamedp71❓ 13"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 1e823993-86ac-3ead-89b5-227e73825fdb
-    tls: true
-    servername: "dabaif0.webn.cc"
-    network: ws
-    ws-opts:
-      path: /db1024faebdb62e0
-      headers:
-        host: dabaif0.webn.cc
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 14"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 3f9c8463-8610-3ed8-86c8-a26713067825
-    tls: true
-    servername: "s6.oboob.cn"
-    network: ws
-    ws-opts:
-      path: /db1024efd9edc1a9
-      headers:
-        host: s6.oboob.cn
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 15"
-    type: vless
-    server: all.tellmethetrue.shop
-    port: 443
-    uuid: e4824193-4f54-453b-d037-88368e85ef0e
-    tls: true
-    servername: "pqh30v5.carwashipdir.shop"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 16"
-    type: vless
-    server: 104.16.9.20
-    port: 443
-    uuid: e4824193-4f54-453b-d037-88368e85ef0e
-    tls: true
-    servername: "pqh30v5.carwashipdir.shop"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇺🇸 3"
-    type: vmess
-    server: 69.63.210.35
-    port: 24943
-    uuid: a89feda9-ec30-48c1-ae6b-1a6f5b573f6b
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: "''"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /a89feda9-ec30-48c1-ae6b-1a6f5b573f6b-vm
-      headers:
-        host: www.bing.com
-  - name: "hamedp71❓ 17"
-    type: vless
-    server: chatgpt.com
-    port: 443
-    uuid: e4824193-4f54-453b-d037-88368e85ef0e
-    tls: true
-    servername: "pqh30v4.carwashipdir.shop"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇫🇷 3"
-    type: trojan
-    server: chatgpt.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-      headers:
-        host: www.gossipglove.com
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 18"
-    type: vless
-    server: 45.82.251.208
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: true
-    servername: ">-"
-      /?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇳🇱 5"
-    type: trojan
-    server: 188.114.98.0
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.multiplydose.com
-    network: ws
-    ws-opts:
-      path: /assignment
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 19"
-    type: vless
-    server: pqh29v4.globalfymain.com
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: false
-    servername: "''"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 20"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: d2efa18a-9e8a-3057-91fe-90c8e620e49f
-    tls: true
-    servername: "s6.oboob.cn"
-    network: ws
-    ws-opts:
-      path: /db10242a4797a252
-      headers:
-        host: s6.oboob.cn
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 21"
-    type: vless
-    server: 95.164.85.109
-    port: 59374
-    uuid: bfc78cd8-5951-4803-8d6c-4cedef8cd420
-    tls: true
-    client-fingerprint: chrome
-    servername: "yahoo.com"
-    network: tcp
-    reality-opts:
-      public-key: ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc
-      short-id: d21e7c
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇫🇷 4"
-    type: trojan
-    server: www.gossipglove.com
-    port: 443
-    password: humanity
-    tls: true
-    sni: www.gossipglove.com
-    network: ws
-    ws-opts:
-      path: /assignment
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71❓ 22"
-    type: vless
-    server: 45.82.251.116
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: false
-    servername: "''"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 23"
-    type: vless
-    server: 152.228.162.19
-    port: 80
-    uuid: 5ce84688-f535-46ad-a512-37b17becf6ea
-    tls: false
-    servername: "''"
-    network: ws
-    ws-opts:
-      path: /vless/
-      headers:
-        host: akamaized.net
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇺🇸 4"
-    type: vless
-    server: 025.electrocellco-cf-025.workers.dev
-    port: 2053
-    uuid: 0b93fd13-de5c-4ca5-8530-435bfa2a0955
-    tls: true
-    servername: "025.ELEcTROcELLco-Cf-025.wORkeRS.DeV"
-    network: ws
-    ws-opts:
-      path: >-
-        /eyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560
-      headers:
-        host: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 24"
-    type: vless
-    server: s1.db-link.in
-    port: 443
-    uuid: 305419ed-4ef5-3e5a-8d48-b803c58853d3
-    tls: true
-    servername: "s6.oboob.cn"
-    network: ws
-    ws-opts:
-      path: /db10248afdcb0daf
-      headers:
-        host: s6.oboob.cn
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 25"
-    type: vless
-    server: 38.180.144.156
-    port: 8443
-    uuid: ae0a43bc-6189-456e-9b8a-a93f39af336e
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.microsoft.com"
-    network: tcp
-    reality-opts:
-      public-key: 76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s
-      short-id: 42d7234d875308a2
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇨🇦"
-    type: vmess
-    server: 15.235.41.200
-    port: 80
-    uuid: 58fe1542-5290-40ad-815a-77707a81afe5
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: "''"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /IOebhLMhl1CTbFHbL95myfRX2
-      headers:
-        host: 15.235.41.200
-  - name: "hamedp71❓ 26"
-    type: vless
-    server: 104.18.32.47
-    port: 80
-    uuid: c5fbb5dd-83bb-43ce-a799-e3e5c29e25da
-    tls: false
-    servername: "''"
-    network: ws
-    ws-opts:
-      path: /?ed
-      headers:
-        host: gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 27"
-    type: vmess
-    server: 47.250.45.234
-    port: 8613
-    uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: "''"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /arki?ed=2048
-      headers:
-        host: ''
-  - name: "hamedp71🇩🇪 3"
-    type: vless
-    server: vip2.kaixincloud.top
-    port: 2096
-    uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
-    tls: true
-    servername: "ca.adobe-connect.top"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: ca.adobe-connect.top
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇩🇪 4"
-    type: vless
-    server: 104.18.185.26
-    port: 2096
-    uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
-    tls: true
-    servername: "ca.adobe-connect.top"
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        host: ca.adobe-connect.top
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇹🇷"
-    type: vless
-    server: 94.131.123.167
-    port: 443
-    uuid: a44e0875-210f-4941-9062-89b6361a14c6
-    tls: true
-    client-fingerprint: chrome
-    servername: "apple.com"
-    network: tcp
-    reality-opts:
-      public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4
-      short-id: 8bcfe256cf216fd8
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 28"
-    type: vless
-    server: 104.18.185.26
-    port: 443
-    uuid: 9523a24b-f6bf-339e-9950-32829162ffc2
-    tls: true
-    servername: "dabaif0.webn.cc"
-    network: ws
-    ws-opts:
-      path: /db1024f4e56f542c
-      headers:
-        host: dabaif0.webn.cc
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇧🇷"
-    type: ss
-    server: 5.188.4.103
-    port: 11203
-    cipher: chacha20-ietf-poly1305
-    password: a7c205642b302c20
-  - name: "hamedp71🇧🇷 2"
-    type: ss
-    server: 5.188.4.103
-    port: 11201
-    cipher: chacha20-ietf-poly1305
-    password: a7c205642b302c20
-  - name: "hamedp71🇧🇷 3"
-    type: ss
-    server: 5.188.4.103
-    port: 11202
-    cipher: chacha20-ietf-poly1305
-    password: a7c205642b302c20
-  - name: "hamedp71🇧🇷 4"
-    type: ss
-    server: 5.188.4.103
-    port: 11204
-    cipher: chacha20-ietf-poly1305
-    password: a7c205642b302c20
-  - name: "hamedp71🇧🇷 5"
-    type: ss
-    server: 5.188.4.103
-    port: 11205
-    cipher: chacha20-ietf-poly1305
-    password: a7c205642b302c20
-  - name: "hamedp71❓ 29"
-    type: ss
-    server: 3.1.195.148
-    port: 8313
-    cipher: chacha20-ietf-poly1305
-    password: ljqdalu13..
-  - name: "hamedp71❓ 30"
-    type: ss
-    server: 3.1.195.148
-    port: 8316
-    cipher: chacha20-ietf-poly1305
-    password: ljqdalu13..
-  - name: "hamedp71🇺🇸 5"
-    type: vless
-    server: vvbg.191262.xyz
-    port: 443
-    uuid: 4a7baca1-8048-4a91-8316-595b36657a54
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.aljazeera.net"
-    network: tcp
-    reality-opts:
-      public-key: WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo
-      short-id: b8b4fb16
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71❓ 31"
-    type: vless
-    server: yesok42v1.ip4exordir.shop
-    port: 8880
-    uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3
-    tls: true
-    servername: "''"
-    network: grpc
-    grpc-opts: {}
-    tfo: false
-    skip-cert-verify: true
-  - name: "hamedp71🇪🇪"
-    type: ss
-    server: 38.180.216.114
-    port: 7307
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-  - name: "hamedp71❓ 32"
-    type: vless
-    server: 43.173.125.15
-    port: 44519
-    uuid: 6b05ea27-051b-450b-965b-f6c5da11a1f0
-    tls: false
-    servername: "''"
-    network: tcp
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇺🇸 6"
-    type: vless
-    server: 188.114.96.0
-    port: 443
-    uuid: 0c77cfd8-dcf8-4558-8a9b-1b39f324d347
-    tls: true
-    servername: "serverjadid.teramadolyt.workers.dev"
-    network: ws
-    ws-opts:
-      path: >-
-        /eyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560
-      headers:
-        host: serverjadid.teramadolyt.workers.dev
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇳🇱 6"
-    type: vless
-    server: 37.16.74.19
-    port: 2053
-    uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.ibm.com"
-    network: tcp
-    reality-opts:
-      public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
-      short-id: 4a5b6c7d
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇵🇱 4"
-    type: vless
-    server: 178.17.59.73
-    port: 2053
-    uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
-    tls: true
-    client-fingerprint: chrome
-    servername: "www.ibm.com"
-    network: tcp
-    reality-opts:
-      public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
-      short-id: 423bccc9c13fb509
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇺🇸 7"
-    type: vless
-    server: 017.electrocellco-cf-017.workers.dev
-    port: 443
-    uuid: b74bbaca-8bbe-41e1-9af9-18d467836282
-    tls: true
-    servername: "017.EleCTRoCelLCo-CF-017.Workers.dEv"
-    network: ws
-    ws-opts:
-      path: >-
-        /eyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
-      headers:
-        host: 017.EleCTRoCelLCo-CF-017.Workers.dEv
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71❓ 33"
-    type: vless
-    server: a11.api-tel.ir
-    port: 2086
-    uuid: 0696d558-118e-4613-8262-59fe272cac59
-    tls: true
-    servername: "''"
-    network: tcp
-    tfo: false
-    skip-cert-verify: false
-  - name: "hamedp71🇺🇸 8"
-    type: vless
-    server: 15.204.97.197
-    port: 23576
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    tls: true
-    client-fingerprint: chrome
-    servername: "fuck.rkn"
-    network: tcp
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: '01'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
-  - name: "hamedp71🇺🇸 9"
-    type: vless
-    server: 15.204.97.216
-    port: 23576
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    tls: true
-    client-fingerprint: chrome
-    servername: "fuck.rkn"
-    network: tcp
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: '01'
-    tfo: false
-    skip-cert-verify: false
-    flow: xtls-rprx-vision
   - name: "🇷🇺@hamedvpns"
     type: vless
     server: 51.250.86.102
