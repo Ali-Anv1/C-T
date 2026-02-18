@@ -569,7 +569,7 @@ proxies:
     network: grpc
     grpc-opts: 
     tfo: false
-    skip-cert-verify: false
+    skip-cert-verify: false 
   - name: "hamedp71❓ 18"
     type: vless
     server: 45.82.251.208
