@@ -4380,7 +4380,7 @@ rules:
   - DOMAIN,fragment.com,Fragment🖤 
   - DOMAIN-SUFFIX,fragment.com,Fragment🖤 
   - DOMAIN-SUFFIX,telegram.org,Fragment🖤 
-  - DOMAIN-SUFFIX,t.me,Fragment 
+  - DOMAIN-SUFFIX,t.me,Fragment🖤 
 
   - MATCH,آشیانه ⛺️
 
