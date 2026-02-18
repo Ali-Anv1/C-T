@@ -3852,7 +3852,7 @@ proxy-groups:
     type: select
     proxies: 
       - "انتخاب هوشمند 🧠"
-      - "Fragment🖤"
+      - "Fragment💉"
       - "hamedp71⚡"
       - "🇷🇺@hamedvpns"
       - "🇷🇺@hamedvpns 2"
@@ -4192,7 +4192,7 @@ proxy-groups:
       - "hamedp71🇯🇵 4"
       - "hamedp71🇰🇿 2"
 
-  - name: "Fragment🖤"
+  - name: "Fragment💉"
     type: url-test
     url: "http://www.google.com/generate_204"
     interval: 30
@@ -4376,11 +4376,11 @@ rules:
   - RULE-SET,ir,DIRECT
   - RULE-SET,ir-cidr,DIRECT
 
-  # ===== Fragment🖤 =====
-  - DOMAIN,fragment.com,Fragment🖤 
-  - DOMAIN-SUFFIX,fragment.com,Fragment🖤 
-  - DOMAIN-SUFFIX,telegram.org,Fragment🖤 
-  - DOMAIN-SUFFIX,t.me,Fragment🖤 
+  # ===== Fragment💉 =====
+  - DOMAIN,fragment.com,Fragment💉 
+  - DOMAIN-SUFFIX,fragment.com,Fragment💉 
+  - DOMAIN-SUFFIX,telegram.org,Fragment💉 
+  - DOMAIN-SUFFIX,t.me,Fragment💉 
 
   - MATCH,آشیانه ⛺️
 
