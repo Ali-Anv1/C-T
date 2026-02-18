@@ -82,8 +82,8 @@ proxies:
     client-fingerprint: chrome
     tls-hello-fragment:
       enable: true
-      length: "10-20"
-      interval: "10-20"
+      length: 10-20
+      interval: 10-20
     servername: "TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV"
     network: ws
     ws-opts:
