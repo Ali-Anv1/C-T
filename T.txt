@@ -513,7 +513,8 @@ proxies:
     port: 443
     uuid: 3f9c8463-8610-3ed8-86c8-a26713067825
     tls: true
-    servername: "s6.oboob.cn"
+    servername: "s6.oboob.cn" 
+
     network: ws
     ws-opts:
       path: /db1024efd9edc1a9
