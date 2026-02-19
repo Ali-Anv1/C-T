@@ -2308,7 +2308,7 @@ proxies:
     port: 50
     uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399
     tls: true
-    servername: "''"
+    servername: ''
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2320,7 +2320,7 @@ proxies:
     uuid: 14818654-7689-453a-9a1f-4c72f89782d5
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg
@@ -2334,7 +2334,7 @@ proxies:
     port: 80
     uuid: 8db31176-aed6-402d-aa1b-a8b04b5c3b48
     tls: true
-    servername: "''"
+    servername: ''
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2346,7 +2346,7 @@ proxies:
     uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370
     tls: true
     client-fingerprint: chrome
-    servername: "wikipedia.org"
+    servername: wikipedia.org
     network: tcp
     reality-opts:
       public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA
@@ -2361,7 +2361,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2376,7 +2376,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2391,7 +2391,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2406,7 +2406,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2421,7 +2421,7 @@ proxies:
     uuid: fed05faf-401f-3412-b658-5c96f3095dd0
     tls: true
     client-fingerprint: chrome
-    servername: "www.refersion.com"
+    servername: www.refersion.com
     network: tcp
     reality-opts:
       public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ
@@ -2436,7 +2436,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
+    servername: poland.scroogethebest.com
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2451,7 +2451,7 @@ proxies:
     uuid: 720c415d-f807-5a8d-9d0c-b86599a88a0b
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    servername: yahoo.com
     network: tcp
     reality-opts:
       public-key: pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M
@@ -2466,7 +2466,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "poland.scroogethebest.com"
+    servername: poland.scroogethebest.com
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2481,7 +2481,7 @@ proxies:
     uuid: 18f72be7-0651-4037-928b-8a309d685796
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    servername: google.com
     network: tcp
     reality-opts:
       public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU
@@ -2496,7 +2496,7 @@ proxies:
     uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A
@@ -2511,7 +2511,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "germany.scroogethebest.com"
+    servername: germany.scroogethebest.com
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2526,7 +2526,7 @@ proxies:
     uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A
@@ -2541,7 +2541,7 @@ proxies:
     uuid: Fluffy_VPN-NZPzrzi5
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    servername: yahoo.com
     network: tcp
     reality-opts:
       public-key: pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M
@@ -2556,7 +2556,7 @@ proxies:
     uuid: a25806c0-0e09-46a2-bd27-a94e92285ce9
     tls: true
     client-fingerprint: chrome
-    servername: "www.amd.com"
+    servername: www.amd.com
     network: tcp
     reality-opts:
       public-key: SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0
@@ -2571,7 +2571,7 @@ proxies:
     uuid: c2d73a71-923a-4a53-bc4b-dfb47db20527
     tls: true
     client-fingerprint: chrome
-    servername: "gmail.com"
+    servername: gmail.com
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -2586,7 +2586,7 @@ proxies:
     uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A
@@ -2601,7 +2601,7 @@ proxies:
     uuid: 8c863fe9-65e4-41ee-84e4-1c0009d72639
     tls: true
     client-fingerprint: chrome
-    servername: "gmail.com"
+    servername: gmail.com
     network: tcp
     reality-opts:
       public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
@@ -2616,7 +2616,7 @@ proxies:
     uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
     tls: true
     client-fingerprint: chrome
-    servername: "fuck.rkn"
+    servername: fuck.rkn
     network: tcp
     reality-opts:
       public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
@@ -2631,7 +2631,7 @@ proxies:
     uuid: 0c57c801-c2e2-4af0-8dd5-05e0d080a5e8
     tls: true
     client-fingerprint: chrome
-    servername: "cdnjs.com"
+    servername: cdnjs.com
     network: tcp
     reality-opts:
       public-key: 1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o
@@ -2645,7 +2645,7 @@ proxies:
     port: 443
     uuid: 0e90f352-e9bc-4834-8ff6-49ba887eded4
     tls: true
-    servername: "b12a6eea4807ca4e.1323.world"
+    servername: b12a6eea4807ca4e.1323.world
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2657,7 +2657,7 @@ proxies:
     uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A
@@ -2671,7 +2671,7 @@ proxies:
     port: 2345
     uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f
     tls: true
-    servername: "''"
+    servername: ''
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2683,7 +2683,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "fran.scroogethebest.com"
+    servername: fran.scroogethebest.com
     network: tcp
     reality-opts:
       public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -2697,7 +2697,7 @@ proxies:
     port: 2345
     uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028
     tls: true
-    servername: "''"
+    servername: ''
     network: tcp
     tfo: false
     skip-cert-verify: false
@@ -2709,7 +2709,7 @@ proxies:
     uuid: 32561144-434f-4752-a731-f35cd191ba4a
     tls: true
     client-fingerprint: chrome
-    servername: "nl.roblugo.su"
+    servername: nl.roblugo.su
     network: tcp
     reality-opts:
       public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24
@@ -2724,7 +2724,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "at.jojack.ru"
+    servername: at.jojack.ru
     network: tcp
     reality-opts:
       public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA
@@ -2738,12 +2738,12 @@ proxies:
     port: 443
     uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2
     tls: true
-    servername: "apii.onlineshoppingez.ir"
+    servername: apii.onlineshoppingez.ir
     network: ws
     ws-opts:
       path: /O1w0n3vYgFKYs7EzNAvLPvOp
       headers:
-        Host: apii.onlineshoppingez.ir
+        host: apii.onlineshoppingez.ir
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -2754,7 +2754,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "de.cdn.stun.su"
+    servername: de.cdn.stun.su
     network: tcp
     reality-opts:
       public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA
@@ -2769,7 +2769,7 @@ proxies:
     uuid: b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    servername: google.com
     network: tcp
     reality-opts:
       public-key: N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4
@@ -2784,7 +2784,7 @@ proxies:
     uuid: 8e28baed-b7da-29a3-cb89-cb7e4878c011
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    servername: yahoo.com
     network: tcp
     reality-opts:
       public-key: pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k
@@ -2799,7 +2799,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2813,12 +2813,12 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    servername: hetz.x-smm.com
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
       headers:
-        Host: hetz.x-smm.com
+        host: hetz.x-smm.com
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -2829,7 +2829,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "m.ok.com"
+    servername: m.ok.com
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2844,7 +2844,7 @@ proxies:
     uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8
     tls: true
     client-fingerprint: chrome
-    servername: "s2.plansv.tech"
+    servername: s2.plansv.tech
     network: tcp
     reality-opts:
       public-key: sD1iqg83KrKItMvNo2ZwDO95VEWUtgPOJVC3wkIKOGw
@@ -2859,7 +2859,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2874,7 +2874,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "m.ok.com"
+    servername: m.ok.com
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2889,7 +2889,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2903,12 +2903,12 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    servername: ca.adobe-connect.top
     network: ws
     ws-opts:
       path: /
       headers:
-        Host: ca.adobe-connect.top
+        host: ca.adobe-connect.top
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -2919,7 +2919,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "m.ok.com"
+    servername: m.ok.com
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2934,7 +2934,7 @@ proxies:
     uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8
     tls: true
     client-fingerprint: chrome
-    servername: "s1.plansv.tech"
+    servername: s1.plansv.tech
     network: tcp
     reality-opts:
       public-key: nHmRtfZ7rmtNQV3azm-hlnM_g61BcuZhYCuLa_optyU
@@ -2949,7 +2949,7 @@ proxies:
     uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2
     tls: true
     client-fingerprint: chrome
-    servername: "yahoo.com"
+    servername: yahoo.com
     network: tcp
     reality-opts:
       public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk
@@ -2964,7 +2964,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -2979,7 +2979,7 @@ proxies:
     uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
     tls: true
     client-fingerprint: chrome
-    servername: "au1.scroogethebest.com"
+    servername: au1.scroogethebest.com
     network: tcp
     reality-opts:
       public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4
@@ -2994,7 +2994,7 @@ proxies:
     uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b
     tls: true
     client-fingerprint: chrome
-    servername: "pl-modx.webedg.net"
+    servername: pl-modx.webedg.net
     network: tcp
     reality-opts:
       public-key: rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM
@@ -3009,7 +3009,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3024,7 +3024,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "m.ok.com"
+    servername: m.ok.com
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3038,12 +3038,12 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    servername: hetz.x-smm.com
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
       headers:
-        Host: hetz.x-smm.com
+        host: hetz.x-smm.com
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -3053,12 +3053,12 @@ proxies:
     port: 443
     uuid: 8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5
     tls: true
-    servername: "pmeli.express-servers.ir"
+    servername: pmeli.express-servers.ir
     network: ws
     ws-opts:
       path: /
       headers:
-        Host: pmeli.express-servers.ir
+        host: pmeli.express-servers.ir
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -3069,7 +3069,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3084,7 +3084,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3098,12 +3098,12 @@ proxies:
     port: 2083
     uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6
     tls: true
-    servername: "ipv4.yasharteam.com"
+    servername: ipv4.yasharteam.com
     network: ws
     ws-opts:
       path: /
       headers:
-        Host: ipv4.yasharteam.com
+        host: ipv4.yasharteam.com
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -3114,7 +3114,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3129,7 +3129,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3144,7 +3144,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3159,7 +3159,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3174,7 +3174,7 @@ proxies:
     uuid: c15c00a4-9e8e-4d22-9f2e-dc237c8b1220
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM
@@ -3189,7 +3189,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3204,7 +3204,7 @@ proxies:
     uuid: f8a2c7b5-616b-48b0-833b-ea59bce29351
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -3219,7 +3219,7 @@ proxies:
     uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b
     tls: true
     client-fingerprint: chrome
-    servername: "pl-modx.webedg.net"
+    servername: pl-modx.webedg.net
     network: tcp
     reality-opts:
       public-key: rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM
@@ -3233,12 +3233,12 @@ proxies:
     port: 2053
     uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145
     tls: true
-    servername: "ir1.airpanel.top"
+    servername: ir1.airpanel.top
     network: ws
     ws-opts:
       path: /
       headers:
-        Host: ir1.airpanel.top
+        host: ir1.airpanel.top
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -3249,7 +3249,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3264,7 +3264,7 @@ proxies:
     uuid: fdc622b6-985c-40a0-8bcb-b6497804769a
     tls: true
     client-fingerprint: chrome
-    servername: "www.tradingview.com"
+    servername: www.tradingview.com
     network: tcp
     reality-opts:
       public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE
@@ -3279,7 +3279,7 @@ proxies:
     uuid: 3dcd6767-ec3e-4eeb-9fa6-c70b8661072f
     tls: true
     client-fingerprint: chrome
-    servername: "refersion.com"
+    servername: refersion.com
     network: tcp
     reality-opts:
       public-key: DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ
@@ -3294,7 +3294,7 @@ proxies:
     uuid: 853d23ee-38c6-41bb-a51c-8aea6a25b0bd
     tls: true
     client-fingerprint: chrome
-    servername: "ea.com"
+    servername: ea.com
     network: tcp
     reality-opts:
       public-key: 3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY
@@ -3309,7 +3309,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3324,7 +3324,7 @@ proxies:
     uuid: 3495557c-8550-429f-83b6-a47d63a1ecfd
     tls: true
     client-fingerprint: chrome
-    servername: "www.foxsports.com"
+    servername: www.foxsports.com
     network: tcp
     reality-opts:
       public-key: q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc
@@ -3339,7 +3339,7 @@ proxies:
     uuid: 8d70a867-ec41-45de-b36f-c47bbe465862
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM
@@ -3354,7 +3354,7 @@ proxies:
     uuid: f56d3d08-ad0b-4f90-8dfc-21eeaecf075b
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3369,7 +3369,7 @@ proxies:
     uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c
     tls: true
     client-fingerprint: chrome
-    servername: "www.ibm.com"
+    servername: www.ibm.com
     network: tcp
     reality-opts:
       public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU
@@ -3384,7 +3384,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3399,7 +3399,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3414,7 +3414,7 @@ proxies:
     uuid: 895f80be-902e-45c2-9b23-a27283edc180
     tls: true
     client-fingerprint: chrome
-    servername: "google.com"
+    servername: google.com
     network: tcp
     reality-opts:
       public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw
@@ -3429,7 +3429,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "ae.cdn.stun.su"
+    servername: ae.cdn.stun.su
     network: tcp
     reality-opts:
       public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w
@@ -3444,7 +3444,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3459,7 +3459,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3474,7 +3474,7 @@ proxies:
     uuid: afffbafe-881f-4a06-bc22-d1a49121ba36
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -3489,7 +3489,7 @@ proxies:
     uuid: f8a2c7b5-616b-48b0-833b-ea59bce29351
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -3504,7 +3504,7 @@ proxies:
     uuid: 3b983168-3a7e-408f-b5e8-ef0dcda95446
     tls: true
     client-fingerprint: chrome
-    servername: "rbc.ru"
+    servername: rbc.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -3519,7 +3519,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3534,7 +3534,7 @@ proxies:
     uuid: de4f567a-1cf2-4b54-8a48-1c9ebe8a301a
     tls: true
     client-fingerprint: chrome
-    servername: "www.techradar.com"
+    servername: www.techradar.com
     network: tcp
     reality-opts:
       public-key: 4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8
@@ -3549,7 +3549,7 @@ proxies:
     uuid: 225f5dd9-d885-49ad-8e7f-c0900bbc2230
     tls: true
     client-fingerprint: chrome
-    servername: "rbc.ru"
+    servername: rbc.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -3563,12 +3563,12 @@ proxies:
     port: 2096
     uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f
     tls: true
-    servername: "ca.adobe-connect.top"
+    servername: ca.adobe-connect.top
     network: ws
     ws-opts:
       path: /
       headers:
-        Host: ca.adobe-connect.top
+        host: ca.adobe-connect.top
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -3579,7 +3579,7 @@ proxies:
     uuid: e2dc4dc0-a86e-460f-8e97-6c075dbb2212
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: qcQom3B0_DRglQSToL7c2e3yN9y_rpA5IsXNbvrBhmg
@@ -3594,7 +3594,7 @@ proxies:
     uuid: c77a679c-6bad-4d53-aeb7-39f6af4e73ae
     tls: true
     client-fingerprint: chrome
-    servername: "max.ru"
+    servername: max.ru
     network: tcp
     reality-opts:
       public-key: hXp7Ia7jr0LboFAQvNe2N45RxdvRMTZh2pG1Sf9btV4
@@ -3609,7 +3609,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3624,7 +3624,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3639,7 +3639,7 @@ proxies:
     uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd
     tls: true
     client-fingerprint: chrome
-    servername: "api-maps.yandex.ru"
+    servername: api-maps.yandex.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3654,7 +3654,7 @@ proxies:
     uuid: 871fdc77-e6df-460d-ace3-b38ab82fb487
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -3669,7 +3669,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3684,7 +3684,7 @@ proxies:
     uuid: afffbafe-881f-4a06-bc22-d1a49121ba36
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -3699,7 +3699,7 @@ proxies:
     uuid: 3b983168-3a7e-408f-b5e8-ef0dcda95446
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -3714,7 +3714,7 @@ proxies:
     uuid: 2936e344-2c52-4508-9523-1f3ed6824770
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3729,7 +3729,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3744,7 +3744,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3759,7 +3759,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3774,7 +3774,7 @@ proxies:
     uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9
     tls: true
     client-fingerprint: chrome
-    servername: "tradingview.com"
+    servername: tradingview.com
     network: tcp
     reality-opts:
       public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY
@@ -3789,7 +3789,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3804,7 +3804,7 @@ proxies:
     uuid: 01896982-f9df-4bd5-8f32-914253db2e61
     tls: true
     client-fingerprint: chrome
-    servername: "ads.x5.ru"
+    servername: ads.x5.ru
     network: tcp
     reality-opts:
       public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -3819,7 +3819,7 @@ proxies:
     uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
     tls: true
     client-fingerprint: chrome
-    servername: "nyc.cdn.stun.su"
+    servername: nyc.cdn.stun.su
     network: tcp
     reality-opts:
       public-key: u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w
@@ -3834,7 +3834,7 @@ proxies:
     uuid: 6408b7b0-2527-4d9f-b361-928222ec624f
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM
@@ -3849,7 +3849,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3864,7 +3864,7 @@ proxies:
     uuid: 2936e344-2c52-4508-9523-1f3ed6824770
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3879,7 +3879,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3894,7 +3894,7 @@ proxies:
     uuid: b23f1721-43ac-40fd-988c-b31d398b22cb
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -3909,7 +3909,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -3924,7 +3924,7 @@ proxies:
     uuid: b8b20850-fa09-4ac3-97fc-7d5be10e11ef
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -3939,7 +3939,7 @@ proxies:
     uuid: 525e49c0-8396-4dac-bb2d-36412723e5cb
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -3954,7 +3954,7 @@ proxies:
     uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2
     tls: true
     client-fingerprint: chrome
-    servername: "ya.ru"
+    servername: ya.ru
     network: grpc
     reality-opts:
       public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc
@@ -3970,7 +3970,7 @@ proxies:
     uuid: 3b983168-3a7e-408f-b5e8-ef0dcda95446
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -3985,7 +3985,7 @@ proxies:
     uuid: 225f5dd9-d885-49ad-8e7f-c0900bbc2230
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -4000,7 +4000,7 @@ proxies:
     uuid: 2936e344-2c52-4508-9523-1f3ed6824770
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4015,7 +4015,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4030,7 +4030,7 @@ proxies:
     uuid: 6bf5e1f0-a8e8-40f0-935e-5ca5333734a7
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4045,7 +4045,7 @@ proxies:
     uuid: 225f5dd9-d885-49ad-8e7f-c0900bbc2230
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc
@@ -4060,7 +4060,7 @@ proxies:
     uuid: 525e49c0-8396-4dac-bb2d-36412723e5cb
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -4075,7 +4075,7 @@ proxies:
     uuid: b8b20850-fa09-4ac3-97fc-7d5be10e11ef
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -4090,7 +4090,7 @@ proxies:
     uuid: b23f1721-43ac-40fd-988c-b31d398b22cb
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -4104,12 +4104,12 @@ proxies:
     port: 2096
     uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c
     tls: true
-    servername: "hetz.x-smm.com"
+    servername: hetz.x-smm.com
     network: ws
     ws-opts:
       path: /45.76.183.217=49292
       headers:
-        Host: hetz.x-smm.com
+        host: hetz.x-smm.com
     tfo: false
     skip-cert-verify: false
     flow: ''
@@ -4120,7 +4120,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4135,7 +4135,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "m.vk.ru"
+    servername: m.vk.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4150,7 +4150,7 @@ proxies:
     uuid: 829ce713-8748-4049-ba76-be56e60bc449
     tls: true
     client-fingerprint: chrome
-    servername: "yandex.ru"
+    servername: yandex.ru
     network: tcp
     reality-opts:
       public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg
@@ -4158,6 +4158,170 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: xtls-rprx-vision
+  - name: "🏴‍☠️@hamedvpns 3"
+    type: vless
+    server: 3.72.18.221
+    port: 443
+    uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 4"
+    type: vless
+    server: vip-78.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 5"
+    type: vless
+    server: vip-79.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 6"
+    type: vless
+    server: 3.75.222.191
+    port: 443
+    uuid: 8a192afa-6ae2-4525-dd83-b99150e709a6
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 7"
+    type: vless
+    server: 18.198.197.235
+    port: 22636
+    uuid: a46011f9-1f63-4b75-9a4c-f34a08a42be8
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 8"
+    type: vless
+    server: vip-81.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 9"
+    type: vless
+    server: 3.76.37.193
+    port: 59599
+    uuid: ad6ded3c-6889-4993-ca2b-a811937c2bb8
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 10"
+    type: vless
+    server: vip-82.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 11"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    obfs: salamander
+    obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 12"
+    type: vless
+    server: vip-77.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 13"
+    type: vless
+    server: vip-83.f-sub.cfd
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 14"
+    type: vless
+    server: ip.linux-panel.com
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 15"
+    type: vless
+    server: core.speedmizban.net
+    port: 1517
+    uuid: 2e7c0783-993a-4415-ab08-308ed897e02b
+    tls: true
+    servername: testspeed-foreign.tci.ir
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 16"
+    type: vless
+    server: http.tostar.ir
+    port: 443
+    uuid: 796d1abf-3380-4ad3-9c0f-11575e621023
+    tls: true
+    servername: http.tostar.ir
+    network: httpupgrade
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 17"
+    type: vless
+    server: 3.79.230.41
+    port: 443
+    uuid: d28e35d3-2c23-4be5-c7a0-721bb001a76c
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+
 
 proxy-groups:
   - name: "آشیانه ⛺️"
@@ -4290,6 +4454,21 @@ proxy-groups:
       - "🇪🇸@hamedvpns 16"
       - "🇪🇸@hamedvpns 17"
       - "🇪🇸@hamedvpns 18"
+      - "🏴‍☠️@hamedvpns 3"
+      - "🏴‍☠️@hamedvpns 4"
+      - "🏴‍☠️@hamedvpns 5"
+      - "🏴‍☠️@hamedvpns 6"
+      - "🏴‍☠️@hamedvpns 7"
+      - "🏴‍☠️@hamedvpns 8"
+      - "🏴‍☠️@hamedvpns 9"
+      - "🏴‍☠️@hamedvpns 10"
+      - "🏴‍☠️@hamedvpns 11"
+      - "🏴‍☠️@hamedvpns 12"
+      - "🏴‍☠️@hamedvpns 13"
+      - "🏴‍☠️@hamedvpns 14"
+      - "🏴‍☠️@hamedvpns 15"
+      - "🏴‍☠️@hamedvpns 16"
+      - "🏴‍☠️@hamedvpns 17"
       
   - name: "انتخاب هوشمند 🧠"
     type: url-test
@@ -4422,6 +4601,21 @@ proxy-groups:
       - "🇪🇸@hamedvpns 16"
       - "🇪🇸@hamedvpns 17"
       - "🇪🇸@hamedvpns 18"
+      - "🏴‍☠️@hamedvpns 3"
+      - "🏴‍☠️@hamedvpns 4"
+      - "🏴‍☠️@hamedvpns 5"
+      - "🏴‍☠️@hamedvpns 6"
+      - "🏴‍☠️@hamedvpns 7"
+      - "🏴‍☠️@hamedvpns 8"
+      - "🏴‍☠️@hamedvpns 9"
+      - "🏴‍☠️@hamedvpns 10"
+      - "🏴‍☠️@hamedvpns 11"
+      - "🏴‍☠️@hamedvpns 12"
+      - "🏴‍☠️@hamedvpns 13"
+      - "🏴‍☠️@hamedvpns 14"
+      - "🏴‍☠️@hamedvpns 15"
+      - "🏴‍☠️@hamedvpns 16"
+      - "🏴‍☠️@hamedvpns 17"
 
   - name: "hamedp71⚡"
     type: url-test
