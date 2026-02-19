@@ -6679,7 +6679,7 @@ proxy-groups:
     interval: 30
     tolerance: 100
     proxies:
-	    - "hamedp71🇺🇸"
+	  - "hamedp71🇺🇸"
       - "hamedp71🇩🇪"
       - "hamedp71❓"
       - "hamedp71🇵🇱"
