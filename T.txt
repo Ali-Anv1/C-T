@@ -1794,7 +1794,7 @@ proxies:
     port: 18757
     uuid: d10b0612-2b05-47c2-99c1-53f0b109d07d
     tls: true
-    servername: ''
+    servername:
     network: ws
     ws-opts: {}
     tfo: false
@@ -2516,7 +2516,7 @@ proxies:
     network: ws
     ws-opts:
       path: >-
-        /eyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjEwLjIxNS4yNiIsIjIwNi4xNjYuMjUxLjkyIiwiMzcuNDguOTAuMTIwIiwiMTI1LjcuMjQuMjUxIiwiODAuNzYuMzIuMTIiXX0=?ed=2560
+/eyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjEwLjIxNS4yNiIsIjIwNi4xNjYuMjUxLjkyIiwiMzcuNDguOTAuMTIwIiwiMTI1LjcuMjQuMjUxIiwiODAuNzYuMzIuMTIiXX0=?ed=2560
       headers:
         Host: tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev
     tfo: false 
