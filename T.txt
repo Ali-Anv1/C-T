@@ -4881,8 +4881,6 @@ rules:
   - GEOIP,IR,DIRECT
   - RULE-SET,ir,DIRECT
   - RULE-SET,ir-cidr,DIRECT
-
-
   - MATCH,آشیانه ⛺️
 
 ntp:
