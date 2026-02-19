@@ -21,34 +21,20 @@ profile:
   store-selected: true
   store-fake-ip: true
 hosts: 
+tcp-concurrent: true
 dns:
   enable: true
-  listen: 0.0.0.0:1053
   ipv6: false
-  respect-rules: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  listen: 0.0.0.0:1053
   use-hosts: true
-  use-system-hosts: false
   nameserver:
-    - 'https://1.1.1.1/dns-query'
-    - 'https://8.8.8.8/dns-query'
-    - 'https://dns.quad9.net/dns-query'
-  proxy-server-nameserver:
-    - '178.22.122.100' # شکن
-    - '185.51.200.2'   # شکن
-    - '10.202.10.10'   # رادار
-    - '10.202.10.11'   # رادار
-  nameserver-policy:
-    'domain:+.ir': [proxy-server-nameserver]
-    'all': [nameserver]
-  fallback-filter:
-  geoip: true
-  geoip-code: IR
-  ipcidr:
-    - '240.0.0.0/4'
-  geosite:
-    - 'cn'
-  domain:
-    - '+.ir'
+    - https://8.8.8.8/dns-query
+    - https://1.1.1.1/dns-query
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
 tun:
   enable: true
   stack: gvisor
@@ -4489,7 +4475,7 @@ proxy-groups:
       
   - name: "انتخاب هوشمند 🧠"
     type: url-test
-    url: "https://www.gstatic.com/generate_204"
+    url: "http://www.gstatic.com/generate_204"
     interval: 25
     tolerance: 50
     proxies: 
