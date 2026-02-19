@@ -2050,7 +2050,7 @@ proxies:
     ws-opts:
       path: /vmess/
       headers:
-        host: null
+        host:
   - name: "hamedp71🇺🇸 16"
     type: vless
     server: www.speedtest.net
