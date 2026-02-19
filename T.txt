@@ -2261,7 +2261,7 @@ proxies:
     ws-opts:
       path: /vmess/
       headers:
-        Host: 
+        Host: ''
   - name: "hamedp71🇭🇰 7"
     type: vmess
     server: 8.210.165.109
