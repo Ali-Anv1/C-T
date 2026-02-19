@@ -2330,7 +2330,7 @@ proxies:
     network: ws
     ws-opts:
       path: /vmess/
-      headers: {}
+      headers:
   - name: "hamedp71❓ 72"
     type: ss
     server: 82.38.31.199
