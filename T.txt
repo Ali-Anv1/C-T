@@ -4969,9 +4969,8 @@ proxy-groups:
       - "DR-SS 28 🇻🇳"
       - "DR-SS 1 🇰🇷"
       - "DR-SS 29 🇻🇳"
-	
 
-      
+
 rule-providers:
   malware:
     type: http
