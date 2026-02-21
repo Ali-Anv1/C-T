@@ -4056,6 +4056,141 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: ''
+  - name: "🏴‍☠️@hamedvpns 23"
+    type: vless
+    server: 18.194.41.196
+    port: 443
+    uuid: a7fbea79-18c8-41b8-d519-457d66f2d798
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 24"
+    type: vless
+    server: 3.67.76.232
+    port: 443
+    uuid: 70e384d1-8f87-42c2-9a9e-ad75589ab54b
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 25"
+    type: vless
+    server: 3.71.13.143
+    port: 11924
+    uuid: 6a03f18d-c94d-417c-9e25-625c7f76ff92
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 26"
+    type: vless
+    server: 18.158.60.65
+    port: 40869
+    uuid: de41e034-f3b5-4465-b616-552f2019885a
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 27"
+    type: vless
+    server: 3.125.43.133
+    port: 17373
+    uuid: 76755143-35fc-4b1f-a793-3b24d31f4f6a
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 28"
+    type: vless
+    server: 3.127.98.95
+    port: 443
+    uuid: 21889ffd-54ee-40f9-e9b0-f1838908579a
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 29"
+    type: vless
+    server: 18.153.93.127
+    port: 443
+    uuid: 0154d742-3233-4c61-f81c-7407fcf28b87
+    tls: false
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 30"
+    type: vless
+    server: a.pabloping.cloud
+    port: 2052
+    uuid: 2271c50f-ac7a-4d7f-8b04-64085b0daa56
+    tls: false
+    servername: ''
+    network: xhttp
+    tfo: false
+    skip-cert-verify: false
+  - name: "🏴‍☠️@hamedvpns 31"
+    type: vless
+    server: 3.127.98.95
+    port: 443
+    uuid: 21889ffd-54ee-40f9-e9b0-f1838908579a
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 32"
+    type: vless
+    server: 3.71.13.143
+    port: 11924
+    uuid: 6a03f18d-c94d-417c-9e25-625c7f76ff92
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 33"
+    type: vless
+    server: 18.158.60.65
+    port: 40869
+    uuid: de41e034-f3b5-4465-b616-552f2019885a
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 34"
+    type: vless
+    server: 3.123.24.253
+    port: 443
+    uuid: 69c3ec92-9c48-44bc-cfbc-a37ee0c4461a
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 35"
+    type: vless
+    server: 18.194.41.196
+    port: 443
+    uuid: a7fbea79-18c8-41b8-d519-457d66f2d798
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
 
 
 proxy-groups:
@@ -4209,6 +4344,19 @@ proxy-groups:
       - "🏴‍☠️@hamedvpns 20"
       - "🏴‍☠️@hamedvpns 21"
       - "🏴‍☠️@hamedvpns 22"
+      - "🏴‍☠️@hamedvpns 23"
+      - "🏴‍☠️@hamedvpns 24"
+      - "🏴‍☠️@hamedvpns 25"
+      - "🏴‍☠️@hamedvpns 26"
+      - "🏴‍☠️@hamedvpns 27"
+      - "🏴‍☠️@hamedvpns 28"
+      - "🏴‍☠️@hamedvpns 29"
+      - "🏴‍☠️@hamedvpns 30"
+      - "🏴‍☠️@hamedvpns 31"
+      - "🏴‍☠️@hamedvpns 32"
+      - "🏴‍☠️@hamedvpns 33"
+      - "🏴‍☠️@hamedvpns 34"
+      - "🏴‍☠️@hamedvpns 35"
       
   - name: "انتخاب هوشمند 🧠"
     type: url-test
@@ -4361,6 +4509,19 @@ proxy-groups:
       - "🏴‍☠️@hamedvpns 20"
       - "🏴‍☠️@hamedvpns 21"
       - "🏴‍☠️@hamedvpns 22"
+      - "🏴‍☠️@hamedvpns 23"
+      - "🏴‍☠️@hamedvpns 24"
+      - "🏴‍☠️@hamedvpns 25"
+      - "🏴‍☠️@hamedvpns 26"
+      - "🏴‍☠️@hamedvpns 27"
+      - "🏴‍☠️@hamedvpns 28"
+      - "🏴‍☠️@hamedvpns 29"
+      - "🏴‍☠️@hamedvpns 30"
+      - "🏴‍☠️@hamedvpns 31"
+      - "🏴‍☠️@hamedvpns 32"
+      - "🏴‍☠️@hamedvpns 33"
+      - "🏴‍☠️@hamedvpns 34"
+      - "🏴‍☠️@hamedvpns 35"
 
   - name: "hamedp71⚡"
     type: url-test
