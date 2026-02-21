@@ -4928,8 +4928,8 @@ proxy-groups:
     interval: 30
     tolerance: 100
 	proxies:
-- "DR-SS 1 🇻🇳"
       - "DR-SS 2 🇻🇳"
+      - "DR-SS 1 🇻🇳"
       - "DR-SS 3 🇻🇳"
       - "DR-SS 1 🇵🇱"
       - "DR-SS 1 🇳🇱"
