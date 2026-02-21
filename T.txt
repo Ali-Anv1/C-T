@@ -4191,7 +4191,253 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: ''
-
+  - name: "DR-SS 1 🇻🇳"
+    type: ss
+    server: 103.186.154.32
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 2 🇻🇳"
+    type: ss
+    server: 103.186.154.25
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 3 🇻🇳"
+    type: ss
+    server: 103.186.154.24
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 1 🇵🇱"
+    type: ss
+    server: 217.30.10.18
+    port: 9094
+    cipher: aes-256-cfb
+    password: rpgbNnU9rDDU4aWZ
+  - name: "DR-SS 1 🇳🇱"
+    type: ss
+    server: 109.201.152.181
+    port: 443
+    cipher: aes-128-cfb
+    password: shadowsocks
+  - name: "DR-SS 4 🇻🇳"
+    type: ss
+    server: 103.186.154.20
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 5 🇻🇳"
+    type: ss
+    server: 103.186.154.28
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 2 🇳🇱"
+    type: ss
+    server: 94.156.79.244
+    port: 40934
+    cipher: chacha20-ietf-poly1305
+    password: >-
+      Kg1VYY9g2aRJmoCY8rZdMHcPLLTfAqWLJq1JfbFS5TzAu5jKHRwNm17f93RYswSDxc7BxBuhYKxzdsB5MGXi2PNFmQ7M7mQL
+  - name: "DR-SS 6 🇻🇳"
+    type: ss
+    server: 103.186.154.19
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 7 🇻🇳"
+    type: ss
+    server: 103.186.154.37
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 1 🇸🇬"
+    type: ss
+    server: 128.199.172.224
+    port: 8080
+    cipher: rc4-md5
+    password: 14fFPrbezE3HDZzsMOr6
+  - name: "DR-SS 2 🇵🇱"
+    type: ss
+    server: 217.30.10.18
+    port: 9025
+    cipher: aes-256-cfb
+    password: XPtzA9sCug3SPR4c
+  - name: "DR-SS 8 🇻🇳"
+    type: ss
+    server: 103.186.155.20
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 9 🇻🇳"
+    type: ss
+    server: 103.186.154.30
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 10 🇻🇳"
+    type: ss
+    server: 103.186.154.23
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 11 🇻🇳"
+    type: ss
+    server: 103.186.155.24
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 12 🇻🇳"
+    type: ss
+    server: 103.186.155.21
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 13 🇻🇳"
+    type: ss
+    server: 103.186.154.27
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 14 🇻🇳"
+    type: ss
+    server: 103.186.154.33
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 15 🇻🇳"
+    type: ss
+    server: 103.186.154.26
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 16 🇻🇳"
+    type: ss
+    server: 103.186.154.36
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 1 🇵🇹"
+    type: ss
+    server: 185.231.233.112
+    port: 989
+    cipher: aes-256-cfb
+    password: f8f7aCzcPKbsF8p3
+  - name: "DR-SS 2 🇸🇬"
+    type: ss
+    server: 68.183.227.236
+    port: 8080
+    cipher: rc4-md5
+    password: 14fFPrbezE3HDZzsMOr6
+  - name: "DR-SS 17 🇻🇳"
+    type: ss
+    server: 103.186.154.22
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 18 🇻🇳"
+    type: ss
+    server: 103.186.154.21
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 3 🇳🇱"
+    type: ss
+    server: 79.127.227.53
+    port: 989
+    cipher: aes-256-cfb
+    password: f8f7aCzcPKbsF8p3
+  - name: "DR-SS 19 🇻🇳"
+    type: ss
+    server: 103.186.154.31
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 20 🇻🇳"
+    type: ss
+    server: 103.186.155.22
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 21 🇻🇳"
+    type: ss
+    server: 103.186.155.23
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 3 🇸🇬"
+    type: ss
+    server: 68.183.235.122
+    port: 8080
+    cipher: rc4-md5
+    password: 14fFPrbezE3HDZzsMOr6
+  - name: "DR-SS 22 🇻🇳"
+    type: ss
+    server: 103.186.155.25
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 23 🇻🇳"
+    type: ss
+    server: 103.186.155.19
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 3 🇵🇱"
+    type: ss
+    server: 217.30.10.18
+    port: 9031
+    cipher: aes-256-cfb
+    password: BwcAUZk8hUFAkDGN
+  - name: "DR-SS 24 🇻🇳"
+    type: ss
+    server: 103.186.155.18
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 25 🇻🇳"
+    type: ss
+    server: 103.186.155.133
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 26 🇻🇳"
+    type: ss
+    server: 103.186.154.18
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 27 🇻🇳"
+    type: ss
+    server: 103.186.154.29
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 4 🇵🇱"
+    type: ss
+    server: 217.30.10.18
+    port: 9093
+    cipher: aes-256-cfb
+    password: wfLC2y7rzZyCmuyt
+  - name: "DR-SS 28 🇻🇳"
+    type: ss
+    server: 103.186.154.38
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  - name: "DR-SS 1 🇰🇷"
+    type: ss
+    server: 218.237.185.230
+    port: 4652
+    cipher: aes-256-cfb
+    password: qwerREWQ@@
+  - name: "DR-SS 29 🇻🇳"
+    type: ss
+    server: 103.186.154.35
+    port: 38388
+    cipher: aes-256-cfb
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
 
 proxy-groups:
   - name: "آشیانه ⛺️"
@@ -4199,6 +4445,7 @@ proxy-groups:
     proxies: 
       - "انتخاب هوشمند 🧠"
       - "hamedp71⚡"
+	  - "DR-Anv 💉"
       - "🇸🇪@hamedvpns"
       - "🇩🇪@hamedvpns"
       - "🏴‍☠️@hamedvpns"
@@ -4674,6 +4921,55 @@ proxy-groups:
       - "hamedp71🇳🇱 19"
       - "hamedp71❓ 66"
       - "hamedp71❓ 67"
+	  
+  - name: "DR-Anv 💉"
+    type: url-test
+    url: "http://www.google.com/generate_204"
+    interval: 30
+    tolerance: 100
+	proxies:
+	  - "DR-SS 1 🇻🇳"
+      - "DR-SS 2 🇻🇳"
+      - "DR-SS 3 🇻🇳"
+      - "DR-SS 1 🇵🇱"
+      - "DR-SS 1 🇳🇱"
+      - "DR-SS 4 🇻🇳"
+      - "DR-SS 5 🇻🇳"
+      - "DR-SS 2 🇳🇱"
+      - "DR-SS 6 🇻🇳"
+      - "DR-SS 7 🇻🇳"
+      - "DR-SS 1 🇸🇬"
+      - "DR-SS 2 🇵🇱"
+      - "DR-SS 8 🇻🇳"
+      - "DR-SS 9 🇻🇳"
+      - "DR-SS 10 🇻🇳"
+      - "DR-SS 11 🇻🇳"
+      - "DR-SS 12 🇻🇳"
+      - "DR-SS 13 🇻🇳"
+      - "DR-SS 14 🇻🇳"
+      - "DR-SS 15 🇻🇳"
+      - "DR-SS 16 🇻🇳"
+      - "DR-SS 1 🇵🇹"
+      - "DR-SS 2 🇸🇬"
+      - "DR-SS 17 🇻🇳"
+      - "DR-SS 18 🇻🇳"
+      - "DR-SS 3 🇳🇱"
+      - "DR-SS 19 🇻🇳"
+      - "DR-SS 20 🇻🇳"
+      - "DR-SS 21 🇻🇳"
+      - "DR-SS 3 🇸🇬"
+      - "DR-SS 22 🇻🇳"
+      - "DR-SS 23 🇻🇳"
+      - "DR-SS 3 🇵🇱"
+      - "DR-SS 24 🇻🇳"
+      - "DR-SS 25 🇻🇳"
+      - "DR-SS 26 🇻🇳"
+      - "DR-SS 27 🇻🇳"
+      - "DR-SS 4 🇵🇱"
+      - "DR-SS 28 🇻🇳"
+      - "DR-SS 1 🇰🇷"
+      - "DR-SS 29 🇻🇳"
+	
 
       
 rule-providers:
