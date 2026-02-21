@@ -4444,8 +4444,8 @@ proxy-groups:
     type: select
     proxies: 
       - "انتخاب هوشمند 🧠"
-	  - "DR-Anv 💉"
       - "hamedp71⚡"
+      - "DR-Anv 💉"
       - "🇸🇪@hamedvpns"
       - "🇩🇪@hamedvpns"
       - "🏴‍☠️@hamedvpns"
