@@ -4445,7 +4445,7 @@ proxy-groups:
     proxies: 
       - "انتخاب هوشمند 🧠"
       - "hamedp71⚡"
-- "DR-Anv 💉"
+      - "DR-Anv 💉"
       - "🇸🇪@hamedvpns"
       - "🇩🇪@hamedvpns"
       - "🏴‍☠️@hamedvpns"
