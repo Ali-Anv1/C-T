@@ -6703,7 +6703,6 @@ proxy-groups:
       - "DR-Anv 91"
       - "DR-Anv 92"
 
-      
 rule-providers:
   malware:
     type: http
