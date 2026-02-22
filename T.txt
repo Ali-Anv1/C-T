@@ -6964,7 +6964,7 @@ proxy-groups:
     url: "http://www.google.com/generate_204"
     interval: 30
     tolerance: 100
-	proxies:
+    proxies:
       - "DR-SS 2 🇻🇳"
       - "DR-SS 1 🇻🇳"
       - "DR-SS 3 🇻🇳"
