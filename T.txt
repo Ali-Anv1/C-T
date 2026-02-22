@@ -6027,6 +6027,362 @@ proxies:
         host: SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.
     tfo: false
     skip-cert-verify: false
+  - name: "DR-Anv-Hy2 01"
+    type: hysteria2
+    server: gavazn.lnmarketplace.net
+    port: 45000
+    password: "Telegram-->@Ln2Ray"
+    sni: gavazn.55994421.xyz
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "Telegram-->@Ln2Ray"
+  - name: "DR-Anv-Hy2 02"
+    type: hysteria2
+    server: gavazn.lnmarketplace.net
+    port: 45000
+    password: "Telegram-->@Ln2Ray"
+    sni: gavazn.55994421.xyz
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "Telegram-->@Ln2Ray"
+  - name: "DR-Anv-Hy2 03"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 35000
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 04"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 35000
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 🇩🇪 05"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 35000
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 06"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 35000
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 07"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 35000
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 08"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36300
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 09"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36300
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 10"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36300
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 11"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36300
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 12"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36300
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 13"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36400
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 14"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36400
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 15"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36600
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 16"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36600
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 17"
+    type: hysteria2
+    server: 206.71.158.37
+    port: 36600
+    password: Yet-Another-Public-Config-1
+    sni: YAPC-1.afshin.ir
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+  - name: "DR-Anv-Hy2 18"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: true
+  - name: "DR-Anv-Hy2 19"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: jnir.pichondan.com
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 20"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: jnir.pichondan.com
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 21"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 22"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: jnir.pichondan.com
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 23"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: jnir.pichondan.com
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 24"
+    type: hysteria2
+    server: 206.71.158.41
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: jnir.pichondan.com
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 25"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 26"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 27"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 28"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 29"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 30"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 31"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 32"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 33"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 34"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 35"
+    type: hysteria2
+    server: 5.175.249.174
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: false
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 36"
+    type: hysteria2
+    server: 77.90.41.197
+    port: 35000
+    password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+    sni: api.kermanshahi.org
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "DR-Anv-Hy2 🇮🇹 37"
+    type: hysteria2
+    server: 172.232.207.161
+    port: 6090
+    password: freeflyzone1
+    sni: www.azki.com
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
+  - name: "DR-Anv-Hy2 38"
+    type: hysteria2
+    server: 172.232.207.161
+    port: 6090
+    password: freeflyzone1
+    sni: www.azki.com
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
+  - name: "DR-Anv-Hy2 39"
+    type: hysteria2
+    server: 172.232.207.161
+    port: 6090
+    password: freeflyzone1
+    sni: www.azki.com
+    skip-cert-verify: true
+    obfs: salamander
+    obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
+  - name: "DR-Anv-Hy2 40"
+    type: hysteria2
+    server: "[2a01:4f9:4b:f378::1]"
+    port: 13599
+    password: linux.do
+    sni: www.bing.com
+    skip-cert-verify: true
 
 proxy-groups:
   - name: "آشیانه ⛺️"
@@ -6035,6 +6391,46 @@ proxy-groups:
       - "انتخاب هوشمند 🧠"
       - "hamedp71⚡"
       - "DR-Anv 💉"
+	    - "DR-Anv-Hy2 01"
+      - "DR-Anv-Hy2 02"
+      - "DR-Anv-Hy2 03"
+      - "DR-Anv-Hy2 04"
+      - "DR-Anv-Hy2 🇩🇪 05"
+      - "DR-Anv-Hy2 06"
+      - "DR-Anv-Hy2 07"
+      - "DR-Anv-Hy2 08"
+      - "DR-Anv-Hy2 09"
+      - "DR-Anv-Hy2 10"
+      - "DR-Anv-Hy2 11"
+      - "DR-Anv-Hy2 12"
+      - "DR-Anv-Hy2 13"
+      - "DR-Anv-Hy2 14"
+      - "DR-Anv-Hy2 15"
+      - "DR-Anv-Hy2 16"
+      - "DR-Anv-Hy2 17"
+      - "DR-Anv-Hy2 18"
+      - "DR-Anv-Hy2 19"
+      - "DR-Anv-Hy2 20"
+      - "DR-Anv-Hy2 21"
+      - "DR-Anv-Hy2 22"
+      - "DR-Anv-Hy2 23"
+      - "DR-Anv-Hy2 24"
+      - "DR-Anv-Hy2 25"
+      - "DR-Anv-Hy2 26"
+      - "DR-Anv-Hy2 27"
+      - "DR-Anv-Hy2 28"
+      - "DR-Anv-Hy2 29"
+      - "DR-Anv-Hy2 30"
+      - "DR-Anv-Hy2 31"
+      - "DR-Anv-Hy2 32"
+      - "DR-Anv-Hy2 33"
+      - "DR-Anv-Hy2 34"
+      - "DR-Anv-Hy2 35"
+      - "DR-Anv-Hy2 36"
+      - "DR-Anv-Hy2 🇮🇹 37"
+      - "DR-Anv-Hy2 38"
+      - "DR-Anv-Hy2 39"
+      - "DR-Anv-Hy2 40"
       - "🇸🇪@hamedvpns"
       - "🇩🇪@hamedvpns"
       - "🏴‍☠️@hamedvpns"
@@ -6568,7 +6964,7 @@ proxy-groups:
     url: "http://www.google.com/generate_204"
     interval: 30
     tolerance: 100
-    proxies:
+	proxies:
       - "DR-SS 2 🇻🇳"
       - "DR-SS 1 🇻🇳"
       - "DR-SS 3 🇻🇳"
@@ -6702,7 +7098,48 @@ proxy-groups:
       - "DR-Anv 🇳🇱 90"
       - "DR-Anv 91"
       - "DR-Anv 92"
+	    - "DR-Anv-Hy2 01"
+      - "DR-Anv-Hy2 02"
+      - "DR-Anv-Hy2 03"
+      - "DR-Anv-Hy2 04"
+      - "DR-Anv-Hy2 🇩🇪 05"
+      - "DR-Anv-Hy2 06"
+      - "DR-Anv-Hy2 07"
+      - "DR-Anv-Hy2 08"
+      - "DR-Anv-Hy2 09"
+      - "DR-Anv-Hy2 10"
+      - "DR-Anv-Hy2 11"
+      - "DR-Anv-Hy2 12"
+      - "DR-Anv-Hy2 13"
+      - "DR-Anv-Hy2 14"
+      - "DR-Anv-Hy2 15"
+      - "DR-Anv-Hy2 16"
+      - "DR-Anv-Hy2 17"
+      - "DR-Anv-Hy2 18"
+      - "DR-Anv-Hy2 19"
+      - "DR-Anv-Hy2 20"
+      - "DR-Anv-Hy2 21"
+      - "DR-Anv-Hy2 22"
+      - "DR-Anv-Hy2 23"
+      - "DR-Anv-Hy2 24"
+      - "DR-Anv-Hy2 25"
+      - "DR-Anv-Hy2 26"
+      - "DR-Anv-Hy2 27"
+      - "DR-Anv-Hy2 28"
+      - "DR-Anv-Hy2 29"
+      - "DR-Anv-Hy2 30"
+      - "DR-Anv-Hy2 31"
+      - "DR-Anv-Hy2 32"
+      - "DR-Anv-Hy2 33"
+      - "DR-Anv-Hy2 34"
+      - "DR-Anv-Hy2 35"
+      - "DR-Anv-Hy2 36"
+      - "DR-Anv-Hy2 🇮🇹 37"
+      - "DR-Anv-Hy2 38"
+      - "DR-Anv-Hy2 39"
+      - "DR-Anv-Hy2 40"
 
+      
 rule-providers:
   malware:
     type: http
